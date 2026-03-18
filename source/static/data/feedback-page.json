@@ -1,0 +1,19 @@
+{
+  "pageTitle": "Feedback",
+  "pageDescription": "Trang feedback lấy dữ liệu từ CMS để hiển thị ảnh học viên, lời nhận xét, khu vực tin nhắn và video review.",
+  "introEyebrow": "Khung feedback",
+  "introTitle": "Trang feedback đã chừa sẵn chỗ cho ảnh, tin nhắn và video review",
+  "introText": "Hiện nội dung đang là bản demo để hoàn thiện layout. Khi có dữ liệu thật, bạn chỉ cần thay ảnh học viên, lời nhận xét và link video.",
+  "messagesTitle": "Bố cục cho ảnh chụp tin nhắn thật",
+  "messagesBody": "Học xong phần này em đã nói được lúc giao ca.\n\nEm dùng được mẫu câu xác nhận hàng lỗi rồi ạ.\n\nNếu có thêm file PDF để ôn lại thì càng tiện.",
+  "videoEyebrow": "Video review",
+  "videoTitle": "Khu vực chờ video feedback thật",
+  "videoBody": "Trang này phù hợp để đặt 1 - 3 video review ngắn hoặc clip trích đoạn lớp học nhằm tăng độ tin tưởng cho khách mới.",
+  "videoUrl": "https://youtu.be/nA1Aqp0sPQo",
+  "cta": {
+    "title": "Có thể dùng feedback này để kéo sang khóa học hoặc trang contact",
+    "body": "Sau khi thay feedback thật, đây sẽ là một trong những trang hỗ trợ chuyển đổi tốt nhất cho website vì vừa có bằng chứng xã hội, vừa có CTA rõ ràng.",
+    "buttonLabel": "Đăng ký tư vấn",
+    "buttonUrl": "contact.html"
+  }
+}

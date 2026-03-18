@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "slug": "20-mau-cau-dung-moi-ngay-o-chuyen-san-xuat",
+      "title": "20 mẫu câu dùng mỗi ngày ở chuyền sản xuất",
+      "category": "Tiếng Trung công xưởng",
+      "tag": "Bài nền tảng",
+      "image": "images/blog/post-1.jpg",
+      "excerpt": "Dạng bài ngắn, trực tiếp, dễ kéo traffic từ người đang đi làm cần mẫu câu dùng ngay.",
+      "seoTitle": "20 mẫu câu dùng mỗi ngày ở chuyền sản xuất",
+      "seoDescription": "Mẫu bài blog về tiếng Trung công xưởng, phù hợp cho nội dung song ngữ và nhu cầu đi làm thực tế.",
+      "intro": "Bài viết mẫu này cho thấy cách triển khai blog theo định hướng học nhanh, dùng được ngay. Bạn có thể dùng cấu trúc này để đăng bài song ngữ Việt - Trung, kèm PDF hoặc checklist tải về để lấy lead.",
+      "sections": [
+        {
+          "heading": "Mẫu câu gợi ý",
+          "body": "Danh sách bên dưới chỉ là dữ liệu demo. Khi có nội dung thật, bạn thay từng bullet trực tiếp trong CMS.",
+          "items": [
+            "请再说一遍。 - Anh/chị vui lòng nói lại một lần nữa.",
+            "这个数量要确认一下。 - Số lượng này cần xác nhận lại.",
+            "这里有一个问题。 - Chỗ này có một vấn đề.",
+            "请帮我检查一下。 - Nhờ anh/chị kiểm tra giúp.",
+            "今天要赶货。 - Hôm nay cần đẩy tiến độ hàng.",
+            "这个要重新做。 - Cái này cần làm lại."
+          ]
+        },
+        {
+          "heading": "Cách dùng bài viết này trên website",
+          "body": "Loại bài này phù hợp để đặt CTA sang trang khóa học, trang feedback hoặc trang tài liệu. Nếu muốn tối ưu chuyển đổi, hãy gắn thêm nút sang Google Form hoặc Google Drive.",
+          "items": []
+        }
+      ],
+      "ctaLabel": "Xem trang tài liệu",
+      "ctaUrl": "resources.html",
+      "featured": true
+    },
+    {
+      "slug": "tu-vung-qc-song-ngu-de-nho-cho-nguoi-moi",
+      "title": "Từ vựng QC song ngữ dễ nhớ cho người mới",
+      "category": "Song ngữ Việt - Trung",
+      "tag": "PDF chuyển đổi",
+      "image": "images/blog/post-2.jpg",
+      "excerpt": "Có thể dẫn tiếp về trang tài liệu để lấy email tải PDF hoặc mở link Drive trực tiếp.",
+      "seoTitle": "Từ vựng QC song ngữ dễ nhớ cho người mới",
+      "seoDescription": "Bài viết mẫu về từ vựng QC song ngữ Việt - Trung dành cho người mới đi làm.",
+      "intro": "Đây là nhóm bài rất hợp để phát triển SEO và dẫn người đọc sang khu tài liệu miễn phí hoặc khóa học đi làm.",
+      "sections": [
+        {
+          "heading": "Nhóm từ vựng nên có",
+          "body": "Bạn có thể gom theo nhóm lỗi, cách báo lỗi và xác nhận kết quả kiểm tra.",
+          "items": [
+            "外观不良 - Lỗi ngoại quan",
+            "尺寸异常 - Kích thước bất thường",
+            "请再确认一次 - Vui lòng xác nhận lại một lần nữa",
+            "这个批次先隔离 - Tạm thời cách ly lô này"
+          ]
+        }
+      ],
+      "ctaLabel": "Xem khóa học liên quan",
+      "ctaUrl": "courses.html",
+      "featured": true
+    },
+    {
+      "slug": "5-cach-hoi-lai-khi-chua-nghe-ro-chi-dao",
+      "title": "5 cách hỏi lại khi chưa nghe rõ chỉ đạo",
+      "category": "Kinh nghiệm đi làm",
+      "tag": "Tình huống thực tế",
+      "image": "images/blog/post-3.jpg",
+      "excerpt": "Bài dạng thực chiến giúp người học thấy nội dung bám sát môi trường làm việc.",
+      "seoTitle": "5 cách hỏi lại khi chưa nghe rõ chỉ đạo",
+      "seoDescription": "Bài viết mẫu theo tình huống thực tế cho người làm việc với quản lý người Trung.",
+      "intro": "Nhóm nội dung này phù hợp cho cả blog SEO và social content, vì chạm đúng nỗi đau rất thật của người đang đi làm.",
+      "sections": [
+        {
+          "heading": "Khi nào nên dùng dạng bài này",
+          "body": "Loại bài này phù hợp để làm nội dung ngắn, có thể đọc nhanh và chia sẻ lại trong nhóm học viên.",
+          "items": [
+            "Khi mới chuyển sang bộ phận có nhiều chỉ đạo bằng tiếng Trung.",
+            "Khi làm việc dưới áp lực tiến độ và cần mẫu câu ngắn, an toàn.",
+            "Khi muốn chuyển traffic từ blog sang trang khóa học giao tiếp đi làm."
+          ]
+        }
+      ],
+      "ctaLabel": "Đăng ký tư vấn",
+      "ctaUrl": "contact.html",
+      "featured": true
+    }
+  ]
+}

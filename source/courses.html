@@ -1,0 +1,27 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm', {"courses": "active"})
+
+@@include('blocks/page-title.htm', {"page-link": "index.html", "page-title" : "Trang chủ" , "nasted" : "nasted" , "description" : "Trang khóa học tổng hợp đủ tên khóa, đối tượng, nội dung học, lộ trình, video demo, feedback, giá và CTA đăng ký.", "single-page-title": "Khóa học" })
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <span id="cms-courses-intro-eyebrow" class="section-label">Cấu trúc theo require</span>
+        <h2 id="cms-courses-intro-title" class="section-title">Trang khóa học đã được chuyển sang dạng tư vấn và chốt chuyển đổi</h2>
+        <div id="cms-courses-intro-text" class="mb-0 rich-text-content">Phần danh sách khóa học bên dưới dùng nội dung mẫu nhưng đã đúng cấu trúc để thay dữ liệu thật sau này. Mỗi khóa đều có đối tượng, nội dung học, lộ trình, video demo, feedback, giá và CTA.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    <div id="cms-courses-archive" class="row"></div>
+  </div>
+</section>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')

@@ -1,0 +1,24 @@
+{
+  "pageTitle": "Liên hệ",
+  "pageDescription": "Trang liên hệ được tối ưu theo hướng miễn phí: nút mở Google Form và phần thông tin liên hệ đồng bộ toàn site.",
+  "formTitle": "Đăng ký tư vấn qua Google Form",
+  "formDescription": "Để giữ hạ tầng miễn phí, trang này không còn xử lý form nội bộ. Bạn chỉ cần gắn link Google Form thật là đã có thể nhận đăng ký ngay.",
+  "googleFormLabel": "Mở Google Form",
+  "googleFormUrl": "https://forms.gle/REPLACE_ME",
+  "helperTitle": "Cách dùng trang này",
+  "helperBody": "Mọi thông tin hotline, email, Zalo và Facebook đều lấy từ phần cài đặt chung trong CMS. Khi bạn sửa một chỗ, toàn bộ header, footer và trang liên hệ sẽ tự đồng bộ.",
+  "steps": [
+    {
+      "title": "Bước 1",
+      "body": "Người xem bấm vào Google Form và để lại nhu cầu học."
+    },
+    {
+      "title": "Bước 2",
+      "body": "Bạn xem thông tin đã gửi trong Google Forms hoặc Google Sheets."
+    },
+    {
+      "title": "Bước 3",
+      "body": "Tư vấn lộ trình phù hợp rồi dẫn tiếp sang khóa học hoặc tài liệu."
+    }
+  ]
+}

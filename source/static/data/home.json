@@ -1,0 +1,78 @@
+{
+  "heroBackground": "images/banner/banner-1.jpg",
+  "heroSlides": [
+    {
+      "title": "Học tiếng Trung công xưởng, đi làm dùng được ngay",
+      "description": "Tập trung đúng mẫu câu nhà máy, chuyền sản xuất, kho, QC và giao tiếp với quản lý người Trung. Nội dung hiện đang là bản demo bố cục để bạn thay dữ liệu thật sau.",
+      "buttonLabel": "Xem khóa học",
+      "buttonUrl": "courses.html"
+    },
+    {
+      "title": "Học ngắn gọn, bám đúng tình huống thực tế trong xưởng",
+      "description": "Bài học được chia theo ca làm, bộ phận và tình huống giao tiếp thường gặp: nhận việc, báo lỗi, xác nhận số lượng, tiến độ, chất lượng và an toàn sản xuất.",
+      "buttonLabel": "Xem lộ trình mẫu",
+      "buttonUrl": "course-single.html"
+    },
+    {
+      "title": "Nhận tài liệu song ngữ và checklist đi làm miễn phí",
+      "description": "Website đã sẵn blog, tài liệu, feedback và CTA để bạn triển khai landing page nhiều tầng ngay cả khi chưa có đủ bộ ảnh và nội dung thật.",
+      "buttonLabel": "Nhận tài liệu",
+      "buttonUrl": "resources.html"
+    }
+  ],
+  "featureImage": "images/banner/banner-feature.png",
+  "features": [
+    {
+      "icon": "ti-book",
+      "title": "Học đúng ngữ cảnh công việc",
+      "description": "Mỗi bài học gắn với tình huống thực tế như nhận yêu cầu, kiểm hàng, báo lỗi, xác nhận tiến độ và giao ca."
+    },
+    {
+      "icon": "ti-blackboard",
+      "title": "Song ngữ Việt - Trung dễ nhớ",
+      "description": "Nội dung được trình bày rõ nghĩa, dễ tra cứu và phù hợp cho người mới bắt đầu hoặc đã đi làm lâu nhưng cần hệ thống lại."
+    },
+    {
+      "icon": "ti-agenda",
+      "title": "Lộ trình gọn cho người đi làm",
+      "description": "Bài học ngắn, bám nhu cầu thực chiến, có thể học theo tuần hoặc theo ca để không ảnh hưởng lịch làm việc."
+    },
+    {
+      "icon": "ti-write",
+      "title": "Có tài liệu và CTA rõ ràng",
+      "description": "Website đã có sẵn khu vực blog, tài liệu, feedback và nút hành động để bạn chạy quảng bá sau khi thay dữ liệu thật."
+    }
+  ],
+  "aboutPreview": {
+    "image": "images/about/about-us.jpg",
+    "title": "Lớp học được thiết kế cho người cần đi làm dùng được ngay",
+    "body": "Khung website này đang dùng nội dung mẫu để chốt bố cục, nhưng cấu trúc đã bám đúng mô hình của một website khóa học chuyên về tiếng Trung công xưởng: có landing page, khóa học, blog, tài liệu, feedback và trang đăng ký.\n\nĐiểm mạnh của định hướng này là không dạy lan man. Toàn bộ nội dung tập trung vào mẫu câu sản xuất, kho, chuyền, QC, giao tiếp với quản lý, biên bản bàn giao và các tình huống hay phát sinh trong ca làm.",
+    "buttonLabel": "Xem phần giới thiệu",
+    "buttonUrl": "about.html"
+  },
+  "courseSectionTitle": "Khóa học nổi bật",
+  "courseSectionText": "Mỗi khóa học đều có trang chi tiết riêng để bạn cập nhật đối tượng, nội dung học, lộ trình, học phí và CTA đăng ký qua CMS.",
+  "cta": {
+    "eyebrow": "Bộ quà tặng đầu phễu cho website",
+    "title": "Nhận ngay PDF từ vựng, file mẫu và checklist đi làm",
+    "buttonLabel": "Xem trang tài liệu",
+    "buttonUrl": "resources.html"
+  },
+  "video": {
+    "backgroundImage": "images/backgrounds/success-story.jpg",
+    "videoUrl": "https://youtu.be/nA1Aqp0sPQo",
+    "title": "Video demo bài học",
+    "description": "Phần này đã được bố trí đúng chỗ cho video demo. Sau này bạn chỉ cần thay link YouTube hoặc video thật của khóa học là xong.",
+    "points": [
+      "Demo cách dạy theo tình huống công xưởng.",
+      "Có thể thay bằng video feedback học viên hoặc trích đoạn lớp học.",
+      "Phù hợp để đặt giữa trang chủ nhằm tăng thời gian xem và độ tin tưởng."
+    ],
+    "buttonLabel": "Nhận tư vấn lộ trình",
+    "buttonUrl": "contact.html"
+  },
+  "feedbackSectionTitle": "Feedback học viên",
+  "feedbackSectionText": "Khung feedback này đang lấy dữ liệu từ file JSON để bạn có thể CRUD trực tiếp trong CMS mà không cần sửa HTML.",
+  "blogSectionTitle": "Blog song ngữ và kinh nghiệm đi làm",
+  "blogSectionText": "Khung blog đã được chuyển sang đúng định hướng: tiếng Trung công xưởng, song ngữ Việt - Trung, kinh nghiệm đi làm và bài ngắn học nhanh mỗi ngày."
+}

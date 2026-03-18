@@ -1,0 +1,27 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm', {"blog": "active"})
+
+@@include('blocks/page-title.htm', {"page-link": "index.html", "page-title" : "Trang chủ" , "nasted" : "nasted" , "description" : "Blog được tổ chức theo 4 nhóm nội dung: tiếng Trung công xưởng, song ngữ Việt - Trung, kinh nghiệm đi làm và học nhanh mỗi ngày.", "single-page-title": "Blog" })
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <span id="cms-blog-intro-eyebrow" class="section-label">Blog theo require</span>
+        <h2 id="cms-blog-intro-title" class="section-title">Khung blog đã sẵn để phát triển nội dung SEO và nuôi lead</h2>
+        <div id="cms-blog-intro-text" class="mb-0 rich-text-content">Toàn bộ bài viết mẫu bên dưới đang dùng nội dung demo, nhưng cấu trúc chuyên mục đã bám đúng yêu cầu để bạn bổ sung nội dung thật sau.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    <div id="cms-blog-archive" class="row"></div>
+  </div>
+</section>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')

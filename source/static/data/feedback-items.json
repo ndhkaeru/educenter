@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "slug": "tu-tin-hon-khi-giao-tiep-trong-ca-lam",
+      "name": "Học viên 1",
+      "title": "Tự tin hơn khi giao tiếp trong ca làm",
+      "image": "images/teachers/teacher-1.jpg",
+      "quote": "Em hiểu được cách xác nhận số lượng, nhờ kiểm tra lại và báo lỗi ngắn gọn hơn trước rất nhiều.",
+      "message": "Từ không biết bắt đầu từ đâu đến tự tin giao ca",
+      "featured": true
+    },
+    {
+      "slug": "hoc-toi-dau-dung-duoc-toi-do",
+      "name": "Học viên 2",
+      "title": "Học tới đâu dùng được tới đó",
+      "image": "images/teachers/teacher-2.jpg",
+      "quote": "Phần từ vựng chuyền, QC và nhắn nhóm làm việc rất sát với việc em đang làm ở xưởng.",
+      "message": "Tin nhắn thật và phản hồi sau từng buổi học",
+      "featured": true
+    },
+    {
+      "slug": "de-nho-vi-hoc-theo-tinh-huong",
+      "name": "Học viên 3",
+      "title": "Dễ nhớ vì học theo tình huống",
+      "image": "images/teachers/teacher-3.jpg",
+      "quote": "Không bị lan man như tự học, vào bài nào là có thể dùng ngay cho đúng tình huống đó.",
+      "message": "Có thể mở rộng thành video review riêng",
+      "featured": true
+    }
+  ]
+}

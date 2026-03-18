@@ -1,0 +1,92 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm')
+
+@@include('blocks/page-title.htm', { "page-title" : "Khóa học", "page-link": "courses.html", "single-page-title":
+"Lộ trình mẫu", "nasted": "nasted", "description" : "Trang mẫu chi tiết cho một khóa học flagship, sẵn để bạn thay nội dung thật, video demo, feedback và bảng giá." })
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-4">
+        <img id="cms-course-single-image" src="images/courses/course-single.jpg" class="img-fluid w-100" alt="Lộ trình mẫu tiếng Trung công xưởng">
+      </div>
+    </div>
+    <div class="row align-items-center mb-5">
+      <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
+        <h2 id="cms-course-single-title">Lộ trình mẫu flagship</h2>
+      </div>
+      <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
+        <ul class="list-inline text-xl-center">
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-book text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">ĐỐI TƯỢNG</h6>
+                <p id="cms-course-single-audience-label" class="mb-0">Online hoặc nhóm nhỏ</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-alarm-clock text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">THỜI LƯỢNG</h6>
+                <p id="cms-course-single-duration" class="mb-0">8 tuần</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-wallet text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">HỌC PHÍ</h6>
+                <p id="cms-course-single-price" class="mb-0">Cập nhật theo hình thức</p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
+        <a id="cms-course-single-button" href="contact.html" class="btn btn-primary">Đăng ký tư vấn</a>
+      </div>
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3>Tổng quan khóa học</h3>
+        <div id="cms-course-single-overview" class="rich-text-content">Đây là trang chi tiết mẫu dành cho khóa flagship của website.</div>
+      </div>
+      <div class="col-12 mb-4">
+        <h3 class="mb-3">Khóa học phù hợp với ai</h3>
+        <div id="cms-course-single-audience" class="row"></div>
+      </div>
+      <div class="col-12 mb-4">
+        <h3 class="mb-3">Nội dung học</h3>
+        <ul id="cms-course-single-curriculum" class="list-styled"></ul>
+      </div>
+      <div class="col-12 mb-5">
+        <h3>Kết quả nhận được</h3>
+        <ul id="cms-course-single-outcomes" class="list-styled"></ul>
+        <a id="cms-course-single-secondary-button" href="resources.html" class="btn btn-outline-primary mr-3 mb-3">Xem trang tài liệu</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">Khóa học liên quan</h2>
+      </div>
+    </div>
+    <div id="cms-course-related" class="row"></div>
+  </div>
+</section>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')

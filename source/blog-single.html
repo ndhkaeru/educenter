@@ -1,0 +1,53 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm')
+
+@@include('blocks/page-title.htm', { "page-title" : "Blog", "page-link": "blog.html", "single-page-title":
+"Chi tiết bài viết", "nasted": "nasted", "description" : "Ví dụ trang blog chi tiết với nội dung song ngữ Việt - Trung, phù hợp cho bài học ngắn và bài SEO theo nhu cầu đi làm thực tế." })
+
+<section class="section-sm bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-4">
+        <img id="cms-blog-single-image" src="images/blog/blog-single.jpg" alt="Bài viết chi tiết tiếng Trung công xưởng" class="img-fluid w-100">
+      </div>
+      <div class="col-12">
+        <ul class="list-inline">
+          <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">Chuyên mục:</span><span id="cms-blog-single-category">Tiếng Trung công xưởng</span></li>
+          <li id="cms-blog-single-tag" class="list-inline-item mr-4 mb-3 mb-md-0 text-light">Nội dung mẫu</li>
+          <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><a id="cms-blog-single-inline-link" class="text-light" href="resources.html"><i class="ti-arrow-right mr-2"></i><span id="cms-blog-single-inline-text">Xem CTA</span></a></li>
+        </ul>
+      </div>
+      <div class="col-12 mt-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+      <div class="col-12 mb-5">
+        <h2 id="cms-blog-single-title">20 mẫu câu dùng mỗi ngày ở chuyền sản xuất</h2>
+        <div id="cms-blog-single-intro" class="rich-text-content">Bài viết mẫu này cho thấy cách triển khai blog theo định hướng học nhanh, dùng được ngay.</div>
+        <div id="cms-blog-single-sections"></div>
+      </div>
+      <div class="col-12">
+        <div class="contact-card">
+          <h3 class="mb-3">CTA cuối bài</h3>
+          <p class="mb-3">Nút dưới đây sẽ lấy theo từng bài trong CMS. Bạn có thể đổi sang trang tài liệu, Google Form hoặc trang khóa học.</p>
+          <a id="cms-blog-single-button" href="resources.html" class="btn btn-primary">Xem trang tài liệu</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">Bài viết liên quan</h2>
+      </div>
+    </div>
+    <div id="cms-blog-related" class="row"></div>
+  </div>
+</section>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')

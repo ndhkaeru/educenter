@@ -1,0 +1,23 @@
+.filter-controls{
+  li{
+    cursor: pointer;
+    transition: .1s ease;
+    &.active{
+      font-weight: 600;
+      color: $primary-color;
+    }
+    &:hover{
+      color: $primary-color;
+    }
+  }
+}
+
+.detail-section {
+  scroll-margin-top: 120px;
+}
+
+.link-list {
+  li + li {
+    margin-top: 10px;
+  }
+}

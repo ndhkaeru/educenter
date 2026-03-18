@@ -1,0 +1,600 @@
+media:
+  - name: branding
+    label: Branding
+    input: source/images
+    output: images
+    path: ""
+    extensions: [png, jpg, jpeg, webp, svg, ico, gif]
+  - name: banner_images
+    label: Banner
+    input: source/images/banner
+    output: images/banner
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+  - name: about_images
+    label: About
+    input: source/images/about
+    output: images/about
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+  - name: blog_images
+    label: Blog
+    input: source/images/blog
+    output: images/blog
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+  - name: course_images
+    label: Courses
+    input: source/images/courses
+    output: images/courses
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+  - name: feedback_images
+    label: Feedback
+    input: source/images/teachers
+    output: images/teachers
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+  - name: resource_images
+    label: Resources
+    input: source/images/research
+    output: images/research
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+  - name: background_images
+    label: Backgrounds
+    input: source/images/backgrounds
+    output: images/backgrounds
+    path: ""
+    extensions: [png, jpg, jpeg, webp]
+
+content:
+  - name: site
+    label: Cai dat chung
+    type: file
+    path: source/static/data/site.json
+    format: json
+    fields:
+      - { name: siteName, label: Ten website, type: string, required: true }
+      - { name: defaultMetaTitle, label: Tieu de mac dinh, type: string, required: true }
+      - { name: defaultMetaDescription, label: Mo ta mac dinh, type: text, required: true }
+      - name: brandDescription
+        label: Mo ta thuong hieu
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - name: logo
+        label: Logo
+        type: image
+        required: true
+        options:
+          media: branding
+          extensions: [png, jpg, jpeg, webp, svg]
+      - name: favicon
+        label: Favicon
+        type: image
+        required: true
+        options:
+          media: branding
+          extensions: [png, jpg, jpeg, webp, svg, ico]
+      - { name: hotlineText, label: Hotline hien thi, type: string, required: true }
+      - { name: hotlineHref, label: Link hotline, type: string, required: true }
+      - { name: emailText, label: Email hien thi, type: string, required: true }
+      - { name: emailHref, label: Link email, type: string, required: true }
+      - { name: zaloText, label: Zalo hien thi, type: string, required: true }
+      - { name: zaloUrl, label: Link Zalo, type: string, required: true }
+      - { name: facebookText, label: Facebook hien thi, type: string, required: true }
+      - { name: facebookUrl, label: Link Facebook, type: string, required: true }
+      - { name: address, label: Dia chi hoac khu vuc phuc vu, type: string, required: true }
+      - { name: copyright, label: Copyright, type: string, required: true }
+      - { name: leadBannerTitle, label: Tieu de footer CTA, type: string, required: true }
+      - name: leadBannerText
+        label: Mo ta footer CTA
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - { name: leadBannerButtonLabel, label: Nut footer CTA, type: string, required: true }
+      - { name: leadBannerButtonUrl, label: Link footer CTA, type: string, required: true }
+
+  - name: home
+    label: Trang chu
+    type: file
+    path: source/static/data/home.json
+    format: json
+    fields:
+      - name: heroBackground
+        label: Anh nen hero
+        type: image
+        required: true
+        options:
+          media: banner_images
+      - name: heroSlides
+        label: Hero slides
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: description
+            label: Mo ta
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+      - name: featureImage
+        label: Anh feature
+        type: image
+        required: true
+        options:
+          media: banner_images
+      - name: features
+        label: The loi ich
+        type: object
+        list: true
+        fields:
+          - { name: icon, label: Icon Themify, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: description
+            label: Mo ta
+            type: rich-text
+            required: true
+            options:
+              media: false
+      - name: aboutPreview
+        label: Gioi thieu ngan tren trang chu
+        type: object
+        fields:
+          - name: image
+            label: Anh
+            type: image
+            required: true
+            options:
+              media: about_images
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+      - { name: courseSectionTitle, label: Tieu de khoa hoc, type: string, required: true }
+      - name: courseSectionText
+        label: Mo ta khoa hoc
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - name: cta
+        label: CTA giua trang
+        type: object
+        fields:
+          - { name: eyebrow, label: Eyebrow, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+      - name: video
+        label: Khu video demo
+        type: object
+        fields:
+          - name: backgroundImage
+            label: Anh nen
+            type: image
+            required: true
+            options:
+              media: background_images
+          - { name: videoUrl, label: Link video, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: description
+            label: Mo ta
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - name: points
+            label: Diem nhan
+            type: text
+            list: true
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+      - { name: feedbackSectionTitle, label: Tieu de feedback, type: string, required: true }
+      - name: feedbackSectionText
+        label: Mo ta feedback
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - { name: blogSectionTitle, label: Tieu de blog, type: string, required: true }
+      - name: blogSectionText
+        label: Mo ta blog
+        type: rich-text
+        required: true
+        options:
+          media: false
+
+  - name: about
+    label: Trang gioi thieu
+    type: file
+    path: source/static/data/about.json
+    format: json
+    fields:
+      - { name: pageTitle, label: Ten trang, type: string, required: true }
+      - { name: pageDescription, label: Mo ta trang, type: text, required: true }
+      - name: heroImage
+        label: Anh gioi thieu
+        type: image
+        required: true
+        options:
+          media: about_images
+      - { name: eyebrow, label: Eyebrow, type: string, required: true }
+      - { name: title, label: Tieu de chinh, type: string, required: true }
+      - name: body
+        label: Noi dung
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - name: cards
+        label: The thong tin
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+      - name: stats
+        label: The so lieu
+        type: object
+        list: true
+        fields:
+          - { name: number, label: So, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+      - name: cta
+        label: CTA cuoi trang
+        type: object
+        fields:
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+
+  - name: contact
+    label: Trang lien he
+    type: file
+    path: source/static/data/contact.json
+    format: json
+    fields:
+      - { name: pageTitle, label: Ten trang, type: string, required: true }
+      - { name: pageDescription, label: Mo ta trang, type: text, required: true }
+      - { name: formTitle, label: Tieu de khoi Google Form, type: string, required: true }
+      - name: formDescription
+        label: Mo ta khoi Google Form
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - { name: googleFormLabel, label: Ten nut Google Form, type: string, required: true }
+      - { name: googleFormUrl, label: Link Google Form, type: string, required: true }
+      - { name: helperTitle, label: Tieu de khoi huong dan, type: string, required: true }
+      - name: helperBody
+        label: Noi dung khoi huong dan
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - name: steps
+        label: Cac buoc
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+
+  - name: blog_page
+    label: Trang blog
+    type: file
+    path: source/static/data/blog-page.json
+    format: json
+    fields:
+      - { name: pageTitle, label: Ten trang, type: string, required: true }
+      - { name: pageDescription, label: Mo ta trang, type: text, required: true }
+      - { name: introEyebrow, label: Eyebrow, type: string, required: true }
+      - { name: introTitle, label: Tieu de mo dau, type: string, required: true }
+      - name: introText
+        label: Noi dung mo dau
+        type: rich-text
+        required: true
+        options:
+          media: false
+
+  - name: courses_page
+    label: Trang khoa hoc
+    type: file
+    path: source/static/data/courses-page.json
+    format: json
+    fields:
+      - { name: pageTitle, label: Ten trang, type: string, required: true }
+      - { name: pageDescription, label: Mo ta trang, type: text, required: true }
+      - { name: introEyebrow, label: Eyebrow, type: string, required: true }
+      - { name: introTitle, label: Tieu de mo dau, type: string, required: true }
+      - name: introText
+        label: Noi dung mo dau
+        type: rich-text
+        required: true
+        options:
+          media: false
+
+  - name: resources_page
+    label: Trang tai lieu
+    type: file
+    path: source/static/data/resources-page.json
+    format: json
+    fields:
+      - { name: pageTitle, label: Ten trang, type: string, required: true }
+      - { name: pageDescription, label: Mo ta trang, type: text, required: true }
+      - { name: introEyebrow, label: Eyebrow, type: string, required: true }
+      - { name: introTitle, label: Tieu de mo dau, type: string, required: true }
+      - name: introText
+        label: Noi dung mo dau
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - name: showcase
+        label: Khoi Google Drive
+        type: object
+        fields:
+          - name: image
+            label: Anh
+            type: image
+            required: true
+            options:
+              media: resource_images
+          - { name: eyebrow, label: Eyebrow, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+
+  - name: feedback_page
+    label: Trang feedback
+    type: file
+    path: source/static/data/feedback-page.json
+    format: json
+    fields:
+      - { name: pageTitle, label: Ten trang, type: string, required: true }
+      - { name: pageDescription, label: Mo ta trang, type: text, required: true }
+      - { name: introEyebrow, label: Eyebrow, type: string, required: true }
+      - { name: introTitle, label: Tieu de mo dau, type: string, required: true }
+      - name: introText
+        label: Noi dung mo dau
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - { name: messagesTitle, label: Tieu de khoi tin nhan, type: string, required: true }
+      - name: messagesBody
+        label: Noi dung khoi tin nhan
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - { name: videoEyebrow, label: Eyebrow video, type: string, required: true }
+      - { name: videoTitle, label: Tieu de video, type: string, required: true }
+      - name: videoBody
+        label: Noi dung video
+        type: rich-text
+        required: true
+        options:
+          media: false
+      - { name: videoUrl, label: Link video, type: string, required: true }
+      - name: cta
+        label: CTA cuoi trang
+        type: object
+        fields:
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: body
+            label: Noi dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: buttonUrl, label: Link nut, type: string, required: true }
+
+  - name: blog_posts
+    label: Bai viet blog
+    type: file
+    path: source/static/data/blog-posts.json
+    format: json
+    fields:
+      - name: items
+        label: Danh sach bai viet
+        type: object
+        list: true
+        fields:
+          - { name: slug, label: Slug, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - { name: category, label: Chuyen muc, type: string, required: true }
+          - { name: tag, label: Nhan phu, type: string, required: true }
+          - name: image
+            label: Anh dai dien
+            type: image
+            required: true
+            options:
+              media: blog_images
+          - name: excerpt
+            label: Mo ta ngan
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: seoTitle, label: SEO title, type: string, required: true }
+          - { name: seoDescription, label: SEO description, type: text, required: true }
+          - name: intro
+            label: Mo dau bai viet
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - name: sections
+            label: Cac section bai viet
+            type: object
+            list: true
+            fields:
+              - { name: heading, label: Tieu de section, type: string, required: true }
+              - name: body
+                label: Noi dung section
+                type: rich-text
+                required: true
+                options:
+                  media: false
+              - name: items
+                label: Bullet list
+                type: text
+                list: true
+          - { name: ctaLabel, label: Ten nut cuoi bai, type: string, required: true }
+          - { name: ctaUrl, label: Link nut cuoi bai, type: string, required: true }
+          - { name: featured, label: Noi bat tren trang chu, type: boolean, default: true }
+
+  - name: courses
+    label: Khoa hoc
+    type: file
+    path: source/static/data/courses-items.json
+    format: json
+    fields:
+      - name: items
+        label: Danh sach khoa hoc
+        type: object
+        list: true
+        fields:
+          - { name: slug, label: Slug, type: string, required: true }
+          - { name: title, label: Ten khoa hoc, type: string, required: true }
+          - { name: audienceLabel, label: Nhan doi tuong, type: string, required: true }
+          - { name: duration, label: Thoi luong, type: string, required: true }
+          - { name: priceText, label: Hoc phi hien thi, type: string, required: true }
+          - name: image
+            label: Anh dai dien
+            type: image
+            required: true
+            options:
+              media: course_images
+          - name: excerpt
+            label: Mo ta ngan
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: seoTitle, label: SEO title, type: string, required: true }
+          - { name: seoDescription, label: SEO description, type: text, required: true }
+          - name: overview
+            label: Tong quan
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - name: audience
+            label: Doi tuong phu hop
+            type: text
+            list: true
+          - name: curriculum
+            label: Noi dung hoc
+            type: text
+            list: true
+          - name: outcomes
+            label: Ket qua nhan duoc
+            type: text
+            list: true
+          - { name: ctaLabel, label: Ten nut chinh, type: string, required: true }
+          - { name: ctaUrl, label: Link nut chinh, type: string, required: true }
+          - { name: secondaryLabel, label: Ten nut phu, type: string, required: true }
+          - { name: secondaryUrl, label: Link nut phu, type: string, required: true }
+          - { name: featured, label: Noi bat tren trang chu, type: boolean, default: true }
+
+  - name: feedback
+    label: Feedback
+    type: file
+    path: source/static/data/feedback-items.json
+    format: json
+    fields:
+      - name: items
+        label: Danh sach feedback
+        type: object
+        list: true
+        fields:
+          - { name: slug, label: Slug, type: string, required: true }
+          - { name: name, label: Ten hoc vien, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: image
+            label: Anh hoc vien
+            type: image
+            required: true
+            options:
+              media: feedback_images
+          - name: quote
+            label: Loi trich
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: message, label: Loi nhan manh, type: string, required: true }
+          - { name: featured, label: Noi bat tren trang chu, type: boolean, default: true }
+
+  - name: resources
+    label: Tai lieu
+    type: file
+    path: source/static/data/resource-items.json
+    format: json
+    fields:
+      - name: items
+        label: Danh sach tai lieu
+        type: object
+        list: true
+        fields:
+          - { name: slug, label: Slug, type: string, required: true }
+          - { name: label, label: Nhan card, type: string, required: true }
+          - { name: title, label: Tieu de, type: string, required: true }
+          - name: image
+            label: Anh card
+            type: image
+            required: true
+            options:
+              media: resource_images
+          - name: description
+            label: Mo ta
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Ten nut, type: string, required: true }
+          - { name: url, label: Link Google Drive, type: string, required: true }
+          - { name: featured, label: Noi bat tren trang chu, type: boolean, default: true }

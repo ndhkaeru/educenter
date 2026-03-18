@@ -1,0 +1,15 @@
+{
+  "pageTitle": "Tài liệu",
+  "pageDescription": "Trang tài liệu lấy danh sách card từ CMS. Mỗi card có thể mở trực tiếp Google Drive hoặc thư mục tài liệu tương ứng.",
+  "introEyebrow": "Tài liệu miễn phí",
+  "introTitle": "Khung tài liệu đã sẵn để giữ lead và hỗ trợ học viên",
+  "introText": "Mỗi tài liệu là một card riêng trong CMS. Khi click vào card hoặc nút, người dùng sẽ được mở link Google Drive mà bạn đã gắn.",
+  "showcase": {
+    "image": "images/research/research-1.jpg",
+    "eyebrow": "Google Drive",
+    "title": "Tài liệu hiện được lưu ngoài website để giữ chi phí bằng 0",
+    "body": "Bạn có thể tạo một thư mục Drive chung cho toàn bộ PDF, checklist và file mẫu. Trang web chỉ hiển thị card mô tả, còn file thật nằm ở Drive để không tốn thêm hạ tầng.",
+    "buttonLabel": "Mở thư mục tài liệu",
+    "buttonUrl": "https://drive.google.com/drive/folders/REPLACE_ME"
+  }
+}

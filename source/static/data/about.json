@@ -1,0 +1,50 @@
+{
+  "pageTitle": "Giới thiệu",
+  "pageDescription": "Trang giới thiệu đã được viết lại theo 3 phần chính: thông tin cá nhân, kinh nghiệm và sứ mệnh.",
+  "heroImage": "images/about/about-page.jpg",
+  "eyebrow": "Thông tin cá nhân",
+  "title": "Khung giới thiệu cá nhân đã sẵn để thay nội dung thật",
+  "body": "Trang này được viết lại để đúng vai trò giới thiệu người đứng sau khóa học, thay vì nội dung chung chung của template cũ. Khi có dữ liệu thật, bạn chỉ cần thay ảnh, tên, câu chuyện cá nhân và các mốc kinh nghiệm chính.\n\nNội dung hiện tại giữ ở mức trung tính để dễ tùy biến: phù hợp cho cả mô hình một giảng viên cá nhân, một trung tâm nhỏ hoặc một thương hiệu khóa học chuyên biệt.",
+  "cards": [
+    {
+      "title": "Kinh nghiệm",
+      "body": "Có thể dùng phần này để trình bày kinh nghiệm dạy học, kinh nghiệm làm việc với môi trường công xưởng hoặc kinh nghiệm hỗ trợ người đi làm sử dụng tiếng Trung trong thực tế."
+    },
+    {
+      "title": "Thế mạnh",
+      "body": "Nhấn mạnh điểm khác biệt: dạy theo tình huống thật, song ngữ Việt - Trung rõ ràng, nội dung dễ nhớ, lộ trình ngắn và phù hợp lịch làm việc theo ca."
+    },
+    {
+      "title": "Sứ mệnh",
+      "body": "Giúp người đi làm bớt áp lực khi giao tiếp với quản lý hoặc đồng nghiệp người Trung, từ đó làm việc tự tin hơn và mở rộng cơ hội nghề nghiệp."
+    }
+  ],
+  "stats": [
+    {
+      "number": "3",
+      "title": "Trụ cột nội dung",
+      "body": "Từ vựng, hội thoại, tình huống đi làm."
+    },
+    {
+      "number": "8",
+      "title": "Tuần lộ trình mẫu",
+      "body": "Đủ để chốt một trang course flagship."
+    },
+    {
+      "number": "2",
+      "title": "Ngôn ngữ trình bày",
+      "body": "Việt - Trung rõ ràng và dễ tra cứu."
+    },
+    {
+      "number": "1",
+      "title": "Mục tiêu chính",
+      "body": "Đi làm dùng được ngay."
+    }
+  ],
+  "cta": {
+    "title": "Website này hiện phù hợp để triển khai landing page nhiều tầng",
+    "body": "Bạn đã có trang chủ, khóa học, blog, tài liệu, feedback và contact. Khi bổ sung ảnh, video, feedback thật và thông tin liên hệ thật, site có thể đi vào sử dụng cho quảng bá, chạy ads hoặc SEO nội dung.",
+    "buttonLabel": "Nhận tư vấn triển khai",
+    "buttonUrl": "contact.html"
+  }
+}

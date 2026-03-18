@@ -1,0 +1,7 @@
+{
+  "pageTitle": "Khóa học",
+  "pageDescription": "Trang khóa học tổng hợp đủ tên khóa, đối tượng, nội dung học, lộ trình, giá và CTA. Cách hiển thị được tối ưu gần giống blog để dễ CRUD.",
+  "introEyebrow": "Cấu trúc theo require",
+  "introTitle": "Trang khóa học đã được chuyển sang kiểu danh sách dễ quản trị",
+  "introText": "Mỗi khóa học là một mục dữ liệu riêng trong CMS. Khi cần, bạn chỉ việc sửa card, nội dung chi tiết và link CTA tại một chỗ."
+}

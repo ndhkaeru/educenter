@@ -1,0 +1,48 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm', {"contact": "active"})
+
+@@include('blocks/page-title.htm', {"page-link": "index.html", "page-title" : "Trang chủ" , "nasted" : "nasted" , "description" : "Trang liên hệ đã được chuyển thành trang đăng ký tư vấn với form tĩnh sẵn để nối Netlify Forms hoặc dịch vụ nhận lead khác.", "single-page-title": "Liên hệ" })
+
+<section class="section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 mb-4 mb-lg-0">
+        <div class="contact-card">
+          <h2 id="cms-contact-form-title" class="section-title">Đăng ký tư vấn qua Google Form</h2>
+          <div id="cms-contact-form-description" class="mb-4 rich-text-content">Để giữ hạ tầng miễn phí, trang này không còn xử lý form nội bộ.</div>
+          <a id="cms-contact-form-button" href="https://forms.gle/REPLACE_ME" class="btn btn-primary" target="_blank" rel="noopener">Mở Google Form</a>
+        </div>
+      </div>
+      <div class="col-lg-5">
+        <div class="contact-card mb-4">
+          <h3 class="mb-3">Kênh liên hệ nhanh</h3>
+          <ul class="link-list list-unstyled mb-0">
+            <li><a href="https://zalo.me/0900000000" class="text-color cms-zalo-link">Zalo: <span class="cms-zalo-text">zalo.me/0900000000</span></a></li>
+            <li><a href="https://facebook.com/tiengtrungcongxuong365" class="text-color cms-facebook-link">Facebook: <span class="cms-facebook-text">facebook.com/tiengtrungcongxuong365</span></a></li>
+            <li><a href="mailto:hello@tiengtrungcongxuong.vn" class="text-color cms-email-link">Email: <span class="cms-email-text">hello@tiengtrungcongxuong.vn</span></a></li>
+            <li><a href="tel:+84900000000" class="text-color cms-hotline-link">Hotline: <span class="cms-hotline-text">09xx xxx xxx</span></a></li>
+          </ul>
+        </div>
+        <div class="contact-card mb-4">
+          <h3 id="cms-contact-helper-title" class="mb-3">Cách dùng trang này</h3>
+          <div id="cms-contact-helper-body" class="mb-0 rich-text-content">Hiện form đã có thể dùng theo kiểu static-friendly.</div>
+        </div>
+        <div class="contact-card">
+          <h3 class="mb-3">Lưu ý</h3>
+          <p class="mb-0">Thông tin liên hệ hiện là placeholder để hoàn thiện khung website. Trước khi chạy chính thức, bạn chỉ cần thay số điện thoại, link Zalo, Facebook, email và Google Form thật trong CMS.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    <div id="cms-contact-steps" class="row"></div>
+  </div>
+</section>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')

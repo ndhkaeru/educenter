@@ -1,0 +1,22 @@
+{
+  "siteName": "Tiếng Trung Công Xưởng 365",
+  "defaultMetaTitle": "Tiếng Trung Công Xưởng 365",
+  "defaultMetaDescription": "Website giới thiệu khóa học tiếng Trung công xưởng dành cho người đi làm. Học nhanh, bám tình huống thực tế, dùng được ngay trong nhà máy và môi trường sản xuất.",
+  "brandDescription": "Website giới thiệu chương trình tiếng Trung công xưởng, tập trung vào mẫu câu đi làm, giao tiếp tại xưởng, kho, chuyền sản xuất và tình huống song ngữ Việt - Trung.",
+  "logo": "images/logo.png",
+  "favicon": "images/favicon.png",
+  "hotlineText": "09xx xxx xxx",
+  "hotlineHref": "tel:+84900000000",
+  "emailText": "hello@tiengtrungcongxuong.vn",
+  "emailHref": "mailto:hello@tiengtrungcongxuong.vn",
+  "zaloText": "zalo.me/0900000000",
+  "zaloUrl": "https://zalo.me/0900000000",
+  "facebookText": "facebook.com/tiengtrungcongxuong365",
+  "facebookUrl": "https://facebook.com/tiengtrungcongxuong365",
+  "address": "Khu vực dạy online toàn quốc",
+  "copyright": "Tiếng Trung Công Xưởng 365",
+  "leadBannerTitle": "Nhận bộ tài liệu tiếng Trung công xưởng miễn phí",
+  "leadBannerText": "Tất cả tài liệu hiện có thể lưu trên Google Drive. Bạn chỉ cần đổi tiêu đề, mô tả và nút này trong CMS là toàn site sẽ cập nhật theo.",
+  "leadBannerButtonLabel": "Mở trang tài liệu",
+  "leadBannerButtonUrl": "resources.html"
+}

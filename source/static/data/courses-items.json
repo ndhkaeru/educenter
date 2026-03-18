@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "slug": "khoa-nen-tang-tieng-trung-cong-xuong",
+      "title": "Khóa nền tảng tiếng Trung công xưởng",
+      "audienceLabel": "Người mới bắt đầu",
+      "duration": "4 tuần",
+      "priceText": "Liên hệ để nhận báo giá",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Làm quen phát âm, mẫu câu chào hỏi, câu lệnh cơ bản và từ vựng thường gặp trong môi trường nhà máy.",
+      "seoTitle": "Khóa nền tảng tiếng Trung công xưởng",
+      "seoDescription": "Khóa học nền tảng dành cho người mới bắt đầu học tiếng Trung công xưởng.",
+      "overview": "Phù hợp cho người chưa có gốc hoặc học lâu rồi quên. Mục tiêu là xây nền phát âm, nhận biết mẫu câu cơ bản và đủ tự tin để bước vào khóa giao tiếp đi làm.",
+      "audience": [
+        "Người mới bắt đầu học tiếng Trung.",
+        "Người sắp vào nhà máy có yếu tố Trung Quốc.",
+        "Người cần hệ thống lại phát âm và mẫu câu nền."
+      ],
+      "curriculum": [
+        "Phát âm cơ bản và cách nghe âm dễ nhầm.",
+        "Mẫu câu chào hỏi, xác nhận, nhờ lặp lại.",
+        "Từ vựng bộ phận, ca làm, số lượng, lỗi cơ bản."
+      ],
+      "outcomes": [
+        "Tự tin hơn khi nghe và lặp lại mẫu câu cơ bản.",
+        "Có nền để học tiếp khóa giao tiếp đi làm.",
+        "Có thể dùng tài liệu song ngữ để ôn lại sau buổi học."
+      ],
+      "ctaLabel": "Đăng ký tư vấn",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem trang tài liệu",
+      "secondaryUrl": "resources.html",
+      "featured": true
+    },
+    {
+      "slug": "khoa-giao-tiep-di-lam-dung-duoc-ngay",
+      "title": "Khóa giao tiếp đi làm dùng được ngay",
+      "audienceLabel": "Người đang đi làm",
+      "duration": "6 tuần",
+      "priceText": "Liên hệ để nhận báo giá",
+      "image": "images/courses/course-2.jpg",
+      "excerpt": "Tập trung vào hội thoại giữa nhân viên, quản lý, QC, kho và khách Trung trong các tình huống phát sinh hằng ngày.",
+      "seoTitle": "Khóa giao tiếp đi làm dùng được ngay",
+      "seoDescription": "Khóa học thực chiến dành cho người đang đi làm trong môi trường có sử dụng tiếng Trung.",
+      "overview": "Đây là khóa trọng tâm của website. Nội dung tập trung vào câu nói thực chiến ở chuyền, kho, QC, kiểm hàng, bàn giao và làm việc với quản lý người Trung.",
+      "audience": [
+        "Người đã đi làm nhưng giao tiếp còn yếu.",
+        "Trưởng nhóm, QC, kho, admin sản xuất.",
+        "Người cần dùng câu mẫu càng sớm càng tốt."
+      ],
+      "curriculum": [
+        "Nhận việc, hỏi lại, xác nhận tiến độ.",
+        "Báo lỗi, giải thích nguyên nhân, nhờ hỗ trợ.",
+        "Mẫu câu nhắn nhóm, giao ca, làm báo cáo ngắn."
+      ],
+      "outcomes": [
+        "Biết cách xử lý các tình huống giao tiếp phổ biến trong ca làm.",
+        "Có bộ câu mẫu dùng được ngay theo từng bộ phận.",
+        "Tăng độ tự tin khi làm việc với quản lý người Trung."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa này",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem feedback",
+      "secondaryUrl": "feedback.html",
+      "featured": true
+    },
+    {
+      "slug": "khoa-tang-toc-theo-ca-kip",
+      "title": "Khóa tăng tốc theo ca kíp",
+      "audienceLabel": "Ca kíp bận rộn",
+      "duration": "8 tuần",
+      "priceText": "Liên hệ để nhận báo giá",
+      "image": "images/courses/course-3.jpg",
+      "excerpt": "Bài học ngắn, checklist rõ ràng, phù hợp cho người ít thời gian nhưng cần tăng tốc để giao tiếp tốt hơn trong công việc.",
+      "seoTitle": "Khóa tăng tốc theo ca kíp",
+      "seoDescription": "Khóa học tăng tốc phù hợp cho người làm ca kíp và cần lịch học linh hoạt.",
+      "overview": "Thiết kế cho người bận rộn, không có nhiều thời gian học dài. Nội dung được chia nhỏ theo checklist, học nhanh mỗi ngày và bám lịch làm thực tế.",
+      "audience": [
+        "Người làm ca kíp, ít thời gian.",
+        "Người cần tăng tốc trước khi đổi vị trí.",
+        "Người muốn học theo checklist rõ ràng."
+      ],
+      "curriculum": [
+        "Bài học ngắn 10 - 15 phút.",
+        "Checklist từ vựng theo ca làm và bộ phận.",
+        "Tài liệu ôn tập nhanh và bài tập tình huống."
+      ],
+      "outcomes": [
+        "Có thể tự ôn theo checklist dù lịch làm việc thay đổi.",
+        "Dễ duy trì vì bài học được chia rất ngắn.",
+        "Phù hợp để kết hợp cùng tài liệu và bài blog miễn phí."
+      ],
+      "ctaLabel": "Đăng ký tư vấn",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Nhận tài liệu trước",
+      "secondaryUrl": "resources.html",
+      "featured": true
+    }
+  ]
+}
