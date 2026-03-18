@@ -189,7 +189,7 @@
   function buildFeedbackCard(item) {
     return '' +
       '<div class="col-lg-4 col-sm-6 mb-5">' +
-      '  <div class="testimonial-card">' +
+      '  <div class="testimonial-card h-100">' +
       '    <img class="img-fluid w-100 mb-4" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">' +
       '    <div class="quote-mark mb-3">"</div>' +
       '    <h4 class="mb-3">' + escapeHtml(item.title) + '</h4>' +
@@ -435,7 +435,7 @@
     setHtml('#cms-about-cards', (about.cards || []).map(function (card) {
       return '' +
         '<div class="col-lg-4 mb-4">' +
-        '  <div class="info-card">' +
+        '  <div class="info-card h-100">' +
         '    <h3 class="mb-3">' + escapeHtml(card.title) + '</h3>' +
         '    <div class="rich-text-content mb-0">' + richTextMarkup(card.body, 'p') + '</div>' +
         '  </div>' +
@@ -444,7 +444,7 @@
     setHtml('#cms-about-stats', (about.stats || []).map(function (stat) {
       return '' +
         '<div class="col-md-3 col-sm-6 mb-4">' +
-        '  <div class="contact-card text-center">' +
+        '  <div class="contact-card text-center h-100">' +
         '    <h2 class="text-primary">' + escapeHtml(stat.number) + '</h2>' +
         '    <h5>' + escapeHtml(stat.title) + '</h5>' +
         '    <div class="rich-text-content mb-0">' + richTextMarkup(stat.body, 'p') + '</div>' +
@@ -469,7 +469,7 @@
     setHtml('#cms-contact-steps', (contact.steps || []).map(function (step) {
       return '' +
         '<div class="col-md-4 mb-4">' +
-        '  <div class="info-card text-center">' +
+        '  <div class="info-card text-center h-100">' +
         '    <h3 class="mb-3">' + escapeHtml(step.title) + '</h3>' +
         '    <div class="rich-text-content mb-0">' + richTextMarkup(step.body, 'p') + '</div>' +
         '  </div>' +
