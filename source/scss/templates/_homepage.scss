@@ -256,6 +256,24 @@
   }
 }
 
+.google-form-embed {
+  border: 1px solid $border-color;
+  background: $white;
+  overflow: hidden;
+}
+
+.google-form-iframe {
+  display: block;
+  width: 100%;
+  min-height: 820px;
+  border: 0;
+  background: $white;
+
+  @include tablet {
+    min-height: 920px;
+  }
+}
+
 .timeline-card {
   border-left: 4px solid $primary-color;
 }

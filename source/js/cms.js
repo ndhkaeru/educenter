@@ -43,6 +43,22 @@
     });
   }
 
+  function setAttribute(selector, attribute, value) {
+    qsa(selector).forEach(function (node) {
+      if (value === undefined || value === null || value === '') {
+        node.removeAttribute(attribute);
+        return;
+      }
+      node.setAttribute(attribute, value);
+    });
+  }
+
+  function setVisible(selector, isVisible) {
+    qsa(selector).forEach(function (node) {
+      node.style.display = isVisible ? '' : 'none';
+    });
+  }
+
   function setImage(selector, src, alt) {
     qsa(selector).forEach(function (node) {
       node.setAttribute('src', src || '');
@@ -145,6 +161,72 @@
 
   function getQueryParam(name) {
     return new URLSearchParams(window.location.search).get(name);
+  }
+
+  function normalizeGoogleFormEmbedUrl(value) {
+    var content = String(value || '').trim();
+    var iframeMatch;
+
+    if (!content) {
+      return '';
+    }
+
+    if (content.indexOf('REPLACE_ME') !== -1) {
+      return '';
+    }
+
+    iframeMatch = content.match(/src=["']([^"']+)["']/i);
+    if (iframeMatch && iframeMatch[1]) {
+      content = iframeMatch[1].trim();
+    }
+
+    if (!/^https?:\/\//i.test(content)) {
+      return '';
+    }
+
+    if (/forms\.gle\//i.test(content)) {
+      return '';
+    }
+
+    if (/docs\.google\.com\/forms\//i.test(content) && !/[?&]embedded=true(?:&|$)/i.test(content)) {
+      content += (content.indexOf('?') === -1 ? '?' : '&') + 'embedded=true';
+    }
+
+    return content;
+  }
+
+  function deriveGoogleFormUrl(value, embedValue) {
+    var content = String(value || '').trim();
+    var embedUrl;
+
+    if (content && content.indexOf('REPLACE_ME') === -1) {
+      return content;
+    }
+
+    embedUrl = normalizeGoogleFormEmbedUrl(embedValue);
+    if (!embedUrl) {
+      return '';
+    }
+
+    return embedUrl
+      .replace(/([?&])embedded=true(&?)/i, function (match, prefix, suffix) {
+        if (prefix === '?' && suffix) {
+          return '?';
+        }
+        if (prefix === '&' && suffix) {
+          return '&';
+        }
+        return '';
+      })
+      .replace(/[?&]$/, '');
+  }
+
+  function normalizeFrameHeight(value, fallback) {
+    var height = parseInt(value, 10);
+    if (isNaN(height) || height < 600) {
+      return fallback;
+    }
+    return height;
   }
 
   function fetchJson(path) {
@@ -468,12 +550,25 @@
   }
 
   function renderContact(site, contact) {
+    var embedUrl = normalizeGoogleFormEmbedUrl(contact.googleFormEmbed || contact.googleFormUrl);
+    var formUrl = deriveGoogleFormUrl(contact.googleFormUrl, contact.googleFormEmbed);
+    var frameHeight = normalizeFrameHeight(contact.googleFormHeight, 980);
+
     setPageMeta(contact.pageTitle, contact.pageDescription, site);
     setPageBanner('Trang chủ', 'index.html', contact.pageTitle, contact.pageDescription);
     setText('#cms-contact-form-title', contact.formTitle);
     setRichText('#cms-contact-form-description', contact.formDescription, 'p');
     setText('#cms-contact-form-button', contact.googleFormLabel);
-    setLink('#cms-contact-form-button', contact.googleFormUrl);
+    setLink('#cms-contact-form-button', formUrl);
+    setAttribute('#cms-contact-form-iframe', 'src', embedUrl);
+    setAttribute('#cms-contact-form-iframe', 'title', contact.formTitle || 'Google Form');
+    setAttribute('#cms-contact-form-iframe', 'height', String(frameHeight));
+    qsa('#cms-contact-form-iframe').forEach(function (node) {
+      node.style.height = frameHeight + 'px';
+    });
+    setVisible('#cms-contact-form-embed', Boolean(embedUrl));
+    setVisible('#cms-contact-form-button', Boolean(formUrl));
+    setVisible('#cms-contact-form-empty', !embedUrl && !formUrl);
     setText('#cms-contact-helper-title', contact.helperTitle);
     setRichText('#cms-contact-helper-body', contact.helperBody, 'p');
     setHtml('#cms-contact-steps', (contact.steps || []).map(function (step) {
