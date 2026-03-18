@@ -3,10 +3,10 @@
   "pageDescription": "Trang liên hệ được tối ưu theo hướng miễn phí: nhúng Google Form trực tiếp và đồng bộ thông tin liên hệ toàn site.",
   "formTitle": "Đăng ký tư vấn qua Google Form",
   "formDescription": "Để giữ hạ tầng miễn phí, trang này không còn xử lý form nội bộ. Bạn chỉ cần dán link nhúng hoặc mã iframe Google Form thật trong CMS là đã có thể nhận đăng ký ngay.",
-  "googleFormEmbed": "https://docs.google.com/forms/d/e/REPLACE_ME/viewform?embedded=true",
+  "googleFormEmbed": "https://docs.google.com/forms/d/e/1FAIpQLSehP0llWPhxdNp_G60JLUKs5HWACzLKHYRzC_uoGTqnFXS8hg/viewform?embedded=true",
   "googleFormHeight": 961,
   "googleFormLabel": "Mở Google Form ở tab mới",
-  "googleFormUrl": "https://forms.gle/REPLACE_ME",
+  "googleFormUrl": "https://forms.gle/iL3EAtMzJBThLgTU6",
   "helperTitle": "Cách dùng trang này",
   "helperBody": "Mọi thông tin hotline, email, Zalo và Facebook đều lấy từ phần cài đặt chung trong CMS. Riêng Google Form, bạn có thể dán link dạng `viewform?embedded=true` hoặc dán nguyên thẻ iframe do Google cung cấp vào ô nhúng. Khi bạn sửa một chỗ, toàn bộ header, footer và trang liên hệ sẽ tự đồng bộ.",
   "steps": [
