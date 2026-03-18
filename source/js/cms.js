@@ -129,8 +129,18 @@
   }
 
   function getPageName() {
-    var path = window.location.pathname.split('/').pop() || 'index.html';
-    return path.toLowerCase();
+    var path = window.location.pathname.replace(/\/+$/, '').split('/').pop() || 'index.html';
+    var lowerPath = path.toLowerCase();
+
+    if (!lowerPath) {
+      return 'index.html';
+    }
+
+    if (lowerPath.indexOf('.') === -1) {
+      return lowerPath === 'index' ? 'index.html' : lowerPath + '.html';
+    }
+
+    return lowerPath;
   }
 
   function getQueryParam(name) {
