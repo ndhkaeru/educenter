@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Đang chuyển hướng...</title>
+</head>
+<body>
+  <script>
+    (function () {
+      var routeMap = {
+        index: "index.html",
+        about: "about.html",
+        blog: "blog.html",
+        "blog-single": "blog-single.html",
+        contact: "contact.html",
+        "course-single": "course-single.html",
+        courses: "courses.html",
+        feedback: "feedback.html",
+        resources: "resources.html"
+      };
+      var pathname = window.location.pathname || "/";
+      var trimmedPath = pathname.replace(/\/+$/, "");
+      var segments = trimmedPath.split("/");
+      var lastSegment = (segments[segments.length - 1] || "").toLowerCase();
+      var hostName = window.location.hostname || "";
+      var siteRoot = "/";
+      var redirectTarget;
+
+      if (/\.github\.io$/i.test(hostName) && segments.length > 1 && segments[1]) {
+        siteRoot = "/" + segments[1] + "/";
+      }
+
+      if (lastSegment && !/\.[a-z0-9]+$/i.test(lastSegment) && routeMap[lastSegment]) {
+        segments[segments.length - 1] = routeMap[lastSegment];
+        redirectTarget = segments.join("/") + window.location.search + window.location.hash;
+        window.location.replace(redirectTarget);
+        return;
+      }
+
+      window.location.replace(siteRoot);
+    })();
+  </script>
+  <noscript>
+    <p>Vui lòng bật JavaScript hoặc quay về <a href="index.html">trang chủ</a>.</p>
+  </noscript>
+</body>
+</html>

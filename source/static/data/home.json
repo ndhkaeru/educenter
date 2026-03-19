@@ -11,13 +11,13 @@
       "title": "Học ngắn gọn, bám đúng tình huống thực tế trong xưởng",
       "description": "Bài học được chia theo ca làm, bộ phận và tình huống giao tiếp thường gặp: nhận việc, báo lỗi, xác nhận số lượng, tiến độ, chất lượng và an toàn sản xuất.",
       "buttonLabel": "Xem lộ trình mẫu",
-      "buttonUrl": "course-single.html"
+      "buttonUrl": "course-single"
     },
     {
       "title": "Nhận tài liệu song ngữ và checklist đi làm miễn phí",
       "description": "Website đã sẵn blog, tài liệu, feedback và CTA để bạn triển khai landing page nhiều tầng ngay cả khi chưa có đủ bộ ảnh và nội dung thật.",
       "buttonLabel": "Nhận tài liệu",
-      "buttonUrl": "resources.html"
+      "buttonUrl": "resources"
     }
   ],
   "featureImage": "images/banner/banner-feature.png",
