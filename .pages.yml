@@ -68,6 +68,7 @@ content:
         label: Logo
         type: image
         required: true
+        description: Logo hiện tại là 200x68 px. Khi thay ảnh mới, nên giữ tỉ lệ ngang này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
         options:
           media: branding
           extensions: [png, jpg, jpeg, webp, svg]
@@ -75,6 +76,7 @@ content:
         label: Favicon
         type: image
         required: true
+        description: Favicon hiện tại là 60x68 px. Khi thay ảnh mới, nên dùng ảnh nhỏ, rõ nét và ưu tiên giữ kích thước gần mức này.
         options:
           media: branding
           extensions: [png, jpg, jpeg, webp, svg, ico]
@@ -108,6 +110,7 @@ content:
         label: Ảnh nền hero
         type: image
         required: true
+        description: Ảnh hiện tại là 1600x834 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
         options:
           media: banner_images
       - name: heroSlides
@@ -128,6 +131,7 @@ content:
         label: Ảnh feature
         type: image
         required: true
+        description: Ảnh hiện tại là 591x700 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ dọc này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
         options:
           media: banner_images
       - name: features
@@ -151,6 +155,7 @@ content:
             label: Ảnh
             type: image
             required: true
+            description: Ảnh hiện tại là 816x504 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: about_images
           - { name: title, label: Tiêu đề, type: string, required: true }
@@ -185,6 +190,7 @@ content:
             label: Ảnh nền
             type: image
             required: true
+            description: Ảnh hiện tại là 1280x1183 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ gần vuông này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: background_images
           - { name: videoUrl, label: Liên kết video, type: string, required: true }
@@ -228,6 +234,7 @@ content:
         label: Ảnh giới thiệu
         type: image
         required: true
+        description: Ảnh hiện tại là 869x461 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
         options:
           media: about_images
       - { name: eyebrow, label: Nhãn phụ, type: string, required: true }
@@ -396,6 +403,7 @@ content:
             label: Ảnh
             type: image
             required: true
+            description: Ảnh hiện tại là 640x400 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: resource_images
           - { name: eyebrow, label: Nhãn phụ, type: string, required: true }
@@ -474,6 +482,7 @@ content:
             label: Ảnh đại diện
             type: image
             required: true
+            description: Ảnh hiện tại khoảng 373x252 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: blog_images
           - name: excerpt
@@ -530,6 +539,7 @@ content:
             label: Ảnh đại diện
             type: image
             required: true
+            description: Ảnh hiện tại là 371x308 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: course_images
           - name: excerpt
@@ -582,6 +592,7 @@ content:
             label: Ảnh feedback
             type: image
             required: true
+            description: Ảnh hiện tại là 371x418 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ dọc này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: feedback_images
           - name: quote
@@ -611,6 +622,7 @@ content:
             label: Ảnh card
             type: image
             required: true
+            description: Ảnh hiện tại thường dùng cỡ 640x400 px. Khi thay ảnh mới, nên giữ đúng tỉ lệ này hoặc dùng ảnh lớn hơn cùng tỉ lệ.
             options:
               media: resource_images
           - name: description
