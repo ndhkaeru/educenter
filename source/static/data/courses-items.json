@@ -1,34 +1,34 @@
 {
   "items": [
     {
-      "slug": "khoa-nen-tang-tieng-trung-cong-xuong",
-      "title": "Khóa nền tảng tiếng Trung công xưởng",
+      "slug": "https://www.facebook.com/profile.php?id=61584942082018",
+      "title": "Tiếng Trung nền tảng cho người đi làm",
       "audienceLabel": "Người mới bắt đầu",
       "duration": "4 tuần",
       "priceText": "Liên hệ để nhận báo giá",
       "image": "images/courses/course-1.jpg",
-      "excerpt": "Làm quen phát âm, mẫu câu chào hỏi, câu lệnh cơ bản và từ vựng thường gặp trong môi trường nhà máy.",
-      "seoTitle": "Khóa nền tảng tiếng Trung công xưởng",
-      "seoDescription": "Khóa học nền tảng dành cho người mới bắt đầu học tiếng Trung công xưởng.",
-      "overview": "Phù hợp cho người chưa có gốc hoặc học lâu rồi quên. Mục tiêu là xây nền phát âm, nhận biết mẫu câu cơ bản và đủ tự tin để bước vào khóa giao tiếp đi làm.",
+      "excerpt": "Khóa học giúp người mới bắt đầu làm quen với phát âm, từ vựng cơ bản và các mẫu câu giao tiếp đơn giản thường sử dụng trong môi trường công việc.\n\nNội dung tập trung vào những tình huống giao tiếp cơ bản như chào hỏi, giới thiệu bản thân, hiểu yêu cầu công việc và trao đổi thông tin đơn giản với đồng nghiệp hoặc quản lý người Trung.\n\nSau khóa học, người học có thể hiểu và sử dụng những mẫu câu tiếng Trung cơ bản trong công việc, tạo nền tảng để tiếp tục học các khóa giao tiếp nâng cao.",
+      "seoTitle": "Tiếng Trung công xưởng cơ bản cho người mới bắt đầu",
+      "seoDescription": "Khóa học tiếng Trung công xưởng cơ bản dành cho người mới bắt đầu, giúp làm quen phát âm, từ vựng và các mẫu câu giao tiếp thường dùng trong môi trường làm việc.",
+      "overview": "Khóa học phù hợp cho người chưa có nền tảng tiếng Trung hoặc đã học nhưng lâu không sử dụng. Nội dung tập trung vào phát âm, từ vựng cơ bản và các mẫu câu giao tiếp đơn giản trong công việc, giúp người học tự tin hơn trước khi bước vào các khóa giao tiếp nâng cao.",
       "audience": [
         "Người mới bắt đầu học tiếng Trung.",
-        "Người sắp vào nhà máy có yếu tố Trung Quốc.",
-        "Người cần hệ thống lại phát âm và mẫu câu nền."
+        "Người chuẩn bị làm việc trong môi trường có sử dụng tiếng Trung (nhà máy, văn phòng, doanh nghiệp có đối tác Trung Quốc).",
+        "Người muốn hệ thống lại phát âm và các mẫu câu giao tiếp cơ bản."
       ],
       "curriculum": [
-        "Phát âm cơ bản và cách nghe âm dễ nhầm.",
-        "Mẫu câu chào hỏi, xác nhận, nhờ lặp lại.",
-        "Từ vựng bộ phận, ca làm, số lượng, lỗi cơ bản."
+        "Phát âm tiếng Trung cơ bản và cách phân biệt các âm dễ nhầm.",
+        "Các mẫu câu giao tiếp cơ bản như chào hỏi, xác nhận thông tin và nhờ người khác nhắc lại khi chưa hiểu.",
+        "Từ vựng thường dùng trong môi trường làm việc như tên bộ phận, ca làm việc, số lượng và một số lỗi thường gặp."
       ],
       "outcomes": [
-        "Tự tin hơn khi nghe và lặp lại mẫu câu cơ bản.",
-        "Có nền để học tiếp khóa giao tiếp đi làm.",
-        "Có thể dùng tài liệu song ngữ để ôn lại sau buổi học."
+        "Tự tin hơn khi nghe và sử dụng các mẫu câu tiếng Trung cơ bản trong công việc.",
+        "Nắm được nền tảng phát âm và từ vựng cơ bản để tiếp tục học các khóa giao tiếp nâng cao.",
+        "Có thể sử dụng tài liệu song ngữ Việt – Trung để ôn tập và củng cố kiến thức sau mỗi buổi học."
       ],
-      "ctaLabel": "Đăng ký tư vấn",
+      "ctaLabel": "Nhận tư vấn khóa học",
       "ctaUrl": "contact.html",
-      "secondaryLabel": "Xem trang tài liệu",
+      "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
     },
