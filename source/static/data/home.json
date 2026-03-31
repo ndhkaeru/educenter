@@ -68,17 +68,17 @@
     "backgroundImage": "images/backgrounds/success-story.jpg",
     "videoUrl": "https://youtu.be/nA1Aqp0sPQo",
     "title": "Video demo bài học",
-    "description": "Phần này đã được bố trí đúng chỗ cho video demo. Sau này bạn chỉ cần thay link YouTube hoặc video thật của khóa học là xong.",
+    "description": "Xem thử một bài học mẫu trong khóa Tiếng Trung Công Xưởng 365 để hiểu cách giảng dạy và nội dung thực tế của chương trình.  \nCác bài học được thiết kế dựa trên những tình huống thường gặp trong môi trường nhà máy như giao tiếp với quản lý người Trung, báo cáo sản xuất, kiểm tra chất lượng và xử lý lỗi sản phẩm.\n\nChỉ với những mẫu câu đơn giản và dễ nhớ, bạn có thể nhanh chóng áp dụng vào công việc hàng ngày.",
     "points": [
-      "Demo cách dạy theo tình huống công xưởng.",
-      "Có thể thay bằng video feedback học viên hoặc trích đoạn lớp học.",
-      "Phù hợp để đặt giữa trang chủ nhằm tăng thời gian xem và độ tin tưởng."
+      "Demo bài học theo tình huống thực tế trong nhà máy như báo cáo công việc, kiểm hàng và trao đổi với quản lý người Trung.",
+      "Video giúp bạn hiểu rõ cách học và phương pháp giảng dạy, phù hợp với cả người mới bắt đầu và người đang đi làm.",
+      "Nội dung ngắn gọn, dễ hiểu và tập trung vào các mẫu câu sử dụng trực tiếp trong môi trường sản xuất."
     ],
     "buttonLabel": "Nhận tư vấn lộ trình",
     "buttonUrl": "contact.html"
   },
-  "feedbackSectionTitle": "Feedback học viên",
-  "feedbackSectionText": "Khung feedback này đang lấy dữ liệu từ file JSON để bạn có thể CRUD trực tiếp trong CMS mà không cần sửa HTML.",
-  "blogSectionTitle": "Blog song ngữ và kinh nghiệm đi làm",
-  "blogSectionText": "Khung blog đã được chuyển sang đúng định hướng: tiếng Trung công xưởng, song ngữ Việt - Trung, kinh nghiệm đi làm và bài ngắn học nhanh mỗi ngày."
+  "feedbackSectionTitle": "Học viên nói gì về khóa học",
+  "feedbackSectionText": "Phản hồi từ những học viên đã tham gia khóa Tiếng Trung Công Xưởng 365 và đang làm việc trong môi trường nhà máy, sản xuất và công ty Trung Quốc.\n\nNhiều học viên sau khi học đã có thể tự tin giao tiếp với quản lý người Trung, báo cáo công việc và xử lý các tình huống phát sinh trong ca làm việc.\n\nKhóa học tập trung vào các mẫu câu và tình huống thực tế, giúp người học áp dụng ngay vào công việc hàng ngày.",
+  "blogSectionTitle": "Blog tiếng Trung công xưởng và kinh nghiệm đi làm",
+  "blogSectionText": "Chia sẻ kiến thức và kinh nghiệm thực tế khi làm việc trong môi trường nhà máy và công ty Trung Quốc.\n\nCác bài viết trên blog bao gồm:\n\n• Từ vựng tiếng Trung sử dụng trong nhà máy  \n• Mẫu câu giao tiếp với quản lý người Trung  \n• Thuật ngữ sản xuất, QC và kho  \n• Kinh nghiệm làm việc với đồng nghiệp Trung Quốc\n\nNội dung được trình bày song ngữ Việt – Trung, giúp bạn dễ học, dễ tra cứu và áp dụng nhanh vào công việc."
 }
