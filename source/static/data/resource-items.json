@@ -6,27 +6,27 @@
       "title": "Từ vựng công xưởng theo bộ phận",
       "image": "images/research/research-1.jpg",
       "description": "Gợi ý dùng cho nhóm nội dung mở đầu: tên bộ phận, ca làm, vật tư, máy móc, kiểm hàng, lỗi thường gặp.",
-      "buttonLabel": "Mở trên Google Drive",
+      "buttonLabel": "Mở tài liệu",
       "url": "https://drive.google.com/file/d/REPLACE_ME/view",
       "featured": true
     },
     {
       "slug": "mau-cau-nhan-nhom-va-giao-ca",
-      "label": "File mẫu",
-      "title": "Mẫu câu nhắn nhóm và giao ca",
+      "label": "Mẫu câu giao tiếp",
+      "title": "100 mẫu câu tiếng Trung dùng trong công việc",
       "image": "images/research/research-2.jpg",
-      "description": "Có thể thay bằng file mẫu Excel, PDF hoặc bảng từ khóa song ngữ để người học lưu lại và dùng trong công việc.",
-      "buttonLabel": "Mở trên Google Drive",
+      "description": "Tổng hợp các mẫu câu tiếng Trung thường dùng khi trao đổi công việc với đồng nghiệp hoặc quản lý người Trung như nhận việc, xác nhận thông tin, báo tiến độ và nhờ hỗ trợ.\n\nTài liệu song ngữ Việt – Trung giúp người học dễ tra cứu và áp dụng ngay trong công việc hằng ngày.",
+      "buttonLabel": "Xem tài liệu",
       "url": "https://drive.google.com/file/d/REPLACE_ME/view",
       "featured": true
     },
     {
       "slug": "checklist-di-lam-voi-quan-ly-nguoi-trung",
-      "label": "Checklist",
-      "title": "Checklist đi làm với quản lý người Trung",
+      "label": "Checklist tình huống",
+      "title": "Các tình huống giao tiếp tiếng Trung trong nhà máy",
       "image": "images/research/research-3.jpg",
-      "description": "Phù hợp cho đầu phễu: người xem tải về trước, sau đó được dẫn sang khóa học hoặc form đăng ký tư vấn.",
-      "buttonLabel": "Mở trên Google Drive",
+      "description": "Tổng hợp các tình huống giao tiếp thường gặp khi làm việc trong môi trường sản xuất như báo lỗi, giao ca, xác nhận tiến độ, kiểm hàng hoặc trao đổi công việc với quản lý người Trung.\n\nTài liệu giúp người học biết nên sử dụng mẫu câu nào trong từng tình huống thực tế, từ đó giao tiếp tự tin hơn trong công việc.",
+      "buttonLabel": "Xem checklist",
       "url": "https://drive.google.com/file/d/REPLACE_ME/view",
       "featured": true
     }
