@@ -26,10 +26,32 @@
         },
         {
           "heading": "Mẫu câu xác nhận công việc",
-          "body": "Trong quá trình làm việc, việc xác nhận lại thông tin và yêu cầu công việc giúp tránh sai sót và đảm bảo tiến độ sản xuất. Dưới đây là những mẫu câu thường dùng khi cần hỏi lại hoặc xác nhận công việc."
+          "body": "Trong quá trình làm việc, việc xác nhận lại thông tin và yêu cầu công việc giúp tránh sai sót và đảm bảo tiến độ sản xuất. Dưới đây là những mẫu câu thường dùng khi cần hỏi lại hoặc xác nhận công việc.",
+          "items": [
+            "请再说一遍。 — Vui lòng nói lại một lần nữa.",
+            "这个数量要确认一下。 — Số lượng này cần xác nhận lại.",
+            "我明白了。 — Tôi hiểu rồi.",
+            "这个是今天要完成的吗？ — Việc này cần hoàn thành hôm nay phải không?",
+            "我马上处理。 — Tôi sẽ xử lý ngay.",
+            "需要我帮忙吗？ — Có cần tôi hỗ trợ không?",
+            "我现在去做。 — Tôi sẽ làm ngay bây giờ."
+          ]
+        },
+        {
+          "heading": "Mẫu câu báo lỗi và nhờ hỗ trợ",
+          "body": "Trong môi trường sản xuất, việc báo lỗi hoặc nhờ hỗ trợ kịp thời là rất quan trọng để tránh ảnh hưởng đến tiến độ công việc. Những mẫu câu sau giúp bạn trao đổi vấn đề rõ ràng với đồng nghiệp hoặc quản lý.",
+          "items": [
+            "这里有一个问题。 — Chỗ này có một vấn đề.",
+            "机器有一点问题。 — Máy có một chút vấn đề.",
+            "这个产品有缺陷。 — Sản phẩm này có lỗi.",
+            "请帮我检查一下。 — Nhờ anh/chị kiểm tra giúp.",
+            "今天要赶货。 — Hôm nay cần đẩy tiến độ hàng.",
+            "这个要重新做。 — Cái này cần làm lại.",
+            "我需要一点帮助。 — Tôi cần một chút hỗ trợ."
+          ]
         }
       ],
-      "ctaLabel": "Xem trang tài liệu",
+      "ctaLabel": "Xem tài liệu tiếng Trung công việc",
       "ctaUrl": "resources.html",
       "featured": true
     },
