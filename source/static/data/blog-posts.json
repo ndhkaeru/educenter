@@ -61,23 +61,33 @@
     },
     {
       "slug": "tu-vung-qc-song-ngu-de-nho-cho-nguoi-moi",
-      "title": "Từ vựng QC song ngữ dễ nhớ cho người mới",
-      "category": "Song ngữ Việt - Trung",
-      "tag": "PDF chuyển đổi",
+      "title": "30 từ vựng QC tiếng Trung thường dùng khi kiểm hàng",
+      "category": "Tiếng Trung công xưởng",
+      "tag": "Từ vựng QC",
       "image": "images/blog/post-2.jpg",
-      "excerpt": "Có thể dẫn tiếp về trang tài liệu để lấy email tải PDF hoặc mở link Drive trực tiếp.",
-      "seoTitle": "Từ vựng QC song ngữ dễ nhớ cho người mới",
-      "seoDescription": "Bài viết mẫu về từ vựng QC song ngữ Việt - Trung dành cho người mới đi làm.",
-      "intro": "Đây là nhóm bài rất hợp để phát triển SEO và dẫn người đọc sang khu tài liệu miễn phí hoặc khóa học đi làm.",
+      "excerpt": "Danh sách 30 từ vựng QC tiếng Trung thường dùng khi kiểm hàng trong môi trường sản xuất.  \nTài liệu trình bày song ngữ Việt – Trung giúp người mới dễ ghi nhớ và áp dụng khi làm việc với quản lý hoặc đồng nghiệp người Trung.",
+      "seoTitle": "30 từ vựng QC tiếng Trung thường dùng khi kiểm hàng",
+      "seoDescription": "Tổng hợp 30 từ vựng QC tiếng Trung thường dùng khi kiểm tra chất lượng sản phẩm trong nhà máy. Nội dung song ngữ Việt – Trung giúp người đi làm dễ học và áp dụng trong công việc.",
+      "intro": "Trong quá trình kiểm tra chất lượng sản phẩm (QC), nhân viên thường xuyên phải trao đổi về tình trạng sản phẩm, lỗi phát sinh và kết quả kiểm tra với quản lý hoặc đồng nghiệp người Trung.\n\nViệc nắm được các từ vựng tiếng Trung liên quan đến kiểm hàng sẽ giúp bạn hiểu yêu cầu công việc nhanh hơn và giao tiếp rõ ràng hơn trong quá trình làm việc.\n\nDưới đây là 30 từ vựng QC tiếng Trung thường gặp trong môi trường sản xuất, được trình bày song ngữ Việt – Trung để bạn dễ tra cứu và ghi nhớ.",
       "sections": [
         {
-          "heading": "Nhóm từ vựng nên có",
-          "body": "Bạn có thể gom theo nhóm lỗi, cách báo lỗi và xác nhận kết quả kiểm tra.",
+          "heading": "Từ vựng về kiểm tra và đánh giá chất lượng",
+          "body": "Khi kiểm tra sản phẩm, nhân viên QC thường cần trao đổi về tiêu chuẩn chất lượng, kết quả kiểm tra và tình trạng đạt hoặc không đạt của sản phẩm. Những từ vựng dưới đây thường xuất hiện trong quá trình kiểm hàng tại nhà máy.",
           "items": [
-            "外观不良 - Lỗi ngoại quan",
-            "尺寸异常 - Kích thước bất thường",
-            "请再确认一次 - Vui lòng xác nhận lại một lần nữa",
-            "这个批次先隔离 - Tạm thời cách ly lô này"
+            "质量 — Chất lượng",
+            "检验 — Kiểm tra",
+            "全检 — Kiểm tra toàn bộ",
+            "合格 — Đạt tiêu chuẩn",
+            "不良 — Hàng lỗi",
+            "缺陷 — Lỗi sản phẩm",
+            "标准 — Tiêu chuẩn",
+            "规格 — Quy cách",
+            "样品 — Mẫu",
+            "记录 — Ghi chép",
+            "报告 — Báo cáo",
+            "结果 — Kết quả",
+            "异常 — Bất thường",
+            "数据 — Dữ liệu"
           ]
         }
       ],
