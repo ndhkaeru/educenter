@@ -65,34 +65,36 @@
       "featured": true
     },
     {
-      "slug": "khoa-tang-toc-theo-ca-kip",
-      "title": "Khóa tăng tốc theo ca kíp",
-      "audienceLabel": "Ca kíp bận rộn",
+      "slug": "khoa-tang-toc",
+      "title": "Tiếng Trung tăng tốc cho người đi làm bận rộn",
+      "audienceLabel": "Người đi làm bận rộn",
       "duration": "8 tuần",
-      "priceText": "Liên hệ để nhận báo giá",
+      "priceText": "Liên hệ để nhận học phí",
       "image": "images/courses/course-3.jpg",
-      "excerpt": "Bài học ngắn, checklist rõ ràng, phù hợp cho người ít thời gian nhưng cần tăng tốc để giao tiếp tốt hơn trong công việc.",
-      "seoTitle": "Khóa tăng tốc theo ca kíp",
-      "seoDescription": "Khóa học tăng tốc phù hợp cho người làm ca kíp và cần lịch học linh hoạt.",
-      "overview": "Thiết kế cho người bận rộn, không có nhiều thời gian học dài. Nội dung được chia nhỏ theo checklist, học nhanh mỗi ngày và bám lịch làm thực tế.",
+      "excerpt": "Khóa học giúp người đi làm bận rộn cải thiện nhanh khả năng giao tiếp tiếng Trung trong công việc thông qua các bài học ngắn, mẫu câu thực tế và luyện phản xạ theo tình huống.",
+      "seoTitle": "Tiếng Trung tăng tốc cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung tăng tốc dành cho người đi làm bận rộn, giúp cải thiện nhanh khả năng giao tiếp trong môi trường nhà máy, văn phòng và làm việc với đối tác Trung Quốc.",
+      "overview": "Đây là khóa học giúp người học nâng cao tốc độ phản xạ giao tiếp trong công việc. Nội dung tập trung vào các tình huống giao tiếp thường gặp khi làm việc với quản lý, đồng nghiệp hoặc đối tác người Trung.\n\nCác bài học được thiết kế ngắn gọn, dễ áp dụng ngay trong công việc, phù hợp với người làm việc theo ca hoặc có quỹ thời gian học hạn chế.",
       "audience": [
-        "Người làm ca kíp, ít thời gian.",
-        "Người cần tăng tốc trước khi đổi vị trí.",
-        "Người muốn học theo checklist rõ ràng."
+        "Người đi làm bận rộn, ít thời gian học tiếng Trung.",
+        "Người đã có nền tảng cơ bản nhưng cần cải thiện khả năng phản xạ giao tiếp.",
+        "Người làm việc trong môi trường có sử dụng tiếng Trung như nhà máy, văn phòng hoặc doanh nghiệp có đối tác Trung Quốc."
       ],
       "curriculum": [
-        "Bài học ngắn 10 - 15 phút.",
-        "Checklist từ vựng theo ca làm và bộ phận.",
-        "Tài liệu ôn tập nhanh và bài tập tình huống."
+        "Luyện phản xạ giao tiếp nhanh trong các tình huống công việc thường gặp.",
+        "Các mẫu câu giao tiếp ngắn gọn dùng trong trao đổi công việc hằng ngày.",
+        "Cách hỏi lại thông tin, xác nhận yêu cầu và xử lý tình huống phát sinh trong công việc.",
+        "Luyện nghe và hiểu nhanh các câu giao tiếp phổ biến từ quản lý hoặc đồng nghiệp người Trung."
       ],
       "outcomes": [
-        "Có thể tự ôn theo checklist dù lịch làm việc thay đổi.",
-        "Dễ duy trì vì bài học được chia rất ngắn.",
-        "Phù hợp để kết hợp cùng tài liệu và bài blog miễn phí."
+        "Phản xạ nhanh hơn khi giao tiếp tiếng Trung trong công việc.",
+        "Tự tin hơn khi trao đổi công việc với đồng nghiệp hoặc quản lý người Trung.",
+        "Biết cách sử dụng các mẫu câu giao tiếp ngắn gọn và hiệu quả trong môi trường làm việc.",
+        "Cải thiện khả năng nghe hiểu và xử lý tình huống giao tiếp trong ca làm."
       ],
-      "ctaLabel": "Đăng ký tư vấn",
+      "ctaLabel": "Nhận tư vấn khóa học",
       "ctaUrl": "contact.html",
-      "secondaryLabel": "Nhận tài liệu trước",
+      "secondaryLabel": "Xem lộ trình học",
       "secondaryUrl": "resources.html",
       "featured": true
     }
