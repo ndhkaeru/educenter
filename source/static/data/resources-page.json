@@ -6,9 +6,9 @@
   "introText": "Trang này cung cấp các tài liệu học tiếng Trung được tổng hợp dành cho người đi làm. Nội dung tập trung vào từ vựng công việc, mẫu câu giao tiếp và các tài liệu song ngữ giúp người học dễ hiểu và dễ áp dụng.\n\nBạn có thể mở trực tiếp từng tài liệu để xem hoặc lưu về để sử dụng khi cần tra cứu trong công việc hằng ngày.",
   "showcase": {
     "image": "images/research/research-1.jpg",
-    "eyebrow": "Google Drive",
-    "title": "Tài liệu hiện được lưu ngoài website để giữ chi phí bằng 0",
-    "body": "Bạn có thể tạo một thư mục Drive chung cho toàn bộ PDF, checklist và file mẫu. Trang web chỉ hiển thị card mô tả, còn file thật nằm ở Drive để không tốn thêm hạ tầng.",
+    "eyebrow": "TÀI LIỆU MIỄN PHÍ",
+    "title": "Tài liệu tiếng Trung dành cho người đi làm",
+    "body": "Tổng hợp các tài liệu tiếng Trung ứng dụng trong công việc như từ vựng công xưởng, mẫu câu giao tiếp và checklist tình huống thường gặp khi làm việc với đồng nghiệp hoặc quản lý người Trung.\n\nBạn có thể mở trực tiếp từng tài liệu để xem hoặc lưu lại để tra cứu nhanh khi cần sử dụng trong công việc.",
     "buttonLabel": "Mở thư mục tài liệu",
     "buttonUrl": "https://drive.google.com/drive/folders/REPLACE_ME"
   }
