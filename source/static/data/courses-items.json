@@ -34,31 +34,31 @@
     },
     {
       "slug": "khoa-giao-tiep-di-lam-dung-duoc-ngay",
-      "title": "Khóa giao tiếp đi làm dùng được ngay",
-      "audienceLabel": "Người đang đi làm",
+      "title": "Tiếng Trung giao tiếp đi làm dùng được ngay",
+      "audienceLabel": "Người đang đi làm cần giao tiếp tiếng Trung",
       "duration": "6 tuần",
-      "priceText": "Liên hệ để nhận báo giá",
+      "priceText": "Liên hệ để nhận học phí",
       "image": "images/courses/course-2.jpg",
-      "excerpt": "Tập trung vào hội thoại giữa nhân viên, quản lý, QC, kho và khách Trung trong các tình huống phát sinh hằng ngày.",
-      "seoTitle": "Khóa giao tiếp đi làm dùng được ngay",
-      "seoDescription": "Khóa học thực chiến dành cho người đang đi làm trong môi trường có sử dụng tiếng Trung.",
-      "overview": "Đây là khóa trọng tâm của website. Nội dung tập trung vào câu nói thực chiến ở chuyền, kho, QC, kiểm hàng, bàn giao và làm việc với quản lý người Trung.",
+      "excerpt": "Tập trung vào các tình huống giao tiếp thực tế giữa nhân viên, quản lý, QC, kho và đối tác Trung Quốc trong công việc hằng ngày.",
+      "seoTitle": "Tiếng Trung giao tiếp trong công việc",
+      "seoDescription": "Khóa học tiếng Trung giao tiếp thực tế dành cho người đang đi làm, tập trung vào các tình huống giao tiếp với đồng nghiệp, quản lý và đối tác Trung Quốc.",
+      "overview": "Đây là khóa học trọng tâm của chương trình. Nội dung tập trung vào các mẫu câu giao tiếp thực tế trong môi trường làm việc như chuyền sản xuất, kho, QC, kiểm hàng, bàn giao công việc và trao đổi với quản lý người Trung.",
       "audience": [
-        "Người đã đi làm nhưng giao tiếp còn yếu.",
-        "Trưởng nhóm, QC, kho, admin sản xuất.",
-        "Người cần dùng câu mẫu càng sớm càng tốt."
+        "Người đã đi làm nhưng khả năng giao tiếp tiếng Trung còn hạn chế.",
+        "Trưởng nhóm, QC, nhân viên kho, admin sản xuất hoặc các vị trí cần trao đổi công việc với người Trung.",
+        "Người cần sử dụng các mẫu câu giao tiếp trong công việc càng sớm càng tốt."
       ],
       "curriculum": [
-        "Nhận việc, hỏi lại, xác nhận tiến độ.",
-        "Báo lỗi, giải thích nguyên nhân, nhờ hỗ trợ.",
-        "Mẫu câu nhắn nhóm, giao ca, làm báo cáo ngắn."
+        "Các mẫu câu nhận việc, hỏi lại thông tin và xác nhận tiến độ công việc.",
+        "Cách báo lỗi, giải thích nguyên nhân và nhờ hỗ trợ trong quá trình làm việc.",
+        "Mẫu câu sử dụng trong nhắn nhóm, giao ca và báo cáo công việc ngắn gọn."
       ],
       "outcomes": [
-        "Biết cách xử lý các tình huống giao tiếp phổ biến trong ca làm.",
-        "Có bộ câu mẫu dùng được ngay theo từng bộ phận.",
-        "Tăng độ tự tin khi làm việc với quản lý người Trung."
+        "Biết cách xử lý các tình huống giao tiếp phổ biến trong ca làm việc.",
+        "Sử dụng được các bộ mẫu câu giao tiếp theo từng bộ phận trong công việc.",
+        "Tự tin hơn khi trao đổi công việc với quản lý hoặc đồng nghiệp người Trung."
       ],
-      "ctaLabel": "Nhận tư vấn khóa này",
+      "ctaLabel": "Nhận tư vấn khóa học",
       "ctaUrl": "contact.html",
       "secondaryLabel": "Xem feedback",
       "secondaryUrl": "feedback.html",
