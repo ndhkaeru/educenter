@@ -71,7 +71,23 @@
       "intro": "Trong quá trình kiểm tra chất lượng sản phẩm (QC), nhân viên thường xuyên phải trao đổi về tình trạng sản phẩm, lỗi phát sinh và kết quả kiểm tra với quản lý hoặc đồng nghiệp người Trung.\n\nViệc nắm được các từ vựng tiếng Trung liên quan đến kiểm hàng sẽ giúp bạn hiểu yêu cầu công việc nhanh hơn và giao tiếp rõ ràng hơn trong quá trình làm việc.\n\nDưới đây là 30 từ vựng QC tiếng Trung thường gặp trong môi trường sản xuất, được trình bày song ngữ Việt – Trung để bạn dễ tra cứu và ghi nhớ.",
       "sections": [
         {
-          "heading": "Từ vựng về kiểm tra và đánh giá chất lượng",
+          "heading": "Nhóm từ vựng lỗi QC",
+          "body": "Trong quá trình kiểm tra sản phẩm, nhân viên QC thường phải mô tả các lỗi phát sinh và thông báo tình trạng sản phẩm cho bộ phận sản xuất hoặc quản lý. Những từ vựng dưới đây thường được sử dụng để mô tả lỗi và đưa ra hướng xử lý ban đầu.",
+          "items": [
+            "外观不良 — Lỗi ngoại quan",
+            "尺寸异常 — Kích thước bất thường",
+            "表面划伤 — Trầy xước bề mặt",
+            "颜色不一致 — Màu sắc không đồng đều",
+            "数量错误 — Sai số lượng",
+            "材料问题 — Vấn đề vật liệu",
+            "包装破损 — Bao bì bị hỏng",
+            "产品变形 — Sản phẩm bị biến dạng",
+            "零件缺失 — Thiếu linh kiện",
+            "质量问题 — Vấn đề chất lượng"
+          ]
+        },
+        {
+          "heading": "Từ vựng kiểm tra chất lượng",
           "body": "Khi kiểm tra sản phẩm, nhân viên QC thường cần trao đổi về tiêu chuẩn chất lượng, kết quả kiểm tra và tình trạng đạt hoặc không đạt của sản phẩm. Những từ vựng dưới đây thường xuất hiện trong quá trình kiểm hàng tại nhà máy.",
           "items": [
             "质量 — Chất lượng",
@@ -88,6 +104,27 @@
             "结果 — Kết quả",
             "异常 — Bất thường",
             "数据 — Dữ liệu"
+          ]
+        },
+        {
+          "heading": "Từ vựng dùng khi trao đổi công việc QC",
+          "body": "Ngoài việc kiểm tra sản phẩm, nhân viên QC cũng cần trao đổi với các bộ phận liên quan về nguyên nhân lỗi, cách xử lý và kế hoạch cải thiện chất lượng. Những từ vựng dưới đây thường xuất hiện trong các cuộc trao đổi công việc hằng ngày.",
+          "items": [
+            "原因 — Nguyên nhân",
+            "改善 — Cải thiện",
+            "处理 — Xử lý",
+            "退货 — Trả hàng",
+            "返工 — Làm lại",
+            "返修 — Sửa lại",
+            "确认 — Xác nhận",
+            "问题 — Vấn đề",
+            "批次 — Lô hàng",
+            "生产线 — Dây chuyền sản xuất",
+            "数量 — Số lượng",
+            "尺寸 — Kích thước",
+            "外观 — Ngoại quan",
+            "检验员 — Nhân viên kiểm tra",
+            "标准操作 — Quy trình tiêu chuẩn"
           ]
         }
       ],
