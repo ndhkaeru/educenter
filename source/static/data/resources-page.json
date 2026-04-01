@@ -1,9 +1,9 @@
 {
   "pageTitle": "Tài liệu",
-  "pageDescription": "Trang tài liệu lấy danh sách card từ CMS. Mỗi card có thể mở trực tiếp Google Drive hoặc thư mục tài liệu tương ứng.",
-  "introEyebrow": "Tài liệu miễn phí",
-  "introTitle": "Khung tài liệu đã sẵn để giữ lead và hỗ trợ học viên",
-  "introText": "Mỗi tài liệu là một card riêng trong CMS. Khi click vào card hoặc nút, người dùng sẽ được mở link Google Drive mà bạn đã gắn.",
+  "pageDescription": "Trang tổng hợp các tài liệu học tiếng Trung ứng dụng trong công việc, bao gồm từ vựng, mẫu câu giao tiếp và tài liệu song ngữ giúp người học dễ tra cứu và ôn tập.",
+  "introEyebrow": "Tài liệu học miễn phí",
+  "introTitle": "Tài liệu tiếng Trung cho người đi làm",
+  "introText": "Trang này cung cấp các tài liệu học tiếng Trung được tổng hợp dành cho người đi làm. Nội dung tập trung vào từ vựng công việc, mẫu câu giao tiếp và các tài liệu song ngữ giúp người học dễ hiểu và dễ áp dụng.\n\nBạn có thể mở trực tiếp từng tài liệu để xem hoặc lưu về để sử dụng khi cần tra cứu trong công việc hằng ngày.",
   "showcase": {
     "image": "images/research/research-1.jpg",
     "eyebrow": "Google Drive",
