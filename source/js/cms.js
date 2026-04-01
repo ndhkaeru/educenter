@@ -348,10 +348,6 @@
     setLink('.cms-facebook-link', site.facebookUrl);
     setText('.cms-address-text', site.address);
     setText('#cms-copyright-text', site.copyright);
-    setText('#cms-footer-lead-title', site.leadBannerTitle);
-    setHtml('#cms-footer-lead-text', richTextMarkup(site.leadBannerText, 'p'));
-    setText('#cms-footer-lead-button', site.leadBannerButtonLabel);
-    setLink('#cms-footer-lead-button', site.leadBannerButtonUrl);
   }
 
   function setPageMeta(title, description, site) {
@@ -449,6 +445,12 @@
     }
     if (pageData.introText) {
       setRichText('#cms-' + parentTitle + '-intro-text', pageData.introText, 'p');
+    }
+    if (pageData.cta) {
+      setText('#cms-' + parentTitle + '-cta-title', pageData.cta.title);
+      setRichText('#cms-' + parentTitle + '-cta-body', pageData.cta.body, 'p');
+      setText('#cms-' + parentTitle + '-cta-button', pageData.cta.buttonLabel);
+      setLink('#cms-' + parentTitle + '-cta-button', pageData.cta.buttonUrl);
     }
     setHtml(archiveSelector, (items || []).map(builder).join(''));
   }

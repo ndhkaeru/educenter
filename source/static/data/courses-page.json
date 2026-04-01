@@ -3,5 +3,11 @@
   "pageDescription": "Các khóa học được thiết kế dành cho người đang làm việc trong môi trường có sử dụng tiếng Trung như nhà máy, văn phòng hoặc doanh nghiệp có đối tác Trung Quốc.\nNội dung tập trung vào từ vựng công việc, mẫu câu giao tiếp và các tình huống thực tế giúp người học có thể áp dụng ngay vào công việc.",
   "introEyebrow": "Các khóa học nổi bật",
   "introTitle": "Lộ trình học tiếng Trung dành cho người đi làm",
-  "introText": "Các khóa học được xây dựng theo lộ trình rõ ràng, phù hợp với những người đang làm việc trong môi trường có sử dụng tiếng Trung như nhà máy, văn phòng hoặc doanh nghiệp có đối tác Trung Quốc.\n\nNội dung tập trung vào từ vựng công việc, mẫu câu giao tiếp và các tình huống thực tế thường gặp khi làm việc. Mỗi khóa học được thiết kế ngắn gọn, dễ hiểu và có thể áp dụng ngay vào công việc hàng ngày.\n\nNgười học có thể lựa chọn khóa học phù hợp với trình độ hiện tại, từ nền tảng cơ bản đến các khóa giao tiếp chuyên sâu cho môi trường làm việc."
+  "introText": "Các khóa học được xây dựng theo lộ trình rõ ràng, phù hợp với những người đang làm việc trong môi trường có sử dụng tiếng Trung như nhà máy, văn phòng hoặc doanh nghiệp có đối tác Trung Quốc.\n\nNội dung tập trung vào từ vựng công việc, mẫu câu giao tiếp và các tình huống thực tế thường gặp khi làm việc. Mỗi khóa học được thiết kế ngắn gọn, dễ hiểu và có thể áp dụng ngay vào công việc hàng ngày.\n\nNgười học có thể lựa chọn khóa học phù hợp với trình độ hiện tại, từ nền tảng cơ bản đến các khóa giao tiếp chuyên sâu cho môi trường làm việc.",
+  "cta": {
+    "title": "Chưa chắc nên bắt đầu từ khóa nào",
+    "body": "Nếu bạn chưa rõ mình phù hợp với lộ trình nào, hãy gửi thông tin để được tư vấn theo mục tiêu công việc, trình độ hiện tại và thời gian học thực tế.\n\nTừ đó bạn có thể chọn đúng khóa học ngay từ đầu, tránh học lan man và rút ngắn thời gian áp dụng tiếng Trung vào công việc.",
+    "buttonLabel": "Nhận tư vấn lộ trình",
+    "buttonUrl": "contact.html"
+  }
 }

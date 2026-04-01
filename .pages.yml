@@ -90,15 +90,6 @@ content:
       - { name: facebookUrl, label: Liên kết Facebook, type: string, required: true }
       - { name: address, label: Địa chỉ hoặc khu vực phục vụ, type: string, required: true }
       - { name: copyright, label: Copyright, type: string, required: true }
-      - { name: leadBannerTitle, label: Tiêu đề footer CTA, type: string, required: true }
-      - name: leadBannerText
-        label: Mô tả footer CTA
-        type: rich-text
-        required: true
-        options:
-          media: false
-      - { name: leadBannerButtonLabel, label: Nút footer CTA, type: string, required: true }
-      - { name: leadBannerButtonUrl, label: Liên kết footer CTA, type: string, required: true }
 
   - name: home
     label: Trang chủ
@@ -361,6 +352,19 @@ content:
         required: true
         options:
           media: false
+      - name: cta
+        label: CTA cuối trang
+        type: object
+        fields:
+          - { name: title, label: Tiêu đề, type: string, required: true }
+          - name: body
+            label: Nội dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Tên nút, type: string, required: true }
+          - { name: buttonUrl, label: Liên kết nút, type: string, required: true }
 
   - name: courses_page
     label: Trang khóa học
@@ -378,6 +382,19 @@ content:
         required: true
         options:
           media: false
+      - name: cta
+        label: CTA cuối trang
+        type: object
+        fields:
+          - { name: title, label: Tiêu đề, type: string, required: true }
+          - name: body
+            label: Nội dung
+            type: rich-text
+            required: true
+            options:
+              media: false
+          - { name: buttonLabel, label: Tên nút, type: string, required: true }
+          - { name: buttonUrl, label: Liên kết nút, type: string, required: true }
 
   - name: resources_page
     label: Trang tài liệu
