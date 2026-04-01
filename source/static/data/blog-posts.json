@@ -126,9 +126,13 @@
             "检验员 — Nhân viên kiểm tra",
             "标准操作 — Quy trình tiêu chuẩn"
           ]
+        },
+        {
+          "heading": "Áp dụng từ vựng QC trong công việc",
+          "body": "Những từ vựng trên là các thuật ngữ tiếng Trung thường gặp khi kiểm tra chất lượng sản phẩm trong nhà máy.\n\nViệc ghi nhớ và sử dụng đúng những từ vựng này sẽ giúp bạn dễ dàng hiểu yêu cầu kiểm tra, mô tả lỗi sản phẩm và trao đổi công việc với quản lý hoặc đồng nghiệp người Trung.\n\nNếu bạn đang làm việc trong môi trường sản xuất có sử dụng tiếng Trung, việc nắm được các từ vựng QC cơ bản sẽ giúp bạn tự tin hơn trong quá trình kiểm hàng và báo cáo kết quả kiểm tra."
         }
       ],
-      "ctaLabel": "Xem khóa học liên quan",
+      "ctaLabel": "Xem trang tài liệu",
       "ctaUrl": "courses.html",
       "featured": true
     },
