@@ -11,19 +11,19 @@
       "title": "Tự tin giao tiếp với quản lý người Trung",
       "description": "Nắm vững các mẫu câu giao tiếp trong công việc:  \nbáo cáo sản xuất, trao đổi lỗi sản phẩm, làm việc với QC và kỹ sư Trung Quốc.",
       "buttonLabel": "Bắt đầu học ngay",
-      "buttonUrl": "course-single"
+      "buttonUrl": "course-single.html"
     },
     {
       "title": "Tiếng Trung chuyên ngành nhà máy",
       "description": "Học từ vựng và mẫu câu sử dụng trong môi trường sản xuất:  \ndây chuyền, kiểm tra chất lượng, kho vận và kỹ thuật.",
       "buttonLabel": "Xem chương trình học",
-      "buttonUrl": "resources"
+      "buttonUrl": "resources.html"
     },
     {
       "title": "Tăng cơ hội thăng tiến trong công việc",
       "description": "Biết tiếng Trung giúp bạn dễ dàng trao đổi với quản lý,  \nmở rộng cơ hội tăng lương và phát triển sự nghiệp trong công ty Trung Quốc.",
       "buttonLabel": "Đăng ký tư vấn",
-      "buttonUrl": "resources"
+      "buttonUrl": "resources.html"
     }
   ],
   "featureImage": "images/banner/banner-feature.png",
