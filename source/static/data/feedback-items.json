@@ -5,26 +5,35 @@
       "name": "Ngọc Ánh",
       "title": "Tự tin hơn khi giao tiếp trong ca làm",
       "image": "images/teachers/z7682740663572_ffa7bce99aba7df80870fef87f0e284e.jpg",
-      "quote": "Em hiểu được cách xác nhận số lượng, nhờ kiểm tra lại và báo lỗi ngắn gọn hơn trước rất nhiều.",
+      "quote": "Trước đây khi quản lý người Trung giao việc em thường phải hỏi lại nhiều lần.  \nSau khi học các mẫu câu giao ca và xác nhận công việc, em đã hiểu nhanh hơn và trao đổi rõ ràng hơn trong ca làm.",
       "message": "Từ không biết bắt đầu từ đâu đến tự tin giao ca",
       "featured": true
     },
     {
       "slug": "hoc-toi-dau-dung-duoc-toi-do",
-      "name": "Học viên 2",
+      "name": "Lê Thị Ngọc Anh",
       "title": "Học tới đâu dùng được tới đó",
       "image": "images/teachers/z7682763753025_8b67630bd0c5107021cbff676532b9cd.jpg",
-      "quote": "Phần từ vựng chuyền, QC và nhắn nhóm làm việc rất sát với việc em đang làm ở xưởng.",
-      "message": "Tin nhắn thật và phản hồi sau từng buổi học",
+      "quote": "Các bài học tập trung vào từ vựng và mẫu câu dùng trong công việc như QC, báo lỗi và giao ca.  \nEm có thể áp dụng ngay khi làm việc trong xưởng nên cảm thấy việc học rất thực tế.",
+      "message": "Học xong có thể dùng ngay trong công việc",
       "featured": true
     },
     {
       "slug": "de-nho-vi-hoc-theo-tinh-huong",
-      "name": "Học viên 3",
+      "name": "Quang Nam",
       "title": "Dễ nhớ vì học theo tình huống",
       "image": "images/teachers/z7682796484869_fd6709404c6d347f82fb951b9c297f5d.jpg",
-      "quote": "Không bị lan man như tự học, vào bài nào là có thể dùng ngay cho đúng tình huống đó.",
-      "message": "Có thể mở rộng thành video review riêng",
+      "quote": "Thay vì học từ vựng rời rạc, khóa học dạy theo các tình huống thường gặp trong công việc.  \nNhờ vậy em dễ nhớ hơn và biết cách nói đúng khi trao đổi với quản lý người Trung.",
+      "message": "Học đúng tình huống nên nhớ rất lâu",
+      "featured": true
+    },
+    {
+      "slug": "de-nho-vi-hoc-theo-tinh-huong",
+      "name": "Linh Lê",
+      "title": "Hiểu nhanh khi quản lý giao việc",
+      "image": "images/teachers/z7682818320201_dc7ca87bcd52954cd157b3e534165427.jpg",
+      "quote": "Trước đây khi quản lý người Trung giao việc em thường phải nhờ đồng nghiệp giải thích lại.  \nSau khi học các mẫu câu cơ bản trong công việc, em đã hiểu yêu cầu nhanh hơn và chủ động trao đổi khi cần.",
+      "message": "Hiểu nhanh chỉ đạo của quản lý người Trung",
       "featured": true
     }
   ]
