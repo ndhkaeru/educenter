@@ -283,7 +283,6 @@
       '<div class="col-lg-4 col-sm-6 mb-5">' +
       '  <div class="testimonial-card h-100">' +
       '    <img class="img-fluid w-100 mb-4" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">' +
-      '    <div class="quote-mark mb-3">"</div>' +
       '    <p class="feedback-name mb-2">' + escapeHtml(item.name) + '</p>' +
       '    <h4 class="mb-3">' + escapeHtml(item.title) + '</h4>' +
       '    <div class="rich-text-content feedback-quote mb-0">' + richTextMarkup(item.quote, 'p') + '</div>' +
