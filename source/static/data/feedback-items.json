@@ -19,7 +19,7 @@
       "featured": true
     },
     {
-      "slug": "de-nho-vi-hoc-theo-tinh-huong",
+      "slug": "hoc-tieng-trung-de-hon-sau-khi-co-nen-tang",
       "name": "Quang Nam",
       "title": "Dễ nhớ vì học theo tình huống",
       "image": "images/teachers/z7682796484869_fd6709404c6d347f82fb951b9c297f5d.jpg",
@@ -28,12 +28,21 @@
       "featured": true
     },
     {
-      "slug": "de-nho-vi-hoc-theo-tinh-huong",
+      "slug": "hoc-tieng-trung-de-hon-sau-khi-co-nen-tang",
       "name": "Linh Lê",
       "title": "Hiểu nhanh khi quản lý giao việc",
       "image": "images/teachers/z7682818320201_dc7ca87bcd52954cd157b3e534165427.jpg",
       "quote": "Trước đây khi quản lý người Trung giao việc em thường phải nhờ đồng nghiệp giải thích lại.  \nSau khi học các mẫu câu cơ bản trong công việc, em đã hiểu yêu cầu nhanh hơn và chủ động trao đổi khi cần.",
       "message": "Hiểu nhanh chỉ đạo của quản lý người Trung",
+      "featured": true
+    },
+    {
+      "slug": "hoc-tieng-trung-de-hon-sau-khi-co-nen-tang",
+      "name": "Văn Khoa - Sinh viên năm nhất",
+      "title": "Học tiếng Trung dễ hơn khi có nền tảng",
+      "image": "images/teachers/z7684195222735_5159d53872ea71f375a6ca7c77e7495b.jpg",
+      "quote": "Trước đây em học tiếng Trung nhưng không biết bắt đầu từ đâu nên rất dễ bỏ cuộc.  \nSau khi học các mẫu câu cơ bản và cách phát âm đúng, em cảm thấy việc học rõ ràng và dễ tiếp tục hơn.",
+      "message": "Có nền tảng nên việc học trở nên dễ dàng hơn",
       "featured": true
     }
   ]
