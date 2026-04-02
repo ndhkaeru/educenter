@@ -250,6 +250,13 @@
   color: $primary-color;
 }
 
+.feedback-name {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.45;
+  color: $secondary-color;
+}
+
 .contact-card {
   p:last-child {
     margin-bottom: 0;

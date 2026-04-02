@@ -284,7 +284,7 @@
       '  <div class="testimonial-card h-100">' +
       '    <img class="img-fluid w-100 mb-4" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">' +
       '    <div class="quote-mark mb-3">"</div>' +
-      '    <p class="card-meta mb-2">' + escapeHtml(item.name) + '</p>' +
+      '    <p class="feedback-name mb-2">' + escapeHtml(item.name) + '</p>' +
       '    <h4 class="mb-3">' + escapeHtml(item.title) + '</h4>' +
       '    <div class="rich-text-content feedback-quote mb-0">' + richTextMarkup(item.quote, 'p') + '</div>' +
       '  </div>' +
@@ -297,7 +297,7 @@
       '  <div class="card border-0 rounded-0 hover-shadow">' +
       '    <img class="card-img-top rounded-0" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">' +
       '    <div class="card-body">' +
-      '      <p class="card-meta mb-2">' + escapeHtml(item.name) + '</p>' +
+      '      <p class="feedback-name mb-2">' + escapeHtml(item.name) + '</p>' +
       '      <a href="feedback.html"><h4 class="card-title">' + escapeHtml(item.message) + '</h4></a>' +
       '      <div class="rich-text-content mb-3">' + richTextMarkup(item.quote, 'p') + '</div>' +
       '      <a href="feedback.html" class="btn btn-sm btn-outline-primary">Xem thêm</a>' +
