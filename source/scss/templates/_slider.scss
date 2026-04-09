@@ -5,6 +5,19 @@
   }
 }
 
+.hero-section.overlay::before {
+  opacity: .86;
+}
+
+.hero-slider-item .text-muted,
+.hero-slider-item .rich-text-content,
+.hero-slider-item .rich-text-content p {
+  color: rgba($color: $white, $alpha: .76) !important;
+  font-size: 17px;
+  line-height: 1.8;
+  text-shadow: 0 2px 10px rgba($color: $black, $alpha: .12);
+}
+
 .hero-slider {
 
   .prevArrow,
