@@ -48,16 +48,6 @@
 		});
 	}
 
-	function getPageName() {
-		var path = window.location.pathname.replace(/\/+$/, '').split('/').pop() || 'index.html';
-		return path.toLowerCase();
-	}
-
-	function isHomePage() {
-		var pageName = getPageName();
-		return !pageName || pageName === 'index.html';
-	}
-
 	function createQuickContactWidget() {
 		var widget = document.getElementById('quick-contact-sticky');
 		if (widget) {
@@ -84,11 +74,6 @@
 		var phoneHref;
 		var zaloHref;
 		var facebookHref;
-
-		if (!isHomePage()) {
-			$('#quick-contact-sticky').remove();
-			return;
-		}
 
 		widget = createQuickContactWidget();
 
