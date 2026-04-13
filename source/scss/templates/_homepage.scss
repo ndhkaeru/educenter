@@ -78,7 +78,7 @@
 }
 
 .quick-contact-sticky__link--phone {
-  background: linear-gradient(135deg, #ffbc3b, #f0a300);
+  background: linear-gradient(135deg, #1263eb, #0d4fc8);
 }
 
 @include mobile {
@@ -272,7 +272,7 @@
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color: #102f68;
 
   .text-color,
   .text-light,
@@ -293,7 +293,7 @@
 }
 
 .footer {
-  border-color: #494a43 !important;
+  border-color: rgba($color: $white, $alpha: .12) !important;
 }
 
 .copyright p,
