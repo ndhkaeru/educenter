@@ -265,6 +265,36 @@ a h4{
 /* page title */
 .page-title-section {
   padding: 200px 0 80px;
+
+  &.overlay::before {
+    background: linear-gradient(90deg,
+      rgba($color: $secondary-color, $alpha: .9) 0%,
+      rgba($color: $secondary-color, $alpha: .84) 55%,
+      rgba($color: $secondary-color, $alpha: .8) 100%);
+    opacity: 1;
+  }
+
+  .custom-breadcrumb {
+    #cms-page-parent-link {
+      color: rgba($color: $white, $alpha: .9) !important;
+      text-shadow: 0 2px 10px rgba($color: $black, $alpha: .16);
+
+      &:hover,
+      &:focus {
+        color: $white !important;
+      }
+    }
+
+    #cms-page-current-title {
+      color: $white !important;
+      text-shadow: 0 2px 10px rgba($color: $black, $alpha: .18);
+    }
+  }
+
+  #cms-page-description {
+    color: rgba($color: $white, $alpha: .9) !important;
+    text-shadow: 0 2px 10px rgba($color: $black, $alpha: .14);
+  }
 }
 
 .custom-breadcrumb {
