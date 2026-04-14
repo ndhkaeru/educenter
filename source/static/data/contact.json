@@ -1,26 +1,26 @@
 {
   "pageTitle": "Liên hệ",
-  "pageDescription": "Trang liên hệ được tối ưu theo hướng miễn phí: nhúng Google Form trực tiếp và đồng bộ thông tin liên hệ toàn site.",
-  "formTitle": "Đăng ký tư vấn qua Google Form",
-  "formDescription": "Để giữ hạ tầng miễn phí, trang này không còn xử lý form nội bộ. Bạn chỉ cần dán link nhúng hoặc mã iframe Google Form thật trong CMS là đã có thể nhận đăng ký ngay.",
+  "pageDescription": "Trang liên hệ giúp bạn đăng ký tư vấn khóa học tiếng Trung dành cho người đi làm trong môi trường sản xuất.\nBạn có thể điền thông tin để được tư vấn lộ trình học phù hợp hoặc nhận tài liệu học thử miễn phí.",
+  "formTitle": "Đăng ký tư vấn khóa học tiếng Trung",
+  "formDescription": "Điền thông tin bên dưới để nhận tư vấn lộ trình học phù hợp với công việc của bạn.  \nChúng tôi sẽ liên hệ lại trong thời gian sớm nhất.",
   "googleFormEmbed": "https://docs.google.com/forms/d/e/1FAIpQLSehP0llWPhxdNp_G60JLUKs5HWACzLKHYRzC_uoGTqnFXS8hg/viewform?embedded=true",
   "googleFormHeight": 961,
-  "googleFormLabel": "Mở Google Form ở tab mới",
+  "googleFormLabel": "Đăng ký tư vấn ngay",
   "googleFormUrl": "https://forms.gle/iL3EAtMzJBThLgTU6",
-  "helperTitle": "Cách dùng trang này",
-  "helperBody": "Mọi thông tin hotline, email, Zalo và Facebook đều lấy từ phần cài đặt chung trong CMS. Riêng Google Form, bạn có thể dán link dạng `viewform?embedded=true` hoặc dán nguyên thẻ iframe do Google cung cấp vào ô nhúng. Khi bạn sửa một chỗ, toàn bộ header, footer và trang liên hệ sẽ tự đồng bộ.",
+  "helperTitle": "Cách đăng ký tư vấn",
+  "helperBody": "Chỉ với vài bước đơn giản, bạn có thể đăng ký tư vấn và nhận lộ trình học phù hợp với công việc hiện tại.",
   "steps": [
     {
       "title": "Bước 1",
-      "body": "Người xem điền trực tiếp vào Google Form ngay trên trang liên hệ."
+      "body": "Nhập các thông tin cơ bản như họ tên, email và số điện thoại để chúng tôi có thể liên hệ tư vấn về nhu cầu học tiếng Trung trong công việc."
     },
     {
       "title": "Bước 2",
-      "body": "Bạn xem thông tin đã gửi trong Google Forms hoặc Google Sheets."
+      "body": "Sau khi gửi thông tin, đội ngũ hỗ trợ sẽ liên hệ lại để tìm hiểu nhu cầu học và giải đáp các câu hỏi liên quan."
     },
     {
       "title": "Bước 3",
-      "body": "Tư vấn lộ trình phù hợp rồi dẫn tiếp sang khóa học hoặc tài liệu."
+      "body": "Dựa trên thông tin bạn cung cấp, chúng tôi sẽ gợi ý lộ trình học và tài liệu phù hợp để bạn có thể bắt đầu học tiếng Trung hiệu quả."
     }
   ]
 }

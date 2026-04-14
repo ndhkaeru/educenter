@@ -48,6 +48,44 @@
 		});
 	}
 
+	function createQuickContactWidget() {
+		var widget = document.getElementById('quick-contact-sticky');
+		if (widget) {
+			return widget;
+		}
+
+		widget = document.createElement('div');
+		widget.id = 'quick-contact-sticky';
+		widget.className = 'quick-contact-sticky';
+		widget.innerHTML =
+			'<div class="quick-contact-sticky__panel" aria-label="Liên hệ nhanh">' +
+			'  <a class="quick-contact-sticky__link quick-contact-sticky__link--facebook" data-contact="facebook" href="#" aria-label="Facebook"><i class="ti-facebook"></i></a>' +
+			'  <a class="quick-contact-sticky__link quick-contact-sticky__link--zalo" data-contact="zalo" href="#" aria-label="Zalo"><i class="icon-zalo"></i></a>' +
+			'  <a class="quick-contact-sticky__link quick-contact-sticky__link--phone" data-contact="phone" href="#" aria-label="Gọi điện"><i class="ti-headphone-alt"></i></a>' +
+			'</div>';
+
+		document.body.appendChild(widget);
+
+		return widget;
+	}
+
+	function syncQuickContactWidget() {
+		var widget;
+		var phoneHref;
+		var zaloHref;
+		var facebookHref;
+
+		widget = createQuickContactWidget();
+
+		phoneHref = $('.cms-hotline-link').first().attr('href') || '#';
+		zaloHref = $('.cms-zalo-link').first().attr('href') || '#';
+		facebookHref = $('.cms-facebook-link').first().attr('href') || '#';
+
+		widget.querySelector('[data-contact="phone"]').setAttribute('href', phoneHref);
+		widget.querySelector('[data-contact="zalo"]').setAttribute('href', zaloHref);
+		widget.querySelector('[data-contact="facebook"]').setAttribute('href', facebookHref);
+	}
+
 	// Preloader js    
 	$(window).on('load', function () {
 		$('.preloader').fadeOut(700);
@@ -80,6 +118,7 @@
 
 	//Hero Slider
 	initHeroSlider();
+	syncQuickContactWidget();
 
 	// venobox popup
 	$(document).ready(function () {
@@ -127,6 +166,7 @@
 		initHeroSlider();
 		initVenobox();
 		initFilters();
+		syncQuickContactWidget();
 	});
 
 })(jQuery);

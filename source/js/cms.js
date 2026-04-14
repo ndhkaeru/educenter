@@ -283,7 +283,7 @@
       '<div class="col-lg-4 col-sm-6 mb-5">' +
       '  <div class="testimonial-card h-100">' +
       '    <img class="img-fluid w-100 mb-4" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">' +
-      '    <div class="quote-mark mb-3">"</div>' +
+      '    <p class="feedback-name mb-2">' + escapeHtml(item.name) + '</p>' +
       '    <h4 class="mb-3">' + escapeHtml(item.title) + '</h4>' +
       '    <div class="rich-text-content feedback-quote mb-0">' + richTextMarkup(item.quote, 'p') + '</div>' +
       '  </div>' +
@@ -296,6 +296,7 @@
       '  <div class="card border-0 rounded-0 hover-shadow">' +
       '    <img class="card-img-top rounded-0" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">' +
       '    <div class="card-body">' +
+      '      <p class="feedback-name mb-2">' + escapeHtml(item.name) + '</p>' +
       '      <a href="feedback.html"><h4 class="card-title">' + escapeHtml(item.message) + '</h4></a>' +
       '      <div class="rich-text-content mb-3">' + richTextMarkup(item.quote, 'p') + '</div>' +
       '      <a href="feedback.html" class="btn btn-sm btn-outline-primary">Xem thêm</a>' +
@@ -348,10 +349,6 @@
     setLink('.cms-facebook-link', site.facebookUrl);
     setText('.cms-address-text', site.address);
     setText('#cms-copyright-text', site.copyright);
-    setText('#cms-footer-lead-title', site.leadBannerTitle);
-    setHtml('#cms-footer-lead-text', richTextMarkup(site.leadBannerText, 'p'));
-    setText('#cms-footer-lead-button', site.leadBannerButtonLabel);
-    setLink('#cms-footer-lead-button', site.leadBannerButtonUrl);
   }
 
   function setPageMeta(title, description, site) {
@@ -449,6 +446,12 @@
     }
     if (pageData.introText) {
       setRichText('#cms-' + parentTitle + '-intro-text', pageData.introText, 'p');
+    }
+    if (pageData.cta) {
+      setText('#cms-' + parentTitle + '-cta-title', pageData.cta.title);
+      setRichText('#cms-' + parentTitle + '-cta-body', pageData.cta.body, 'p');
+      setText('#cms-' + parentTitle + '-cta-button', pageData.cta.buttonLabel);
+      setLink('#cms-' + parentTitle + '-cta-button', pageData.cta.buttonUrl);
     }
     setHtml(archiveSelector, (items || []).map(builder).join(''));
   }

@@ -1,7 +1,13 @@
 {
   "pageTitle": "Blog",
-  "pageDescription": "Blog được tổ chức theo 4 nhóm nội dung: tiếng Trung công xưởng, song ngữ Việt - Trung, kinh nghiệm đi làm và học nhanh mỗi ngày.",
-  "introEyebrow": "Blog theo require",
-  "introTitle": "Khung blog đã sẵn để phát triển nội dung SEO và nuôi lead",
-  "introText": "Tất cả bài viết bên dưới đều lấy từ dữ liệu CMS. Bạn có thể thêm, sửa, xóa bài mà không cần đụng vào HTML."
+  "pageDescription": "Blog chia sẻ kiến thức tiếng Trung ứng dụng trong công việc, các mẫu câu giao tiếp thực tế và kinh nghiệm làm việc với đồng nghiệp hoặc đối tác người Trung.",
+  "introEyebrow": "Kiến thức tiếng Trung ứng dụng",
+  "introTitle": "Blog tiếng Trung cho người đi làm",
+  "introText": "Blog chia sẻ các bài viết ngắn về tiếng Trung ứng dụng trong công việc, giúp người đi làm dễ học và dễ áp dụng. Nội dung được trình bày song ngữ Việt – Trung, tập trung vào từ vựng công việc, mẫu câu giao tiếp và các tình huống thường gặp khi làm việc với đồng nghiệp hoặc quản lý người Trung.\n\nCác bài viết xoay quanh các chủ đề như tiếng Trung trong công xưởng và sản xuất, mẫu câu giao tiếp trong công việc, từ vựng thường gặp và kinh nghiệm làm việc trong môi trường có sử dụng tiếng Trung.",
+  "cta": {
+    "title": "Muốn học nhanh theo đúng tình huống đi làm thực tế",
+    "body": "Nếu bạn muốn học theo lộ trình bài bản thay vì chỉ đọc từng bài rời rạc, hãy xem các khóa học được thiết kế riêng cho người đi làm trong môi trường có sử dụng tiếng Trung.\n\nMỗi khóa học tập trung vào mẫu câu, từ vựng và tình huống giao tiếp có thể áp dụng ngay trong công việc hằng ngày.",
+    "buttonLabel": "Xem các khóa học phù hợp",
+    "buttonUrl": "courses.html"
+  }
 }

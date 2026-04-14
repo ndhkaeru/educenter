@@ -2,29 +2,47 @@
   "items": [
     {
       "slug": "tu-tin-hon-khi-giao-tiep-trong-ca-lam",
-      "name": "Học viên 1",
+      "name": "Ngọc Ánh",
       "title": "Tự tin hơn khi giao tiếp trong ca làm",
-      "image": "images/teachers/teacher-1.jpg",
-      "quote": "Em hiểu được cách xác nhận số lượng, nhờ kiểm tra lại và báo lỗi ngắn gọn hơn trước rất nhiều.",
+      "image": "images/teachers/z7682740663572_ffa7bce99aba7df80870fef87f0e284e.jpg",
+      "quote": "Trước đây khi quản lý người Trung giao việc em thường phải hỏi lại nhiều lần.  \nSau khi học các mẫu câu giao ca và xác nhận công việc, em đã hiểu nhanh hơn và trao đổi rõ ràng hơn trong ca làm.",
       "message": "Từ không biết bắt đầu từ đâu đến tự tin giao ca",
       "featured": true
     },
     {
       "slug": "hoc-toi-dau-dung-duoc-toi-do",
-      "name": "Học viên 2",
+      "name": "Lê Thị Ngọc Anh",
       "title": "Học tới đâu dùng được tới đó",
-      "image": "images/teachers/teacher-2.jpg",
-      "quote": "Phần từ vựng chuyền, QC và nhắn nhóm làm việc rất sát với việc em đang làm ở xưởng.",
-      "message": "Tin nhắn thật và phản hồi sau từng buổi học",
+      "image": "images/teachers/screenshot_1775100617.png",
+      "quote": "Các bài học tập trung vào từ vựng và mẫu câu dùng trong công việc như QC, báo lỗi và giao ca.  \nEm có thể áp dụng ngay khi làm việc trong xưởng nên cảm thấy việc học rất thực tế.",
+      "message": "Học xong có thể dùng ngay trong công việc",
       "featured": true
     },
     {
-      "slug": "de-nho-vi-hoc-theo-tinh-huong",
-      "name": "Học viên 3",
+      "slug": "hoc-tieng-trung-de-hon-sau-khi-co-nen-tang",
+      "name": "Quang Nam",
       "title": "Dễ nhớ vì học theo tình huống",
-      "image": "images/teachers/teacher-3.jpg",
-      "quote": "Không bị lan man như tự học, vào bài nào là có thể dùng ngay cho đúng tình huống đó.",
-      "message": "Có thể mở rộng thành video review riêng",
+      "image": "images/teachers/z7682796484869_fd6709404c6d347f82fb951b9c297f5d.jpg",
+      "quote": "Thay vì học từ vựng rời rạc, khóa học dạy theo các tình huống thường gặp trong công việc.  \nNhờ vậy em dễ nhớ hơn và biết cách nói đúng khi trao đổi với quản lý người Trung.",
+      "message": "Học đúng tình huống nên nhớ rất lâu",
+      "featured": true
+    },
+    {
+      "slug": "hoc-tieng-trung-de-hon-sau-khi-co-nen-tang",
+      "name": "Linh Lê",
+      "title": "Hiểu nhanh khi quản lý giao việc",
+      "image": "images/teachers/z7682818320201_dc7ca87bcd52954cd157b3e534165427.jpg",
+      "quote": "Trước đây khi quản lý người Trung giao việc em thường phải nhờ đồng nghiệp giải thích lại.  \nSau khi học các mẫu câu cơ bản trong công việc, em đã hiểu yêu cầu nhanh hơn và chủ động trao đổi khi cần.",
+      "message": "Hiểu nhanh chỉ đạo của quản lý người Trung",
+      "featured": true
+    },
+    {
+      "slug": "hoc-tieng-trung-de-hon-sau-khi-co-nen-tang",
+      "name": "Văn Khoa - Sinh viên năm nhất",
+      "title": "Học tiếng Trung dễ hơn khi có nền tảng",
+      "image": "images/teachers/z7684195222735_5159d53872ea71f375a6ca7c77e7495b.jpg",
+      "quote": "Trước đây em học tiếng Trung nhưng không biết bắt đầu từ đâu nên rất dễ bỏ cuộc.  \nSau khi học các mẫu câu cơ bản và cách phát âm đúng, em cảm thấy việc học rõ ràng và dễ tiếp tục hơn.",
+      "message": "Có nền tảng nên việc học trở nên dễ dàng hơn",
       "featured": true
     }
   ]

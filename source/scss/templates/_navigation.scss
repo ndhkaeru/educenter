@@ -1,13 +1,29 @@
 .top-header {
-  font-size: 12px;
+  font-size: 14px;
   transition: transform .2s ease;
   transform-origin: top;
-  font-weight: 600;
+  font-weight: 700;
 
   &.hide {
     transform: scaleY(0);
     transform-origin: top;
   }
+}
+
+.top-header .cms-hotline-link {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.top-header .list-inline.d-inline {
+  a {
+    font-size: 16px;
+    padding: 10px !important;
+  }
+}
+
+.top-header .text-uppercase {
+  font-weight: 700;
 }
 
 .navigation {

@@ -35,6 +35,70 @@
   }
 }
 
+.quick-contact-sticky {
+  position: fixed;
+  right: 20px;
+  bottom: 24px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+}
+
+.quick-contact-sticky__panel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px 10px;
+}
+
+.quick-contact-sticky__link {
+  @include size(56px);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  color: $white;
+  font-size: 24px;
+  box-shadow: 0 12px 24px rgba(8, 58, 89, 0.16);
+
+  &:hover {
+    color: $white;
+    transform: translateX(-3px);
+  }
+}
+
+.quick-contact-sticky__link--facebook {
+  background: linear-gradient(135deg, #1877f2, #0e4fd7);
+}
+
+.quick-contact-sticky__link--zalo {
+  background: linear-gradient(131deg, #0255ff, #0f78ff);
+}
+
+.quick-contact-sticky__link--phone {
+  background: linear-gradient(135deg, #1263eb, #0d4fc8);
+}
+
+@include mobile {
+  .quick-contact-sticky {
+    right: 14px;
+    bottom: 16px;
+    gap: 10px;
+  }
+
+  .quick-contact-sticky__panel {
+    padding: 10px 8px;
+  }
+
+  .quick-contact-sticky__link {
+    width: 52px;
+    height: 52px;
+    font-size: 22px;
+  }
+}
+
 /* /banner feature */
 
 /* course */
@@ -208,7 +272,19 @@
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color: #102f68;
+
+  .text-color,
+  .text-light,
+  .cms-brand-description,
+  .cms-address-text,
+  .cms-email-text,
+  .cms-hotline-text,
+  .cms-zalo-text,
+  p,
+  li {
+    color: rgba($color: $white, $alpha: .76) !important;
+  }
 }
 
 .logo-footer {
@@ -217,8 +293,17 @@
 }
 
 .footer {
-  border-color: #494a43 !important;
-  padding-top: 275px;
+  border-color: rgba($color: $white, $alpha: .12) !important;
+}
+
+.copyright p,
+.copyright .mb-0 {
+  color: rgba($color: $white, $alpha: .76);
+}
+
+.copyright .list-inline-item a {
+  font-size: 18px;
+  padding: 10px !important;
 }
 
 /* /footer */
@@ -244,10 +329,8 @@
   text-transform: uppercase;
 }
 
-.quote-mark {
-  font-size: 44px;
-  line-height: 1;
-  color: $primary-color;
+.feedback-name {
+  font-weight: 700;
 }
 
 .contact-card {
