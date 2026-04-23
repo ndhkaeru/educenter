@@ -26,7 +26,7 @@
       "buttonUrl": "resources.html"
     }
   ],
-  "featureImage": "images/banner/banner-feature.png",
+  "featureImage": "images/banner/z7736638857886_2233474af55946275663cb4526d2c69f.jpg",
   "features": [
     {
       "icon": "ti-book",
@@ -50,7 +50,7 @@
     }
   ],
   "aboutPreview": {
-    "image": "images/about/about-us.jpg",
+    "image": "images/about/z7741457144460_b39a3b87dcc0ea8f9ac29631008b6e42.jpg",
     "title": "Lớp học được thiết kế cho người đi làm dùng được ngay",
     "body": "Khóa học Tiếng Trung Công Xưởng 365 được xây dựng dành riêng cho những người đang làm việc trong môi trường nhà máy, sản xuất và công ty Trung Quốc.\n\nNội dung tập trung vào các tình huống thực tế trong công việc như: giao tiếp với quản lý người Trung, báo cáo tiến độ sản xuất, kiểm tra chất lượng, xử lý lỗi sản phẩm và trao đổi trong quá trình làm việc.\n\nThay vì học lý thuyết lan man, chương trình tập trung vào mẫu câu và từ vựng sử dụng trực tiếp trong công việc, giúp bạn nhanh chóng áp dụng vào môi trường làm việc hàng ngày.\n\nChỉ cần dành một chút thời gian mỗi ngày, bạn có thể tự tin giao tiếp với đồng nghiệp và quản lý người Trung, đồng thời mở rộng cơ hội phát triển trong công việc.",
     "buttonLabel": "Xem phần giới thiệu",
@@ -66,8 +66,8 @@
   },
   "video": {
     "backgroundImage": "images/backgrounds/success-story.jpg",
-    "videoUrl": "https://youtu.be/nA1Aqp0sPQo",
-    "title": "Video demo bài học",
+    "videoUrl": "https://www.youtube.com/watch?v=cMKL58vQ_TU",
+    "title": "Video demo bài luyện nghe tiếng trung",
     "description": "Xem thử một bài học mẫu trong khóa Tiếng Trung Công Xưởng 365 để hiểu cách giảng dạy và nội dung thực tế của chương trình.  \nCác bài học được thiết kế dựa trên những tình huống thường gặp trong môi trường nhà máy như giao tiếp với quản lý người Trung, báo cáo sản xuất, kiểm tra chất lượng và xử lý lỗi sản phẩm.\n\nChỉ với những mẫu câu đơn giản và dễ nhớ, bạn có thể nhanh chóng áp dụng vào công việc hàng ngày.",
     "points": [
       "Demo bài học theo tình huống thực tế trong nhà máy như báo cáo công việc, kiểm hàng và trao đổi với quản lý người Trung.",
