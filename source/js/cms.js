@@ -393,7 +393,7 @@
 
       return '<li class="' + (hasChildren ? 'dropdown' : '') + '">' +
         '<a class="dropdown-item' + (hasChildren ? ' dropdown-toggle' : '') + '" href="' + escapeHtml(item.url || '#') + '"' +
-        (hasChildren ? ' id="' + dropdownId + '" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"' : '') + '>' + escapeHtml(item.label) + '</a>' +
+        (hasChildren ? ' id="' + dropdownId + '" role="button" aria-haspopup="true" aria-expanded="false"' : '') + '>' + escapeHtml(item.label) + '</a>' +
         (hasChildren ? buildNavigationChildren(children, level + 1, dropdownId) : '') +
         '</li>';
     }).join('') + '</ul>';
@@ -415,7 +415,7 @@
 
       return '<li class="nav-item' + (hasChildren ? ' dropdown' : '') + (isActiveNavigationItem(item, pageName) ? ' active' : '') + '">' +
         '<a class="nav-link' + (hasChildren ? ' dropdown-toggle' : '') + '" href="' + escapeHtml(item.url || '#') + '"' +
-        (hasChildren ? ' id="' + dropdownId + '" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"' : '') + '>' +
+        (hasChildren ? ' id="' + dropdownId + '" role="button" aria-haspopup="true" aria-expanded="false"' : '') + '>' +
         escapeHtml(item.label) +
         '</a>' +
         (hasChildren ? buildNavigationChildren(children, 1, dropdownId) : '') +
@@ -787,3 +787,4 @@
     console.error('[CMS]', error);
   });
 })();
+

@@ -48,6 +48,18 @@
 		});
 	}
 
+	function initNavbarDropdown() {
+		$('.navigation .dropdown-toggle').off('click.navigationDropdown');
+		if ($(window).width() < 992) {
+			$('.navigation .dropdown-toggle').on('click.navigationDropdown', function (event) {
+				event.preventDefault();
+				event.stopPropagation();
+				$(this).siblings('.dropdown-menu').stop(true, true).animate({
+					height: 'toggle'
+				}, 300);
+			});
+		}
+	}
 	function createQuickContactWidget() {
 		var widget = document.getElementById('quick-contact-sticky');
 		if (widget) {
@@ -105,13 +117,7 @@
 		}
 	});
 	// navbarDropdown
-	if ($(window).width() < 992) {
-		$('.navigation .dropdown-toggle').on('click', function () {
-			$(this).siblings('.dropdown-menu').animate({
-				height: 'toggle'
-			}, 300);
-		});
-	}
+	initNavbarDropdown();
 
 	// Background-images
 	applyBackgroundImages();
@@ -166,7 +172,9 @@
 		initHeroSlider();
 		initVenobox();
 		initFilters();
+		initNavbarDropdown();
 		syncQuickContactWidget();
 	});
 
 })(jQuery);
+

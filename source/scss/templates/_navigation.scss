@@ -135,7 +135,8 @@ link:focus,
 
 .navbar {
   
-  .nav-item > .dropdown-toggle::after {
+  .nav-item > .dropdown-toggle::after,
+  .dropdown-item.dropdown-toggle::after {
     border: 0;
     margin-left: 0.255em;
     vertical-align: 1px;
@@ -153,6 +154,8 @@ link:focus,
     }
     .dropdown-menu.dropdown-submenu {
       top: 0;
+      left: 100%;
+      margin-top: -10px;
       @include desktop {
         li:first-child {
           margin-top: 15px;
@@ -201,7 +204,6 @@ link:focus,
       }
 
       &.show {
-        visibility: hidden;
 
         @include desktop {
           visibility: visible;
@@ -229,3 +231,4 @@ link:focus,
     }
   }
 }
+
