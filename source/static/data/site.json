@@ -14,5 +14,191 @@
   "facebookText": "https://www.facebook.com/profile.php?id=61587615137572",
   "facebookUrl": "https://www.facebook.com/profile.php?id=61587615137572",
   "address": "Khu vực dạy online toàn quốc",
-  "copyright": "Tiếng Trung Công Xưởng 365"
+  "copyright": "Tiếng Trung Công Xưởng 365",
+  "navigation": [
+    {
+      "label": "Trang chủ",
+      "url": "index.html"
+    },
+    {
+      "label": "Giới thiệu",
+      "url": "about.html"
+    },
+    {
+      "label": "Đào tạo Tiếng Trung",
+      "url": "courses.html",
+      "children": [
+        {
+          "label": "Tiếng Trung HSK",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung giao tiếp",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung công xưởng",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung văn phòng",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung QA/QC",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung PMC",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Kho vận",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Thu mua",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Sản xuất",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung PE",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung IE",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung HR – Hành chính nhân sự",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung EHS",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung IT",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Kế toán",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Xuất nhập khẩu",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Kỹ thuật",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Bảo trì máy móc",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung CSKH",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Sales",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung Audit đối ứng khách hàng",
+          "url": "courses.html"
+        },
+        {
+          "label": "Tiếng Trung phiên dịch hiện trường",
+          "url": "courses.html"
+        }
+      ]
+    },
+    {
+      "label": "Đào tạo Nghề",
+      "url": "courses.html",
+      "children": [
+        {
+          "label": "Đào tạo QA/QC",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo PMC",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Kho vận",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Thu mua",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Sản xuất",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo PE / IE",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo HR – Hành chính",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Xuất nhập khẩu",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Kỹ thuật sản xuất",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo ISO",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Lean – 5S – Kaizen",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Audit nội bộ",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Kỹ năng quản lý",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo Tin học văn phòng",
+          "url": "courses.html"
+        },
+        {
+          "label": "Đào tạo AI ứng dụng công việc công xưởng",
+          "url": "courses.html"
+        }
+      ]
+    },
+    {
+      "label": "Blog",
+      "url": "blog.html"
+    },
+    {
+      "label": "Tài liệu",
+      "url": "resources.html"
+    },
+    {
+      "label": "Feedback",
+      "url": "feedback.html"
+    },
+    {
+      "label": "Liên hệ",
+      "url": "contact.html"
+    }
+  ]
 }

@@ -341,7 +341,8 @@ a h4{
   p,
   ul,
   ol,
-  blockquote {
+  blockquote,
+  .table-responsive {
     margin-bottom: 1rem;
   }
 
@@ -359,6 +360,21 @@ a h4{
   img {
     max-width: 100%;
     height: auto;
+  }
+
+  .rich-text-table {
+    background: $white;
+    color: $text-color;
+
+    th {
+      color: $text-color;
+      font-weight: 700;
+    }
+
+    th,
+    td {
+      vertical-align: middle;
+    }
   }
 
   > *:last-child {

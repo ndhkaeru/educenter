@@ -96,6 +96,59 @@
     return /<\/?[a-z][\s\S]*>/i.test(String(value || ''));
   }
 
+  function isMarkdownTableLine(line) {
+    var text = String(line || '').trim();
+    return text.charAt(0) === '|' && text.charAt(text.length - 1) === '|';
+  }
+
+  function isMarkdownTableDivider(line) {
+    return /^\|[\s:|-]+\|$/.test(String(line || '').trim());
+  }
+
+  function markdownInlineMarkup(value) {
+    return escapeHtml(value)
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  }
+
+  function markdownTableMarkup(lines) {
+    var rows = lines
+      .filter(function (line) { return !isMarkdownTableDivider(line); })
+      .map(function (line) {
+        return line.trim().replace(/^\||\|$/g, '').split('|').map(function (cell) {
+          return cell.trim();
+        });
+      })
+      .filter(function (row) {
+        return row.some(function (cell) { return cell !== ''; });
+      });
+
+    if (!rows.length) {
+      return '';
+    }
+
+    return '<div class="table-responsive"><table class="table table-bordered rich-text-table">' +
+      rows.map(function (row, rowIndex) {
+        var cellTag = rowIndex === 0 ? 'th' : 'td';
+        return '<tr>' + row.map(function (cell) {
+          return '<' + cellTag + '>' + markdownInlineMarkup(cell) + '</' + cellTag + '>';
+        }).join('') + '</tr>';
+      }).join('') +
+      '</table></div>';
+  }
+
+  function richTextBlockMarkup(block, tag) {
+    var lines = block.replace(/\r\n/g, '\n').split('\n');
+
+    if (lines.length > 1 && lines.every(function (line) {
+      return isMarkdownTableLine(line) || isMarkdownTableDivider(line);
+    })) {
+      return markdownTableMarkup(lines);
+    }
+
+    return '<' + tag + '>' + markdownInlineMarkup(block).replace(/\n/g, '<br>') + '</' + tag + '>';
+  }
+
   function richTextMarkup(value, defaultTag) {
     var content = String(value || '').trim();
     var tag = defaultTag || 'p';
@@ -112,7 +165,7 @@
       .replace(/\r\n/g, '\n')
       .split(/\n{2,}/)
       .map(function (block) {
-        return '<' + tag + '>' + escapeHtml(block).replace(/\n/g, '<br>') + '</' + tag + '>';
+        return richTextBlockMarkup(block, tag);
       })
       .join('');
   }
@@ -318,6 +371,55 @@
       '</div>';
   }
 
+  function isActiveNavigationItem(item, pageName) {
+    var url = String(item.url || '').split('?')[0].split('#')[0];
+    var fileName = url.replace(/\/+$/, '').split('/').pop() || 'index.html';
+
+    if (fileName === pageName) {
+      return true;
+    }
+
+    return (item.children || []).some(function (child) {
+      return isActiveNavigationItem(child, pageName);
+    });
+  }
+
+  function buildNavigationChildren(items, level) {
+    return '<ul class="dropdown-menu' + (level > 1 ? ' dropdown-submenu' : '') + '">' + (items || []).map(function (item) {
+      var children = item.children || [];
+      var hasChildren = children.length > 0;
+
+      return '<li class="' + (hasChildren ? 'dropdown' : '') + '">' +
+        '<a class="dropdown-item' + (hasChildren ? ' dropdown-toggle' : '') + '" href="' + escapeHtml(item.url || '#') + '">' + escapeHtml(item.label) + '</a>' +
+        (hasChildren ? buildNavigationChildren(children, level + 1) : '') +
+        '</li>';
+    }).join('') + '</ul>';
+  }
+
+  function renderNavigation(site) {
+    var navList = qs('#cms-main-navigation');
+    var items = site.navigation || [];
+    var pageName = getPageName();
+
+    if (!navList || !items.length) {
+      return;
+    }
+
+    navList.innerHTML = items.map(function (item, index) {
+      var children = item.children || [];
+      var hasChildren = children.length > 0;
+      var dropdownId = 'cms-navigation-dropdown-' + index;
+
+      return '<li class="nav-item' + (hasChildren ? ' dropdown' : '') + (isActiveNavigationItem(item, pageName) ? ' active' : '') + '">' +
+        '<a class="nav-link' + (hasChildren ? ' dropdown-toggle' : '') + '" href="' + escapeHtml(item.url || '#') + '"' +
+        (hasChildren ? ' id="' + dropdownId + '" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"' : '') + '>' +
+        escapeHtml(item.label) +
+        '</a>' +
+        (hasChildren ? buildNavigationChildren(children, 1) : '') +
+        '</li>';
+    }).join('');
+  }
+
   function applyGlobal(site) {
     document.title = site.defaultMetaTitle || site.siteName;
     var metaDescription = qs('#cms-meta-description');
@@ -349,6 +451,7 @@
     setLink('.cms-facebook-link', site.facebookUrl);
     setText('.cms-address-text', site.address);
     setText('#cms-copyright-text', site.copyright);
+    renderNavigation(site);
   }
 
   function setPageMeta(title, description, site) {
@@ -468,8 +571,6 @@
     setImage('#cms-blog-single-image', item.image, item.title);
     setText('#cms-blog-single-category', item.category);
     setText('#cms-blog-single-tag', item.tag);
-    setLink('#cms-blog-single-inline-link', item.ctaUrl);
-    setText('#cms-blog-single-inline-text', item.ctaLabel);
     setText('#cms-blog-single-title', item.title);
     setRichText('#cms-blog-single-intro', item.intro, 'p');
     setHtml('#cms-blog-single-sections', (item.sections || []).map(function (section) {
@@ -480,9 +581,6 @@
              listMarkup(section.items, 'list-styled') +
         '</div>';
     }).join(''));
-    setText('#cms-blog-single-button', item.ctaLabel);
-    setLink('#cms-blog-single-button', item.ctaUrl);
-
     var related = (blogPosts.items || []).filter(function (post) { return post.slug !== item.slug; }).slice(0, 3);
     setHtml('#cms-blog-related', related.map(buildBlogCard).join(''));
   }

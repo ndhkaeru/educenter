@@ -34,3 +34,4 @@ netlify/
 .dev.vars
 .dev.vars.*
 .vscode/*
+.playwright-mcp/*

@@ -178,6 +178,9 @@ link:focus,
       padding-left: 5px;
       top: 96px;
       border-radius: 0;
+      min-width: 320px;
+      max-height: calc(100vh - 170px);
+      overflow-y: auto;
       display: block;
       visibility: hidden;
       transition: .3s ease;
@@ -212,7 +215,7 @@ link:focus,
       position: relative;
       color: $text-color-dark;
       transition: .2s ease;
-      text-transform: capitalize;
+      text-transform: none;
       font-family: $primary-font;
 
       @include desktop {
