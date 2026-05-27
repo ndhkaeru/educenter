@@ -344,6 +344,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-kho-van",
+      "title": "Tiếng Trung kho vận",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung kho vận giúp học viên sử dụng tiếng Trung hiệu quả trong công việc quản lý kho, xuất nhập hàng và phối hợp vận chuyển trong môi trường doanh nghiệp.",
+      "seoTitle": "Khóa học Tiếng Trung kho vận cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung kho vận dành cho nhân viên kho và logistics, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung kho vận được thiết kế dành cho nhân viên kho, logistics và những người làm việc trong lĩnh vực quản lý hàng hóa có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành kho vận, giao tiếp công việc và các tình huống thực tế liên quan đến nhập xuất hàng, kiểm kê và vận chuyển.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong quản lý kho, theo dõi hàng hóa, xử lý chênh lệch tồn kho và trao đổi với khách hàng hoặc quản lý Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả phối hợp trong chuỗi vận hành kho vận.",
+      "audience": [
+        "Nhân viên kho và logistics làm việc trong doanh nghiệp sản xuất.",
+        "Người phụ trách nhập xuất hàng và quản lý tồn kho.",
+        "Nhân viên vận chuyển, điều phối và quản lý hàng hóa.",
+        "Người thường xuyên làm việc với khách hàng hoặc quản lý Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành kho vận."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành kho vận bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong quản lý kho và xuất nhập hàng.\n",
+        "Hội thoại liên quan đến kiểm kê, tồn kho và vận chuyển hàng hóa.",
+        "Giao tiếp trong xử lý sai lệch số lượng và hàng lỗi.",
+        "Kỹ năng trao đổi với khách hàng và quản lý Trung Quốc.",
+        "Hội thoại xử lý các vấn đề phát sinh trong quá trình vận chuyển.",
+        "Thực hành tình huống thực tế trong công việc kho vận."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc kho vận.\n",
+        "Hiểu và sử dụng được thuật ngữ chuyên ngành logistics và kho hàng.",
+        "Cải thiện khả năng báo cáo và xử lý công việc bằng tiếng Trung.",
+        "Nâng cao hiệu quả phối hợp với khách hàng và quản lý Trung Quốc.",
+        "Tăng khả năng xử lý tình huống trong quản lý kho và vận chuyển hàng hóa.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp sản xuất và logistics."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
