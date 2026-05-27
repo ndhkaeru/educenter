@@ -631,6 +631,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-it",
+      "title": "Tiếng Trung IT",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung IT giúp học viên sử dụng tiếng Trung hiệu quả trong công việc công nghệ thông tin, hỗ trợ kỹ thuật và làm việc với khách hàng hoặc kỹ sư Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung IT cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung IT dành cho nhân viên công nghệ thông tin, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung IT được thiết kế dành cho nhân viên công nghệ thông tin và những người làm việc trong lĩnh vực kỹ thuật có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành IT, giao tiếp công việc và các tình huống thực tế liên quan đến phần mềm, phần cứng, hệ thống mạng và hỗ trợ kỹ thuật.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong xử lý sự cố, hỗ trợ người dùng, trao đổi kỹ thuật và phối hợp với kỹ sư hoặc khách hàng Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả làm việc trong môi trường công nghệ và doanh nghiệp FDI.",
+      "audience": [
+        "Nhân viên IT làm việc trong doanh nghiệp sản xuất và FDI.",
+        "Kỹ thuật viên hỗ trợ hệ thống, mạng và phần mềm.",
+        "Người thường xuyên làm việc với kỹ sư hoặc khách hàng Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành công nghệ thông tin.",
+        "Người chuẩn bị ứng tuyển vào vị trí IT trong doanh nghiệp Trung Quốc."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành IT bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong hỗ trợ kỹ thuật và xử lý sự cố.",
+        "Hội thoại liên quan đến phần mềm, phần cứng và hệ thống mạng.",
+        "Giao tiếp trong họp kỹ thuật và báo cáo công việc IT.",
+        "Kỹ năng trao đổi với kỹ sư và khách hàng Trung Quốc.",
+        "Hội thoại liên quan đến bảo trì, cài đặt và vận hành hệ thống.",
+        "Thực hành tình huống thực tế trong công việc IT."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc IT.",
+        "Hiểu và sử dụng được thuật ngữ công nghệ thông tin bằng tiếng Trung.",
+        "Cải thiện khả năng hỗ trợ kỹ thuật và trao đổi công việc bằng tiếng Trung.",
+        "Nâng cao hiệu quả phối hợp với kỹ sư và khách hàng Trung Quốc.",
+        "Tăng khả năng xử lý tình huống kỹ thuật trong môi trường doanh nghiệp thực tế.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp công nghệ và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
