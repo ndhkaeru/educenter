@@ -877,6 +877,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-pe-ie",
+      "title": "Đào tạo PE / IE",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo PE / IE giúp học viên hiểu rõ quy trình cải tiến sản xuất, tối ưu công đoạn và nâng cao kỹ năng kỹ thuật trong môi trường nhà máy thực tế.",
+      "seoTitle": "Khóa đào tạo PE / IE cho người đi làm trong sản xuất",
+      "seoDescription": "Khóa đào tạo PE / IE dành cho người đi làm, giúp nâng cao kiến thức cải tiến sản xuất, tối ưu quy trình và xử lý công việc kỹ thuật thực tế trong doanh nghiệp.",
+      "overview": "Khóa đào tạo PE / IE được thiết kế dành cho kỹ thuật viên, kỹ sư và những người làm việc trong lĩnh vực cải tiến sản xuất tại doanh nghiệp. Nội dung học tập trung vào tối ưu quy trình sản xuất, cải tiến công đoạn, nâng cao năng suất và xử lý các vấn đề kỹ thuật phát sinh trong môi trường nhà máy.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến cân bằng chuyền, cải tiến thao tác, phân tích lỗi sản xuất và nâng cao hiệu quả vận hành. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực PE và IE.",
+      "audience": [
+        "Kỹ thuật viên và kỹ sư PE / IE trong doanh nghiệp sản xuất.",
+        "Người làm việc liên quan đến cải tiến công đoạn và tối ưu sản xuất.",
+        "Nhân viên kỹ thuật muốn nâng cao kiến thức vận hành và cải tiến.",
+        "Tổ trưởng, quản lý kỹ thuật và quản lý sản xuất.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực kỹ thuật sản xuất và cải tiến quy trình."
+      ],
+      "curriculum": [
+        "Tổng quan về PE và IE trong doanh nghiệp sản xuất.",
+        "Phương pháp cải tiến quy trình và tối ưu công đoạn sản xuất.",
+        "Kỹ năng phân tích thao tác và cân bằng chuyền sản xuất.",
+        "Phương pháp nâng cao năng suất và giảm lãng phí trong sản xuất.",
+        "Kỹ năng xử lý lỗi kỹ thuật và cải tiến hiện trường.",
+        "Phương pháp phối hợp với các bộ phận trong hoạt động cải tiến.",
+        "Thực hành tình huống thực tế trong công việc PE / IE."
+      ],
+      "outcomes": [
+        "Hiểu rõ vai trò và quy trình công việc PE / IE trong doanh nghiệp.",
+        "Nâng cao khả năng cải tiến và tối ưu sản xuất thực tế.",
+        "Biết cách phân tích công đoạn và nâng cao hiệu quả vận hành.",
+        "Cải thiện kỹ năng xử lý vấn đề kỹ thuật trong môi trường sản xuất.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực kỹ thuật sản xuất.",
+        "Tự tin làm việc trong môi trường doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
