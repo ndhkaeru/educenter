@@ -836,6 +836,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-san-xuat",
+      "title": "Đào tạo Sản xuất",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Sản xuất giúp học viên hiểu rõ quy trình vận hành sản xuất, quản lý hiện trường và nâng cao kỹ năng xử lý công việc thực tế trong nhà máy.",
+      "seoTitle": "Khóa đào tạo Sản xuất cho người đi làm trong doanh nghiệp",
+      "seoDescription": "Khóa đào tạo Sản xuất dành cho người đi làm, giúp nâng cao kiến thức quản lý sản xuất, vận hành hiện trường và xử lý công việc thực tế trong doanh nghiệp sản xuất.",
+      "overview": "Khóa đào tạo Sản xuất được thiết kế dành cho nhân viên và quản lý làm việc trong môi trường nhà máy, doanh nghiệp sản xuất. Nội dung học tập trung vào quy trình sản xuất, quản lý hiện trường, kiểm soát tiến độ và nâng cao hiệu quả vận hành trong doanh nghiệp.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến điều phối sản xuất, quản lý nhân lực, xử lý sự cố tại hiện trường và phối hợp giữa các bộ phận nhằm đảm bảo hoạt động sản xuất diễn ra hiệu quả. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực sản xuất.",
+      "audience": [
+        "Nhân viên sản xuất trong doanh nghiệp và nhà máy.",
+        "Tổ trưởng, chuyền trưởng và quản lý sản xuất.",
+        "Người làm việc liên quan đến điều phối và vận hành sản xuất.",
+        "Người muốn nâng cao kỹ năng quản lý hiện trường sản xuất.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực sản xuất và vận hành nhà máy."
+      ],
+      "curriculum": [
+        "Tổng quan về quy trình sản xuất trong doanh nghiệp.",
+        "Phương pháp quản lý hiện trường và vận hành sản xuất.",
+        "Kỹ năng điều phối nhân lực và kiểm soát tiến độ sản xuất.",
+        "Phương pháp xử lý sự cố và các vấn đề phát sinh tại hiện trường.",
+        "Kỹ năng phối hợp giữa các bộ phận trong doanh nghiệp sản xuất.",
+        "Phương pháp nâng cao năng suất và hiệu quả sản xuất.",
+        "Thực hành tình huống thực tế trong công việc sản xuất."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình và hoạt động sản xuất trong doanh nghiệp.",
+        "Nâng cao khả năng quản lý hiện trường và điều phối sản xuất.",
+        "Biết cách xử lý các vấn đề phát sinh trong môi trường sản xuất thực tế.",
+        "Cải thiện kỹ năng phối hợp và quản lý công việc trong nhà máy.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực sản xuất.",
+        "Tự tin làm việc trong môi trường doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
