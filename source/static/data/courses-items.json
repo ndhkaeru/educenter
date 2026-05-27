@@ -549,6 +549,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-hr-hanh-chinh-nhan-su",
+      "title": "Tiếng Trung HR - Hành chính nhân sự",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung HR - Hành chính nhân sự giúp học viên sử dụng tiếng Trung hiệu quả trong công việc tuyển dụng, quản lý nhân sự và xử lý công việc hành chính văn phòng.",
+      "seoTitle": "Khóa học Tiếng Trung HR - Hành chính nhân sự cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung HR - Hành chính nhân sự dành cho người đi làm, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ nhân sự và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung HR - Hành chính nhân sự được thiết kế dành cho nhân viên hành chính, nhân sự và những người làm việc trong doanh nghiệp có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành HR, giao tiếp công việc và các tình huống thực tế liên quan đến tuyển dụng, quản lý hồ sơ, đào tạo và xử lý công việc hành chính văn phòng.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong phỏng vấn, tuyển dụng, chấm công, xử lý chế độ nhân sự và trao đổi với quản lý hoặc nhân viên Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả làm việc trong môi trường doanh nghiệp FDI.",
+      "audience": [
+        "Nhân viên hành chính nhân sự làm việc trong doanh nghiệp FDI.",
+        "Người phụ trách tuyển dụng, đào tạo và quản lý nhân sự.",
+        "Nhân viên hành chính văn phòng thường xuyên sử dụng tiếng Trung.",
+        "Người thường xuyên làm việc với quản lý hoặc nhân viên Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành HR."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành HR bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong tuyển dụng và phỏng vấn.",
+        "Hội thoại liên quan đến chấm công, nghỉ phép và quản lý nhân sự.",
+        "Giao tiếp trong đào tạo, thông báo và xử lý công việc hành chính.",
+        "Kỹ năng trao đổi với quản lý và nhân viên Trung Quốc.",
+        "Hội thoại liên quan đến nội quy công ty và xử lý tình huống nhân sự.",
+        "Thực hành tình huống thực tế trong công việc hành chính nhân sự."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc HR và hành chính nhân sự.",
+        "Hiểu và sử dụng được thuật ngữ chuyên ngành nhân sự bằng tiếng Trung.",
+        "Cải thiện khả năng trao đổi và xử lý công việc hành chính bằng tiếng Trung.",
+        "Nâng cao hiệu quả phối hợp với quản lý và nhân viên Trung Quốc.",
+        "Tăng khả năng xử lý tình huống nhân sự trong môi trường doanh nghiệp thực tế.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp FDI và công ty Trung Quốc."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
