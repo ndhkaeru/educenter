@@ -426,6 +426,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-san-xuat",
+      "title": "Tiếng Trung sản xuất",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung sản xuất giúp học viên sử dụng tiếng Trung hiệu quả trong môi trường nhà máy, quản lý sản xuất và phối hợp công việc thực tế với người Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung sản xuất cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung sản xuất dành cho nhân viên và quản lý sản xuất, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung sản xuất được thiết kế dành cho nhân viên và quản lý làm việc trong môi trường nhà máy có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành sản xuất, giao tiếp công việc và các tình huống thực tế liên quan đến vận hành sản xuất, quản lý tiến độ và xử lý sự cố tại hiện trường.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong sản xuất, trao đổi tiến độ công việc, điều phối nhân lực và phối hợp với quản lý hoặc kỹ thuật viên Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả làm việc trong môi trường công nghiệp.",
+      "audience": [
+        "Nhân viên sản xuất làm việc trong nhà máy và doanh nghiệp FDI.",
+        "Tổ trưởng, chuyền trưởng và quản lý sản xuất.",
+        "Người thường xuyên làm việc với quản lý hoặc kỹ thuật viên Trung Quốc.",
+        "Người muốn nâng cao khả năng giao tiếp tiếng Trung trong công việc sản xuất.",
+        "Người chuẩn bị ứng tuyển vào doanh nghiệp sản xuất có sử dụng tiếng Trung."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành sản xuất bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong vận hành và quản lý sản xuất.",
+        "Hội thoại liên quan đến tiến độ, năng suất và kế hoạch sản xuất.",
+        "Giao tiếp trong xử lý lỗi và các vấn đề phát sinh tại hiện trường.",
+        "Kỹ năng trao đổi với quản lý và kỹ thuật viên Trung Quốc.",
+        "Hội thoại liên quan đến máy móc, thiết bị và thao tác sản xuất.",
+        "Thực hành tình huống thực tế trong môi trường nhà máy."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong môi trường sản xuất.",
+        "Hiểu và sử dụng được thuật ngữ chuyên ngành sản xuất.",
+        "Cải thiện khả năng báo cáo và trao đổi công việc bằng tiếng Trung.",
+        "Nâng cao hiệu quả phối hợp với quản lý và đồng nghiệp Trung Quốc.",
+        "Tăng khả năng xử lý tình huống thực tế trong công việc sản xuất.",
+        "Mở rộng cơ hội nghề nghiệp và phát triển trong doanh nghiệp FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
