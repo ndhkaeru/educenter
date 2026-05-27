@@ -139,6 +139,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-giao-tiep",
+      "title": "Tiếng Trung giao tiếp",
+      "audienceLabel": "Mọi cấp độ",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung giao tiếp giúp học viên cải thiện phản xạ nghe nói, tự tin giao tiếp trong cuộc sống, công việc và môi trường sử dụng tiếng Trung thực tế.",
+      "seoTitle": "Khóa học Tiếng Trung giao tiếp từ cơ bản đến nâng cao",
+      "seoDescription": "Khóa học tiếng Trung giao tiếp dành cho mọi cấp độ, tập trung luyện nghe nói, phản xạ hội thoại và ứng dụng thực tế trong công việc và cuộc sống hàng ngày.",
+      "overview": "Khóa học Tiếng Trung giao tiếp được thiết kế dành cho học viên muốn cải thiện khả năng nghe nói và sử dụng tiếng Trung trong thực tế. Nội dung học tập trung vào phản xạ giao tiếp, phát âm chuẩn, từ vựng thông dụng và các mẫu câu thường dùng trong đời sống và công việc.\n\nTrong quá trình học, học viên sẽ được luyện hội thoại theo tình huống thực tế như chào hỏi, giới thiệu bản thân, trao đổi công việc, mua sắm, du lịch và giao tiếp với người Trung Quốc. Lộ trình học phù hợp cho cả người mới bắt đầu và người muốn nâng cao khả năng giao tiếp tiếng Trung.",
+      "audience": [
+        "Người mới bắt đầu học tiếng Trung giao tiếp.",
+        "Người đi làm thường xuyên sử dụng tiếng Trung trong công việc.",
+        "Người muốn cải thiện khả năng nghe nói tiếng Trung.",
+        "Người chuẩn bị làm việc với đối tác hoặc khách hàng Trung Quốc.",
+        "Người muốn tự tin giao tiếp trong cuộc sống hàng ngày."
+      ],
+      "curriculum": [
+        "Hệ thống phát âm và luyện nói chuẩn tiếng Trung.",
+        "Từ vựng và mẫu câu giao tiếp thông dụng.",
+        "Hội thoại theo chủ đề thực tế trong cuộc sống và công việc.",
+        "Kỹ năng nghe hiểu và phản xạ giao tiếp nhanh.",
+        "Giao tiếp trong môi trường công sở, nhà máy và kinh doanh.",
+        "Thực hành hội thoại nhóm và giao tiếp thực tế.",
+        "Kỹ năng đặt câu hỏi và xử lý tình huống bằng tiếng Trung."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc và cuộc sống.",
+        "Cải thiện khả năng nghe hiểu và phản xạ hội thoại.",
+        "Phát âm rõ ràng và sử dụng đúng mẫu câu giao tiếp.",
+        "Giao tiếp cơ bản với người Trung Quốc trong nhiều tình huống thực tế.",
+        "Nâng cao sự tự tin khi làm việc hoặc học tập trong môi trường sử dụng tiếng Trung.",
+        "Tăng cơ hội nghề nghiệp và khả năng sử dụng tiếng Trung thực tế."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
