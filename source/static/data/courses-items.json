@@ -754,6 +754,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-kho-van",
+      "title": "Đào tạo Kho vận",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Kho vận giúp học viên hiểu rõ quy trình quản lý kho, xuất nhập hàng và nâng cao kỹ năng vận hành kho vận trong doanh nghiệp thực tế.",
+      "seoTitle": "Khóa đào tạo Kho vận cho người đi làm trong doanh nghiệp",
+      "seoDescription": "Khóa đào tạo Kho vận dành cho người đi làm, giúp nâng cao kiến thức quản lý kho hàng, kiểm soát xuất nhập tồn và vận hành logistics hiệu quả.",
+      "overview": "Khóa đào tạo Kho vận được thiết kế dành cho nhân viên kho, logistics và những người làm việc trong lĩnh vực quản lý hàng hóa tại doanh nghiệp. Nội dung học tập trung vào quy trình nhập xuất tồn, quản lý kho hàng, kiểm kê và phối hợp vận chuyển nhằm đảm bảo hoạt động kho vận diễn ra hiệu quả và chính xác.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến quản lý tồn kho, xử lý sai lệch hàng hóa, sắp xếp kho và phối hợp với các bộ phận liên quan trong doanh nghiệp sản xuất. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực kho vận.",
+      "audience": [
+        "Nhân viên kho và logistics trong doanh nghiệp sản xuất.",
+        "Người làm việc liên quan đến xuất nhập hàng và quản lý tồn kho.",
+        "Nhân viên vận chuyển và điều phối hàng hóa.",
+        "Tổ trưởng và quản lý kho muốn nâng cao kỹ năng vận hành kho vận.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực kho vận và logistics."
+      ],
+      "curriculum": [
+        "Tổng quan về kho vận và logistics trong doanh nghiệp.",
+        "Quy trình nhập kho, xuất kho và quản lý tồn kho.",
+        "Phương pháp kiểm kê và kiểm soát hàng hóa.",
+        "Kỹ năng sắp xếp và tối ưu không gian kho hàng.",
+        "Phương pháp xử lý sai lệch và thất thoát hàng hóa.",
+        "Kỹ năng phối hợp vận chuyển và điều phối giao hàng.",
+        "Thực hành tình huống thực tế trong công việc kho vận."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình quản lý kho và vận hành kho vận.",
+        "Nâng cao khả năng kiểm soát xuất nhập tồn hàng hóa.",
+        "Biết cách xử lý các vấn đề phát sinh trong quản lý kho thực tế.",
+        "Cải thiện kỹ năng phối hợp với các bộ phận liên quan trong doanh nghiệp.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực kho vận và logistics.",
+        "Tự tin làm việc trong môi trường doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
