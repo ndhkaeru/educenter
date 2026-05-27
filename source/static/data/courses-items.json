@@ -508,6 +508,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-ie",
+      "title": "Tiếng Trung IE",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung IE giúp học viên sử dụng tiếng Trung hiệu quả trong công việc cải tiến sản xuất, tối ưu quy trình và làm việc với kỹ sư hoặc quản lý Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung IE cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung IE dành cho kỹ thuật viên và kỹ sư cải tiến sản xuất, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung IE được thiết kế dành cho kỹ thuật viên, kỹ sư IE và những người làm việc trong lĩnh vực cải tiến sản xuất có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành IE, giao tiếp công việc và các tình huống thực tế liên quan đến tối ưu quy trình, cân bằng chuyền và nâng cao hiệu suất sản xuất.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong phân tích công đoạn, cải tiến thao tác, đánh giá năng suất và phối hợp với kỹ sư hoặc quản lý Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả làm việc trong môi trường sản xuất công nghiệp.",
+      "audience": [
+        "Kỹ thuật viên và kỹ sư IE trong doanh nghiệp sản xuất.",
+        "Người phụ trách cải tiến quy trình và tối ưu năng suất.",
+        "Nhân viên kỹ thuật thường xuyên làm việc với chuyên gia Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành IE.",
+        "Người chuẩn bị ứng tuyển vào vị trí IE trong doanh nghiệp FDI."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành IE bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong cải tiến và tối ưu sản xuất.",
+        "Hội thoại liên quan đến cân bằng chuyền và cải tiến thao tác.",
+        "Giao tiếp trong họp kỹ thuật và báo cáo năng suất.",
+        "Kỹ năng trao đổi với kỹ sư và quản lý Trung Quốc.",
+        "Hội thoại liên quan đến quy trình, thời gian thao tác và hiệu suất sản xuất.",
+        "Thực hành tình huống thực tế trong công việc IE."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc IE.",
+        "Hiểu và sử dụng được thuật ngữ cải tiến sản xuất bằng tiếng Trung.",
+        "Cải thiện khả năng báo cáo và trao đổi kỹ thuật với người Trung Quốc.",
+        "Nâng cao hiệu quả cải tiến quy trình và tối ưu năng suất.",
+        "Tăng khả năng phối hợp với kỹ sư và quản lý Trung Quốc trong công việc thực tế.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
