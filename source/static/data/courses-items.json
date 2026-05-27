@@ -713,6 +713,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-pmc",
+      "title": "Đào tạo PMC",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo PMC giúp học viên hiểu rõ quy trình kế hoạch sản xuất, quản lý tiến độ đơn hàng và phối hợp hiệu quả giữa các bộ phận trong doanh nghiệp sản xuất.",
+      "seoTitle": "Khóa đào tạo PMC cho người đi làm trong sản xuất",
+      "seoDescription": "Khóa đào tạo PMC dành cho người đi làm, giúp nâng cao kiến thức quản lý kế hoạch sản xuất, kiểm soát tiến độ và xử lý công việc thực tế trong doanh nghiệp.",
+      "overview": "Khóa đào tạo PMC được thiết kế dành cho nhân viên kế hoạch sản xuất và những người làm việc trong môi trường nhà máy. Nội dung học tập trung vào quản lý kế hoạch sản xuất, theo dõi tiến độ đơn hàng, quản lý tồn kho và phối hợp giữa các bộ phận để đảm bảo hoạt động sản xuất diễn ra hiệu quả.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến lập kế hoạch, xử lý chậm tiến độ, thiếu nguyên vật liệu và điều phối sản xuất. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực PMC.",
+      "audience": [
+        "Nhân viên PMC trong doanh nghiệp sản xuất.",
+        "Người làm việc liên quan đến kế hoạch và điều phối sản xuất.",
+        "Nhân viên kho, mua hàng và sản xuất cần hiểu quy trình PMC.",
+        "Tổ trưởng và quản lý sản xuất muốn nâng cao kỹ năng quản lý tiến độ.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực kế hoạch sản xuất."
+      ],
+      "curriculum": [
+        "Tổng quan về PMC trong doanh nghiệp sản xuất.",
+        "Quy trình lập kế hoạch và theo dõi sản xuất.",
+        "Phương pháp quản lý tiến độ đơn hàng và nguyên vật liệu.",
+        "Kỹ năng phối hợp giữa các bộ phận trong sản xuất.",
+        "Phương pháp xử lý chậm tiến độ và các vấn đề phát sinh.",
+        "Kỹ năng lập báo cáo và phân tích dữ liệu sản xuất.",
+        "Thực hành tình huống thực tế trong công việc PMC."
+      ],
+      "outcomes": [
+        "Hiểu rõ vai trò và quy trình công việc PMC.\n",
+        "Nâng cao khả năng lập kế hoạch và quản lý tiến độ sản xuất.\n",
+        "Biết cách phối hợp hiệu quả với các bộ phận liên quan.\n",
+        "Cải thiện kỹ năng xử lý vấn đề trong hoạt động sản xuất thực tế.\n",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực PMC.\n",
+        "Tự tin làm việc trong môi trường doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
