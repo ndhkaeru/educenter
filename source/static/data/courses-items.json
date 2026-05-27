@@ -97,6 +97,48 @@
       "secondaryLabel": "Xem lộ trình học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-hsk",
+      "title": "Tiếng Trung HSK",
+      "audienceLabel": "Mọi cấp độ",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung HSK dành cho nhiều cấp độ từ cơ bản đến nâng cao, giúp học viên phát triển toàn diện kỹ năng nghe, nói, đọc, viết và luyện thi HSK theo lộ trình bài bản.",
+      "seoTitle": "Khóa học Tiếng Trung HSK từ cơ bản đến nâng cao",
+      "seoDescription": "Khóa học tiếng Trung HSK dành cho mọi cấp độ, giúp học viên xây dựng nền tảng tiếng Trung, nâng cao kỹ năng giao tiếp và luyện thi HSK hiệu quả theo lộ trình chuẩn.",
+      "overview": "Khóa học Tiếng Trung HSK được xây dựng theo lộ trình từ cơ bản đến nâng cao, phù hợp với người mới bắt đầu cũng như học viên đã có nền tảng tiếng Trung. Nội dung học bám sát hệ thống HSK quốc tế, giúp học viên phát triển đồng đều kỹ năng nghe, nói, đọc và viết.\n\nTrong quá trình học, học viên sẽ được luyện phát âm chuẩn, mở rộng vốn từ vựng, học ngữ pháp theo từng cấp độ và thực hành giao tiếp thực tế. Song song đó là chương trình luyện đề và kỹ năng làm bài thi HSK giúp học viên tự tin chinh phục các cấp độ chứng chỉ phục vụ học tập và công việc.",
+      "audience": [
+        "Người mới bắt đầu học tiếng Trung.",
+        "Học sinh, sinh viên cần thi chứng chỉ HSK.",
+        "Người đi làm muốn nâng cao trình độ tiếng Trung.",
+        "Người có nhu cầu du học hoặc làm việc với doanh nghiệp Trung Quốc.",
+        "Người muốn học tiếng Trung bài bản theo lộ trình dài hạn."
+      ],
+      "curriculum": [
+        "Hệ thống phiên âm Pinyin và phát âm chuẩn tiếng Trung.",
+        "Từ vựng và ngữ pháp theo từng cấp độ HSK.",
+        "Kỹ năng nghe, nói, đọc, viết tiếng Trung.",
+        "Hội thoại giao tiếp theo chủ đề thực tế.",
+        "Kỹ năng đọc hiểu và viết đoạn văn tiếng Trung.",
+        "Luyện đề HSK theo từng cấp độ.",
+        "Chiến lược và kỹ năng làm bài thi HSK hiệu quả."
+      ],
+      "outcomes": [
+        "Nắm vững nền tảng tiếng Trung theo lộ trình HSK.",
+        "Phát âm chuẩn và cải thiện khả năng giao tiếp tiếng Trung.",
+        "Mở rộng vốn từ vựng và ngữ pháp theo từng cấp độ HSK.",
+        "Tự tin nghe, nói, đọc, viết trong học tập và công việc.",
+        "Làm quen với cấu trúc đề thi và nâng cao kỹ năng làm bài HSK.",
+        "Có khả năng chinh phục các cấp độ HSK phù hợp với mục tiêu cá nhân.",
+        "Tăng lợi thế học tập, xin việc và phát triển nghề nghiệp với tiếng Trung."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
