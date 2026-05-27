@@ -303,6 +303,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-pmc",
+      "title": "Tiếng Trung PMC",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung PMC giúp học viên sử dụng tiếng Trung trong công việc kế hoạch sản xuất, quản lý tiến độ và phối hợp với khách hàng hoặc quản lý Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung PMC cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung PMC dành cho nhân viên kế hoạch sản xuất, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung PMC được thiết kế dành cho nhân viên kế hoạch sản xuất và những người làm việc trong môi trường nhà máy có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành PMC, giao tiếp công việc và các tình huống thực tế liên quan đến kế hoạch, tiến độ và quản lý sản xuất.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong theo dõi đơn hàng, lập kế hoạch sản xuất, quản lý tồn kho và trao đổi tiến độ với khách hàng hoặc quản lý Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả phối hợp trong sản xuất.",
+      "audience": [
+        "Nhân viên PMC làm việc trong nhà máy và doanh nghiệp sản xuất.",
+        "Người phụ trách kế hoạch sản xuất và theo dõi tiến độ đơn hàng.",
+        "Người thường xuyên trao đổi công việc với khách hàng hoặc quản lý Trung Quốc.",
+        "Nhân viên kho, mua hàng, sản xuất và các bộ phận liên quan đến kế hoạch.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành PMC."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành PMC bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong quản lý kế hoạch và tiến độ sản xuất.",
+        "Hội thoại liên quan đến đơn hàng, nguyên vật liệu và tồn kho.",
+        "Giao tiếp trong họp sản xuất và báo cáo tiến độ công việc.",
+        "Kỹ năng trao đổi với khách hàng và quản lý Trung Quốc.",
+        "Hội thoại xử lý chậm tiến độ và các vấn đề phát sinh trong sản xuất.",
+        "Thực hành tình huống thực tế trong công việc PMC."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc PMC.",
+        "Hiểu và sử dụng được thuật ngữ chuyên ngành kế hoạch sản xuất.",
+        "Cải thiện khả năng báo cáo và trao đổi tiến độ bằng tiếng Trung.",
+        "Nâng cao hiệu quả phối hợp với khách hàng và quản lý Trung Quốc.",
+        "Tăng khả năng xử lý tình huống trong quản lý sản xuất thực tế.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
