@@ -262,6 +262,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-qa-qc",
+      "title": "Tiếng Trung QA & QC",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung QA & QC giúp học viên sử dụng tiếng Trung hiệu quả trong công việc kiểm soát chất lượng, xử lý lỗi và giao tiếp với khách hàng hoặc quản lý Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung QA & QC cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung QA & QC dành cho nhân viên kiểm soát chất lượng, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung QA & QC được thiết kế dành cho nhân viên kiểm soát chất lượng và những người làm việc trong lĩnh vực sản xuất có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành QA & QC, giao tiếp công việc và các tình huống thực tế liên quan đến chất lượng sản phẩm.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong kiểm tra chất lượng, xử lý lỗi, báo cáo sản xuất và trao đổi với khách hàng hoặc quản lý Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong môi trường công nghiệp và tăng hiệu quả công việc thực tế.",
+      "audience": [
+        "Nhân viên QA, QC làm việc trong nhà máy và doanh nghiệp sản xuất.",
+        "Người thường xuyên làm việc với khách hàng hoặc quản lý Trung Quốc.",
+        "Nhân viên kiểm tra chất lượng, xử lý lỗi sản phẩm.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành chất lượng.",
+        "Người chuẩn bị ứng tuyển vào vị trí QA & QC trong doanh nghiệp FDI."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành QA & QC bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong kiểm tra và kiểm soát chất lượng.",
+        "Hội thoại xử lý lỗi sản phẩm và phản hồi khách hàng.",
+        "Giao tiếp trong họp chất lượng và báo cáo lỗi sản xuất.",
+        "Kỹ năng viết báo cáo và mô tả lỗi bằng tiếng Trung.",
+        "Hội thoại liên quan đến tiêu chuẩn chất lượng và cải tiến sản phẩm.",
+        "Thực hành tình huống thực tế trong công việc QA & QC."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc QA & QC.\n",
+        "Hiểu và sử dụng được thuật ngữ chất lượng chuyên ngành.\n",
+        "Cải thiện khả năng báo cáo và xử lý lỗi bằng tiếng Trung.",
+        "Nâng cao hiệu quả trao đổi với khách hàng và quản lý Trung Quốc.",
+        "Tăng khả năng làm việc trong doanh nghiệp sản xuất và FDI.",
+        "Mở rộng cơ hội nghề nghiệp và phát triển chuyên môn QA & QC."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
