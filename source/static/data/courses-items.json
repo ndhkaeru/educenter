@@ -672,6 +672,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-qa-qc",
+      "title": "Đào tạo QA/QC",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo QA/QC giúp học viên hiểu rõ quy trình quản lý chất lượng, kiểm soát sản phẩm và nâng cao kỹ năng xử lý lỗi trong môi trường sản xuất thực tế.",
+      "seoTitle": "Khóa đào tạo QA/QC cho người đi làm trong sản xuất",
+      "seoDescription": "Khóa đào tạo QA/QC dành cho người đi làm, giúp nâng cao kiến thức quản lý chất lượng, kiểm soát lỗi sản phẩm và ứng dụng thực tế trong doanh nghiệp sản xuất.",
+      "overview": "Khóa đào tạo QA/QC được thiết kế dành cho người làm việc trong lĩnh vực sản xuất và quản lý chất lượng. Nội dung học tập trung vào kiến thức thực tế liên quan đến kiểm soát chất lượng sản phẩm, quy trình xử lý lỗi và các công cụ quản lý chất lượng thường dùng trong doanh nghiệp.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế trong nhà máy, cách xử lý sản phẩm lỗi, lập báo cáo chất lượng và phối hợp với các bộ phận liên quan để cải tiến chất lượng sản phẩm. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn QA/QC.",
+      "audience": [
+        "Nhân viên QA/QC trong doanh nghiệp sản xuất.",
+        "Người mới bắt đầu tìm hiểu về quản lý chất lượng.",
+        "Tổ trưởng, quản lý sản xuất cần nâng cao kiến thức chất lượng.",
+        "Người muốn làm việc trong lĩnh vực kiểm soát chất lượng sản phẩm.",
+        "Người cần nâng cao kỹ năng xử lý lỗi và cải tiến chất lượng."
+      ],
+      "curriculum": [
+        "Tổng quan về QA và QC trong doanh nghiệp sản xuất.",
+        "Quy trình kiểm tra và kiểm soát chất lượng sản phẩm.",
+        "Các phương pháp kiểm tra lỗi và phân loại sản phẩm NG.",
+        "Công cụ quản lý chất lượng cơ bản trong sản xuất.",
+        "Kỹ năng lập báo cáo và phân tích lỗi sản phẩm.",
+        "Phương pháp xử lý và cải tiến chất lượng thực tế.",
+        "Thực hành tình huống QA/QC trong môi trường nhà máy."
+      ],
+      "outcomes": [
+        "Hiểu rõ vai trò và quy trình công việc QA/QC.",
+        "Nâng cao khả năng kiểm tra và kiểm soát chất lượng sản phẩm.",
+        "Biết cách phân tích lỗi và xử lý vấn đề chất lượng thực tế.",
+        "Cải thiện kỹ năng báo cáo và phối hợp công việc trong sản xuất.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực QA/QC.",
+        "Tự tin làm việc trong môi trường doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
