@@ -385,6 +385,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-thu-mua",
+      "title": "Tiếng Trung thu mua",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung thu mua giúp học viên sử dụng tiếng Trung hiệu quả trong công việc mua hàng, làm việc với nhà cung cấp và xử lý các tình huống thực tế trong doanh nghiệp.",
+      "seoTitle": "Khóa học Tiếng Trung thu mua cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung thu mua dành cho nhân viên purchasing và buyer, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung thu mua được thiết kế dành cho nhân viên mua hàng và những người làm việc trong lĩnh vực cung ứng có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành thu mua, giao tiếp công việc và các tình huống thực tế liên quan đến đặt hàng, báo giá và quản lý nhà cung cấp.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong trao đổi giá cả, tiến độ giao hàng, xác nhận đơn hàng và xử lý vấn đề phát sinh với nhà cung cấp Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả phối hợp trong hoạt động mua hàng doanh nghiệp.",
+      "audience": [
+        "Nhân viên thu mua và buyer trong doanh nghiệp sản xuất.",
+        "Người phụ trách tìm kiếm và làm việc với nhà cung cấp Trung Quốc.",
+        "Nhân viên mua hàng, cung ứng và quản lý vật tư.",
+        "Người thường xuyên trao đổi công việc với khách hàng hoặc đối tác Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành thu mua."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành thu mua bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong đặt hàng và xác nhận đơn hàng.",
+        "Hội thoại liên quan đến báo giá, thương lượng và tiến độ giao hàng.",
+        "Giao tiếp trong xử lý chậm hàng và các vấn đề phát sinh.",
+        "Kỹ năng trao đổi với nhà cung cấp và quản lý Trung Quốc.",
+        "Hội thoại liên quan đến chất lượng sản phẩm và kiểm tra hàng hóa.",
+        "Thực hành tình huống thực tế trong công việc thu mua."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc thu mua.",
+        "Hiểu và sử dụng được thuật ngữ chuyên ngành purchasing và buyer.",
+        "Cải thiện khả năng trao đổi với nhà cung cấp Trung Quốc.",
+        "Nâng cao hiệu quả xử lý đơn hàng và tiến độ giao hàng.",
+        "Tăng khả năng xử lý tình huống phát sinh trong hoạt động mua hàng.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp sản xuất và thương mại."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
