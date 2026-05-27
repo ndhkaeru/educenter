@@ -180,6 +180,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-cong-xuong",
+      "title": "Tiếng Trung công xưởng",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung công xưởng giúp học viên giao tiếp hiệu quả trong môi trường nhà máy, sản xuất và làm việc với quản lý, kỹ thuật viên hoặc đối tác Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung công xưởng cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung công xưởng dành cho người đi làm trong nhà máy, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ sản xuất và làm việc hiệu quả với người Trung Quốc.",
+      "overview": "Khóa học Tiếng Trung công xưởng được thiết kế dành riêng cho người đang làm việc trong môi trường nhà máy, sản xuất hoặc doanh nghiệp có sử dụng tiếng Trung. Nội dung học tập trung vào giao tiếp thực tế trong công việc, giúp học viên dễ dàng trao đổi với quản lý, kỹ thuật viên, khách hàng hoặc đối tác Trung Quốc.\n\nTrong quá trình học, học viên sẽ được làm quen với từ vựng chuyên ngành công xưởng, các mẫu câu sử dụng hàng ngày tại hiện trường sản xuất và kỹ năng xử lý tình huống thực tế trong công việc. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao khả năng sử dụng tiếng Trung trong môi trường công nghiệp.",
+      "audience": [
+        "Công nhân, tổ trưởng, quản lý sản xuất làm việc trong nhà máy.",
+        "Nhân viên QA, QC, PMC, PE, kỹ thuật và các bộ phận sản xuất.",
+        "Người thường xuyên làm việc với quản lý hoặc chuyên gia Trung Quốc.",
+        "Người muốn nâng cao khả năng giao tiếp tiếng Trung trong công việc.",
+        "Người chuẩn bị ứng tuyển vào công ty Trung Quốc hoặc doanh nghiệp FDI."
+      ],
+      "curriculum": [
+        "Phát âm và giao tiếp tiếng Trung cơ bản trong công xưởng.",
+        "Từ vựng chuyên ngành sản xuất và nhà máy.",
+        "Mẫu câu giao tiếp thường dùng trong công việc hàng ngày.",
+        "Giao tiếp trong họp sản xuất, báo cáo và xử lý vấn đề.",
+        "Hội thoại liên quan đến chất lượng, tiến độ và máy móc thiết bị.",
+        "Kỹ năng trao đổi với quản lý và chuyên gia Trung Quốc.",
+        "Thực hành tình huống thực tế tại công xưởng."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong môi trường công xưởng.",
+        "Hiểu và sử dụng được từ vựng chuyên ngành sản xuất.",
+        "Cải thiện khả năng trao đổi công việc với người Trung Quốc.",
+        "Nâng cao phản xạ nghe nói trong môi trường nhà máy thực tế.",
+        "Hỗ trợ hiệu quả cho công việc quản lý, sản xuất và xử lý sự cố.",
+        "Tăng cơ hội thăng tiến và phát triển nghề nghiệp trong doanh nghiệp FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
