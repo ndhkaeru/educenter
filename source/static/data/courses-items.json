@@ -795,6 +795,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-thu-mua",
+      "title": "Đào tạo Thu mua",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Thu mua giúp học viên hiểu rõ quy trình mua hàng, quản lý nhà cung cấp và nâng cao kỹ năng xử lý công việc thực tế trong doanh nghiệp.",
+      "seoTitle": "Khóa đào tạo Thu mua cho người đi làm trong doanh nghiệp",
+      "seoDescription": "Khóa đào tạo Thu mua dành cho người đi làm, giúp nâng cao kiến thức quản lý mua hàng, làm việc với nhà cung cấp và xử lý công việc thực tế trong doanh nghiệp sản xuất.",
+      "overview": "Khóa đào tạo Thu mua được thiết kế dành cho nhân viên purchasing, buyer và những người làm việc trong lĩnh vực cung ứng tại doanh nghiệp. Nội dung học tập trung vào quy trình mua hàng, tìm kiếm nhà cung cấp, quản lý đơn hàng và phối hợp với các bộ phận liên quan nhằm đảm bảo hoạt động cung ứng diễn ra hiệu quả.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến báo giá, thương lượng, theo dõi tiến độ giao hàng và xử lý các vấn đề phát sinh trong hoạt động thu mua. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực mua hàng và cung ứng.",
+      "audience": [
+        "Nhân viên thu mua và buyer trong doanh nghiệp sản xuất.",
+        "Người làm việc liên quan đến cung ứng và quản lý vật tư.",
+        "Nhân viên kho, kế hoạch và sản xuất cần hiểu quy trình mua hàng.",
+        "Người thường xuyên làm việc với nhà cung cấp và đối tác.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực thu mua và supply chain."
+      ],
+      "curriculum": [
+        "Tổng quan về thu mua và chuỗi cung ứng trong doanh nghiệp.",
+        "Quy trình mua hàng và quản lý đơn đặt hàng.",
+        "Phương pháp tìm kiếm và đánh giá nhà cung cấp.",
+        "Kỹ năng báo giá, thương lượng và đàm phán mua hàng.",
+        "Phương pháp theo dõi tiến độ giao hàng và xử lý phát sinh.",
+        "Kỹ năng phối hợp với các bộ phận liên quan trong doanh nghiệp.",
+        "Thực hành tình huống thực tế trong công việc thu mua."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình thu mua và quản lý nhà cung cấp.",
+        "Nâng cao khả năng xử lý đơn hàng và kiểm soát tiến độ giao hàng.",
+        "Biết cách thương lượng và làm việc hiệu quả với nhà cung cấp.",
+        "Cải thiện kỹ năng phối hợp với các bộ phận trong doanh nghiệp.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực thu mua và supply chain.",
+        "Tự tin làm việc trong môi trường doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
