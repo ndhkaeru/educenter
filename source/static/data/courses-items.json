@@ -221,6 +221,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-van-phong",
+      "title": "Tiếng Trung văn phòng",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung văn phòng giúp học viên sử dụng tiếng Trung hiệu quả trong môi trường công sở, giao tiếp công việc và xử lý các tình huống hành chính văn phòng thực tế.",
+      "seoTitle": "Khóa học Tiếng Trung văn phòng cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung văn phòng dành cho người đi làm, giúp nâng cao kỹ năng giao tiếp công sở, viết email, báo cáo và sử dụng tiếng Trung trong môi trường doanh nghiệp.",
+      "overview": "Khóa học Tiếng Trung văn phòng được xây dựng dành cho người đi làm muốn nâng cao khả năng sử dụng tiếng Trung trong môi trường công sở và doanh nghiệp. Nội dung học tập trung vào giao tiếp công việc, từ vựng văn phòng và các kỹ năng sử dụng tiếng Trung trong hoạt động hành chính, quản lý và phối hợp công việc hàng ngày.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu giao tiếp thường dùng trong văn phòng, kỹ năng viết email, báo cáo, trao đổi công việc và tham gia họp bằng tiếng Trung. Khóa học phù hợp với nhân viên văn phòng, quản lý và những người làm việc trong doanh nghiệp có sử dụng tiếng Trung.",
+      "audience": [
+        "Nhân viên văn phòng làm việc trong doanh nghiệp Trung Quốc hoặc FDI.",
+        "Người đi làm muốn nâng cao khả năng giao tiếp tiếng Trung công sở.",
+        "Nhân viên hành chính, nhân sự, kế toán, mua hàng và quản lý sản xuất.",
+        "Người thường xuyên trao đổi công việc với khách hàng hoặc quản lý Trung Quốc.",
+        "Người muốn phát triển cơ hội nghề nghiệp trong môi trường sử dụng tiếng Trung."
+      ],
+      "curriculum": [
+        "Phát âm và giao tiếp tiếng Trung văn phòng cơ bản.",
+        "Từ vựng và thuật ngữ thường dùng trong môi trường công sở.",
+        "Mẫu câu giao tiếp trong trao đổi công việc hàng ngày.",
+        "Kỹ năng viết email và báo cáo bằng tiếng Trung.",
+        "Giao tiếp trong họp, trao đổi tiến độ và xử lý công việc.",
+        "Hội thoại thực tế trong môi trường văn phòng doanh nghiệp.",
+        "Thực hành tình huống công việc bằng tiếng Trung."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong môi trường văn phòng.",
+        "Sử dụng được từ vựng và mẫu câu công sở thực tế.",
+        "Cải thiện kỹ năng viết email và trao đổi công việc bằng tiếng Trung.",
+        "Nâng cao khả năng phối hợp công việc với đồng nghiệp và quản lý Trung Quốc.",
+        "Tăng hiệu quả làm việc trong doanh nghiệp sử dụng tiếng Trung.",
+        "Mở rộng cơ hội thăng tiến và phát triển nghề nghiệp."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
