@@ -590,6 +590,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-ehs",
+      "title": "Tiếng Trung EHS",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa học tiếng Trung EHS giúp học viên sử dụng tiếng Trung hiệu quả trong công việc an toàn lao động, môi trường và sức khỏe nghề nghiệp tại doanh nghiệp.",
+      "seoTitle": "Khóa học Tiếng Trung EHS cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung EHS dành cho người làm an toàn lao động và môi trường, giúp nâng cao kỹ năng giao tiếp, sử dụng thuật ngữ chuyên ngành và xử lý công việc thực tế bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung EHS được thiết kế dành cho nhân viên an toàn, môi trường và những người làm việc trong doanh nghiệp có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành EHS, giao tiếp công việc và các tình huống thực tế liên quan đến an toàn lao động, phòng cháy chữa cháy, môi trường và quản lý sức khỏe nghề nghiệp.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu thường dùng trong đào tạo an toàn, kiểm tra hiện trường, xử lý sự cố và trao đổi với quản lý hoặc chuyên gia Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng hiệu quả quản lý EHS trong doanh nghiệp.",
+      "audience": [
+        "Nhân viên EHS làm việc trong doanh nghiệp sản xuất và FDI.",
+        "Người phụ trách an toàn lao động, môi trường và PCCC.",
+        "Nhân viên hành chính nhân sự kiêm quản lý EHS.",
+        "Người thường xuyên làm việc với chuyên gia hoặc quản lý Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành EHS."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành EHS bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong đào tạo và kiểm tra an toàn lao động.",
+        "Hội thoại liên quan đến môi trường, PCCC và sức khỏe nghề nghiệp.",
+        "Giao tiếp trong xử lý sự cố và báo cáo tai nạn lao động.",
+        "Kỹ năng trao đổi với quản lý và chuyên gia Trung Quốc.",
+        "Hội thoại liên quan đến nội quy an toàn và kiểm tra hiện trường.",
+        "Thực hành tình huống thực tế trong công việc EHS."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc EHS.",
+        "Hiểu và sử dụng được thuật ngữ an toàn và môi trường bằng tiếng Trung.",
+        "Cải thiện khả năng báo cáo và xử lý công việc EHS bằng tiếng Trung.",
+        "Nâng cao hiệu quả phối hợp với chuyên gia và quản lý Trung Quốc.",
+        "Tăng khả năng xử lý tình huống an toàn trong môi trường doanh nghiệp thực tế.",
+        "Mở rộng cơ hội nghề nghiệp trong doanh nghiệp FDI và công ty Trung Quốc."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
