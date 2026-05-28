@@ -1205,6 +1205,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-tin-hoc-van-phong",
+      "title": "Đào tạo Tin học văn phòng",
+      "audienceLabel": "Mọi đối tượng",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Tin học văn phòng giúp học viên sử dụng thành thạo Word, Excel, PowerPoint và nâng cao kỹ năng xử lý công việc văn phòng thực tế.",
+      "seoTitle": "Khóa đào tạo Tin học văn phòng cho người đi làm",
+      "seoDescription": "Khóa đào tạo Tin học văn phòng dành cho học sinh, sinh viên và người đi làm, giúp nâng cao kỹ năng Word, Excel, PowerPoint và xử lý công việc văn phòng hiệu quả.",
+      "overview": "Khóa đào tạo Tin học văn phòng được thiết kế dành cho học sinh, sinh viên và người đi làm muốn nâng cao kỹ năng sử dụng máy tính trong học tập và công việc. Nội dung học tập trung vào các công cụ văn phòng phổ biến như Word, Excel và PowerPoint cùng các kỹ năng xử lý dữ liệu và quản lý công việc thực tế.\n\nTrong quá trình học, học viên sẽ được thực hành trực tiếp trên các bài tập và tình huống thực tế liên quan đến soạn thảo văn bản, xử lý bảng tính, làm báo cáo và thuyết trình chuyên nghiệp. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao kỹ năng tin học văn phòng phục vụ công việc.",
+      "audience": [
+        "Học sinh, sinh viên cần nâng cao kỹ năng tin học văn phòng.",
+        "Người đi làm muốn cải thiện khả năng xử lý công việc trên máy tính.",
+        "Nhân viên văn phòng và hành chính doanh nghiệp.",
+        "Người mới bắt đầu sử dụng Word, Excel và PowerPoint.",
+        "Người muốn phát triển kỹ năng phục vụ học tập và công việc thực tế."
+      ],
+      "curriculum": [
+        "Tổng quan về tin học văn phòng và kỹ năng sử dụng máy tính.",
+        "Kỹ năng soạn thảo văn bản chuyên nghiệp bằng Microsoft Word.",
+        "Phương pháp xử lý dữ liệu và tính toán bằng Microsoft Excel.",
+        "Kỹ năng thiết kế slide và thuyết trình bằng PowerPoint.",
+        "Phương pháp quản lý dữ liệu và xử lý công việc văn phòng thực tế.",
+        "Kỹ năng sử dụng các công cụ hỗ trợ làm việc hiệu quả.",
+        "Thực hành bài tập và tình huống thực tế trong môi trường doanh nghiệp."
+      ],
+      "outcomes": [
+        "Sử dụng thành thạo Word, Excel và PowerPoint trong công việc.",
+        "Nâng cao khả năng xử lý dữ liệu và làm báo cáo chuyên nghiệp.",
+        "Biết cách trình bày văn bản và slide hiệu quả.",
+        "Cải thiện kỹ năng làm việc văn phòng và xử lý công việc thực tế.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong môi trường doanh nghiệp.",
+        "Tự tin sử dụng tin học văn phòng trong học tập và công việc hàng ngày."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
