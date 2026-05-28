@@ -918,6 +918,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-hr-hanh-chinh",
+      "title": "Đào tạo HR - Hành chính",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo HR - Hành chính giúp học viên hiểu rõ quy trình tuyển dụng, quản lý nhân sự và xử lý công việc hành chính thực tế trong doanh nghiệp.",
+      "seoTitle": "Khóa đào tạo HR - Hành chính cho người đi làm",
+      "seoDescription": "Khóa đào tạo HR - Hành chính dành cho người đi làm, giúp nâng cao kiến thức tuyển dụng, quản lý nhân sự và xử lý công việc hành chính trong doanh nghiệp.",
+      "overview": "Khóa đào tạo HR - Hành chính được thiết kế dành cho nhân viên hành chính nhân sự và những người làm việc trong môi trường doanh nghiệp. Nội dung học tập trung vào quy trình tuyển dụng, quản lý hồ sơ nhân sự, chấm công, tính phép và xử lý các công việc hành chính văn phòng thực tế.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến tuyển dụng, onboarding nhân viên mới, quản lý nội quy công ty và phối hợp với các bộ phận trong doanh nghiệp. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực HR và hành chính.",
+      "audience": [
+        "Nhân viên HR và hành chính trong doanh nghiệp.",
+        "Người mới bắt đầu tìm hiểu về nhân sự và hành chính văn phòng.",
+        "Người phụ trách tuyển dụng, chấm công và quản lý hồ sơ nhân sự.",
+        "Quản lý văn phòng và tổ trưởng cần nâng cao kỹ năng quản lý nhân sự.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực HR - Hành chính."
+      ],
+      "curriculum": [
+        "Tổng quan về HR và hành chính trong doanh nghiệp.",
+        "Quy trình tuyển dụng và tiếp nhận nhân sự mới.",
+        "Phương pháp quản lý hồ sơ và dữ liệu nhân sự.",
+        "Kỹ năng chấm công, tính phép và quản lý nội quy lao động.",
+        "Kỹ năng xử lý công việc hành chính văn phòng thực tế.",
+        "Phương pháp phối hợp với các bộ phận trong doanh nghiệp.",
+        "Thực hành tình huống thực tế trong công việc HR - Hành chính."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình tuyển dụng và quản lý nhân sự trong doanh nghiệp.",
+        "Nâng cao khả năng xử lý công việc hành chính thực tế.",
+        "Biết cách quản lý hồ sơ, chấm công và hỗ trợ vận hành văn phòng.",
+        "Cải thiện kỹ năng phối hợp và giao tiếp trong môi trường doanh nghiệp.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực HR - Hành chính.",
+        "Tự tin làm việc trong doanh nghiệp sản xuất và công ty FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
