@@ -1000,6 +1000,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-ky-thuat-san-xuat",
+      "title": "Đào tạo Kỹ thuật sản xuất",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Kỹ thuật sản xuất giúp học viên hiểu rõ quy trình kỹ thuật trong nhà máy, vận hành sản xuất và nâng cao kỹ năng xử lý vấn đề thực tế.",
+      "seoTitle": "Khóa đào tạo Kỹ thuật sản xuất cho người đi làm",
+      "seoDescription": "Khóa đào tạo Kỹ thuật sản xuất dành cho người đi làm, giúp nâng cao kiến thức kỹ thuật, quản lý sản xuất và xử lý công việc thực tế trong doanh nghiệp.",
+      "overview": "Khóa đào tạo Kỹ thuật sản xuất được thiết kế dành cho kỹ thuật viên, nhân viên sản xuất và những người làm việc trong môi trường nhà máy. Nội dung học tập trung vào quy trình kỹ thuật sản xuất, vận hành máy móc, quản lý công đoạn và xử lý các vấn đề kỹ thuật phát sinh trong quá trình sản xuất thực tế.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến lỗi sản xuất, vận hành thiết bị, cải tiến thao tác và phối hợp giữa các bộ phận kỹ thuật trong doanh nghiệp. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực kỹ thuật sản xuất.",
+      "audience": [
+        "Kỹ thuật viên và nhân viên sản xuất trong doanh nghiệp.",
+        "Người làm việc liên quan đến máy móc và vận hành sản xuất.",
+        "Tổ trưởng, chuyền trưởng và quản lý kỹ thuật.",
+        "Người muốn nâng cao kiến thức kỹ thuật sản xuất thực tế.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực kỹ thuật và sản xuất."
+      ],
+      "curriculum": [
+        "Tổng quan về kỹ thuật sản xuất trong doanh nghiệp.",
+        "Quy trình vận hành và quản lý công đoạn sản xuất.",
+        "Phương pháp xử lý lỗi và sự cố trong quá trình sản xuất.",
+        "Kỹ năng vận hành và kiểm tra máy móc thiết bị.",
+        "Phương pháp cải tiến thao tác và nâng cao hiệu quả sản xuất.",
+        "Kỹ năng phối hợp giữa các bộ phận kỹ thuật và sản xuất.",
+        "Thực hành tình huống thực tế trong công việc kỹ thuật sản xuất."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình kỹ thuật và vận hành sản xuất trong doanh nghiệp.",
+        "Nâng cao khả năng xử lý lỗi và vấn đề kỹ thuật thực tế.",
+        "Biết cách vận hành và phối hợp hiệu quả trong môi trường sản xuất.",
+        "Cải thiện kỹ năng quản lý công đoạn và nâng cao năng suất.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực kỹ thuật sản xuất.",
+        "Tự tin làm việc trong doanh nghiệp sản xuất và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
