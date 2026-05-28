@@ -1164,6 +1164,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-ky-nang-quan-ly",
+      "title": "Đào tạo Kỹ năng quản lý",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Kỹ năng quản lý giúp học viên nâng cao năng lực lãnh đạo, quản lý nhân sự và xử lý công việc hiệu quả trong môi trường doanh nghiệp.",
+      "seoTitle": "Khóa đào tạo Kỹ năng quản lý cho người đi làm",
+      "seoDescription": "Khóa đào tạo Kỹ năng quản lý dành cho người đi làm, giúp nâng cao kỹ năng lãnh đạo, quản lý công việc và phát triển đội nhóm trong doanh nghiệp.",
+      "overview": "Khóa đào tạo Kỹ năng quản lý được thiết kế dành cho tổ trưởng, quản lý và những người muốn phát triển năng lực lãnh đạo trong doanh nghiệp. Nội dung học tập trung vào kỹ năng quản lý công việc, điều phối nhân sự, giao tiếp nội bộ và xử lý các tình huống thực tế trong môi trường làm việc.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các phương pháp quản lý hiện đại, kỹ năng xây dựng đội nhóm, đánh giá hiệu suất và nâng cao hiệu quả vận hành trong doanh nghiệp. Khóa học phù hợp cho cả quản lý mới và người muốn nâng cao kỹ năng quản trị thực tế.",
+      "audience": [
+        "Tổ trưởng, chuyền trưởng và quản lý sản xuất.",
+        "Nhân viên chuẩn bị lên vị trí quản lý trong doanh nghiệp.",
+        "Quản lý bộ phận và giám sát hiện trường.",
+        "Người muốn nâng cao kỹ năng lãnh đạo và điều phối công việc.",
+        "Doanh nghiệp muốn phát triển đội ngũ quản lý nội bộ."
+      ],
+      "curriculum": [
+        "Tổng quan về kỹ năng quản lý và vai trò của người quản lý.",
+        "Kỹ năng giao tiếp và điều phối công việc trong doanh nghiệp.",
+        "Phương pháp quản lý nhân sự và xây dựng đội nhóm hiệu quả.",
+        "Kỹ năng lập kế hoạch và kiểm soát tiến độ công việc.",
+        "Phương pháp xử lý vấn đề và ra quyết định trong công việc.",
+        "Kỹ năng đánh giá hiệu suất và phát triển nhân sự.",
+        "Thực hành tình huống quản lý thực tế trong doanh nghiệp."
+      ],
+      "outcomes": [
+        "Hiểu rõ vai trò và trách nhiệm của người quản lý trong doanh nghiệp.",
+        "Nâng cao khả năng giao tiếp, điều phối và quản lý đội nhóm.",
+        "Biết cách lập kế hoạch và kiểm soát công việc hiệu quả.",
+        "Cải thiện kỹ năng xử lý vấn đề và ra quyết định thực tế.",
+        "Tăng khả năng phát triển nghề nghiệp lên các vị trí quản lý.",
+        "Tự tin quản lý và vận hành công việc trong môi trường doanh nghiệp."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
