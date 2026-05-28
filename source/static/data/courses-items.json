@@ -1123,6 +1123,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-audit-noi-bo",
+      "title": "Đào tạo Audit nội bộ",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Audit nội bộ giúp học viên hiểu rõ quy trình đánh giá nội bộ, kỹ năng audit và nâng cao khả năng kiểm soát hệ thống trong doanh nghiệp.",
+      "seoTitle": "Khóa đào tạo Audit nội bộ cho doanh nghiệp sản xuất",
+      "seoDescription": "Khóa đào tạo Audit nội bộ dành cho người đi làm, giúp nâng cao kiến thức đánh giá nội bộ, kiểm soát hệ thống và xử lý vấn đề thực tế trong doanh nghiệp.",
+      "overview": "Khóa đào tạo Audit nội bộ được thiết kế dành cho nhân viên và quản lý làm việc trong môi trường doanh nghiệp sản xuất và dịch vụ. Nội dung học tập trung vào quy trình đánh giá nội bộ, kỹ năng audit hệ thống và phương pháp kiểm tra việc tuân thủ quy trình trong doanh nghiệp.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến đánh giá nội bộ, phát hiện điểm không phù hợp, lập báo cáo audit và theo dõi hành động khắc phục. Khóa học giúp học viên nâng cao khả năng kiểm soát hệ thống và cải tiến hoạt động doanh nghiệp một cách hiệu quả.",
+      "audience": [
+        "Nhân viên QA/QC và quản lý chất lượng trong doanh nghiệp.",
+        "Người làm việc liên quan đến hệ thống ISO và quản lý quy trình.",
+        "Nhân viên phụ trách audit nội bộ và cải tiến hệ thống.",
+        "Tổ trưởng, quản lý bộ phận và quản lý sản xuất.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực đánh giá và quản lý hệ thống."
+      ],
+      "curriculum": [
+        "Tổng quan về Audit nội bộ trong doanh nghiệp.",
+        "Quy trình lập kế hoạch và thực hiện đánh giá nội bộ.",
+        "Kỹ năng đặt câu hỏi và thu thập bằng chứng audit.",
+        "Phương pháp xác định điểm không phù hợp và rủi ro hệ thống.",
+        "Kỹ năng lập báo cáo audit và theo dõi hành động khắc phục.",
+        "Phương pháp cải tiến hệ thống sau đánh giá nội bộ.",
+        "Thực hành tình huống audit thực tế trong doanh nghiệp."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình và vai trò của Audit nội bộ trong doanh nghiệp.",
+        "Nâng cao khả năng đánh giá và kiểm soát hệ thống thực tế.",
+        "Biết cách phát hiện điểm không phù hợp và đề xuất cải tiến.",
+        "Cải thiện kỹ năng lập báo cáo và theo dõi hành động khắc phục.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực quản lý hệ thống.",
+        "Tự tin thực hiện hoạt động audit nội bộ trong doanh nghiệp."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
