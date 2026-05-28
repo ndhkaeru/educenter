@@ -1082,6 +1082,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-lean-5s-kaizen",
+      "title": "Đào tạo Lean – 5S – Kaizen",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Lean – 5S – Kaizen giúp học viên hiểu rõ phương pháp cải tiến sản xuất, giảm lãng phí và nâng cao hiệu quả làm việc trong doanh nghiệp.",
+      "seoTitle": "Khóa đào tạo Lean – 5S – Kaizen cho doanh nghiệp sản xuất",
+      "seoDescription": "Khóa đào tạo Lean – 5S – Kaizen dành cho người đi làm, giúp nâng cao kiến thức cải tiến sản xuất, tối ưu quy trình và xây dựng môi trường làm việc hiệu quả.",
+      "overview": "Khóa đào tạo Lean – 5S – Kaizen được thiết kế dành cho nhân viên và quản lý làm việc trong môi trường doanh nghiệp sản xuất. Nội dung học tập trung vào các phương pháp cải tiến liên tục, loại bỏ lãng phí và xây dựng môi trường làm việc khoa học nhằm nâng cao hiệu quả vận hành trong doanh nghiệp.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các công cụ Lean, phương pháp triển khai 5S và tư duy Kaizen trong cải tiến sản xuất thực tế. Khóa học giúp học viên nâng cao khả năng quản lý hiện trường, cải thiện năng suất và tối ưu quy trình làm việc trong doanh nghiệp.",
+      "audience": [
+        "Nhân viên sản xuất và kỹ thuật trong doanh nghiệp.",
+        "Tổ trưởng, chuyền trưởng và quản lý sản xuất.",
+        "Nhân viên QA/QC, PE, IE và các bộ phận cải tiến.",
+        "Người muốn nâng cao kỹ năng quản lý hiện trường và tối ưu công việc.",
+        "Doanh nghiệp muốn xây dựng văn hóa cải tiến liên tục."
+      ],
+      "curriculum": [
+        "Tổng quan về Lean, 5S và Kaizen trong doanh nghiệp sản xuất.",
+        "Phương pháp nhận diện và loại bỏ lãng phí trong sản xuất.",
+        "Quy trình triển khai và duy trì 5S tại hiện trường.",
+        "Tư duy Kaizen và phương pháp cải tiến liên tục.",
+        "Kỹ năng quản lý hiện trường và nâng cao hiệu quả làm việc.",
+        "Phương pháp tối ưu quy trình và cải thiện năng suất sản xuất.",
+        "Thực hành tình huống thực tế trong hoạt động cải tiến doanh nghiệp."
+      ],
+      "outcomes": [
+        "Hiểu rõ tư duy Lean, 5S và Kaizen trong doanh nghiệp.",
+        "Nâng cao khả năng quản lý hiện trường và cải tiến công việc thực tế.",
+        "Biết cách nhận diện và giảm lãng phí trong sản xuất.",
+        "Cải thiện hiệu quả làm việc và môi trường sản xuất.",
+        "Tăng khả năng triển khai hoạt động cải tiến trong doanh nghiệp.",
+        "Tự tin áp dụng Lean – 5S – Kaizen vào công việc thực tế."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
