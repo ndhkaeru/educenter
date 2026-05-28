@@ -1246,6 +1246,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-ai-ung-dung-cong-viec-cong-xuong",
+      "title": "Đào tạo AI ứng dụng công việc công xưởng",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo AI ứng dụng công việc công xưởng giúp học viên biết cách sử dụng AI để hỗ trợ báo cáo, phân tích dữ liệu, xử lý công việc và nâng cao hiệu quả làm việc trong nhà máy.",
+      "seoTitle": "Khóa đào tạo AI ứng dụng công việc công xưởng cho người đi làm",
+      "seoDescription": "Khóa đào tạo AI ứng dụng công việc công xưởng dành cho người đi làm trong nhà máy, giúp nâng cao kỹ năng sử dụng AI để hỗ trợ báo cáo, quản lý và xử lý công việc thực tế.",
+      "overview": "Khóa đào tạo AI ứng dụng công việc công xưởng được thiết kế dành cho người đi làm trong môi trường nhà máy và doanh nghiệp sản xuất. Nội dung học tập trung vào cách ứng dụng công nghệ AI vào công việc hàng ngày nhằm nâng cao hiệu quả xử lý công việc, tiết kiệm thời gian và hỗ trợ quản lý sản xuất.\n\nTrong quá trình học, học viên sẽ được hướng dẫn cách sử dụng AI để viết báo cáo, phân tích dữ liệu, xử lý email, tạo SOP, hỗ trợ dịch thuật và tối ưu các công việc văn phòng, kỹ thuật và quản lý trong công xưởng. Khóa học phù hợp cho cả người chưa có kiến thức về AI và người muốn ứng dụng AI thực tế vào công việc.",
+      "audience": [
+        "Nhân viên văn phòng và sản xuất trong doanh nghiệp.",
+        "Nhân viên QA/QC, PMC, PE, IE, HR và các bộ phận hỗ trợ.",
+        "Tổ trưởng, quản lý sản xuất và quản lý hiện trường.",
+        "Người muốn ứng dụng AI để nâng cao hiệu quả công việc.",
+        "Doanh nghiệp muốn nâng cao năng suất và chuyển đổi số trong vận hành."
+      ],
+      "curriculum": [
+        "Tổng quan về AI và ứng dụng AI trong doanh nghiệp sản xuất.",
+        "Phương pháp sử dụng AI để viết báo cáo và xử lý dữ liệu.",
+        "Kỹ năng ứng dụng AI trong soạn SOP và tài liệu công việc.",
+        "Phương pháp sử dụng AI để hỗ trợ dịch thuật và giao tiếp công việc.",
+        "Ứng dụng AI trong quản lý sản xuất và phân tích vấn đề.",
+        "Kỹ năng sử dụng AI để tối ưu công việc văn phòng và hiện trường.",
+        "Thực hành tình huống thực tế ứng dụng AI trong công xưởng."
+      ],
+      "outcomes": [
+        "Hiểu rõ cách ứng dụng AI trong công việc thực tế tại doanh nghiệp.",
+        "Nâng cao khả năng xử lý báo cáo và dữ liệu bằng AI.",
+        "Biết cách sử dụng AI để tiết kiệm thời gian và tối ưu công việc.",
+        "Cải thiện hiệu quả quản lý và phối hợp công việc trong nhà máy.",
+        "Tăng khả năng thích nghi với xu hướng chuyển đổi số trong doanh nghiệp.",
+        "Tự tin ứng dụng AI vào công việc hàng ngày trong môi trường sản xuất."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
