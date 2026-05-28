@@ -959,6 +959,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-xuat-nhap-khau",
+      "title": "Đào tạo Xuất nhập khẩu",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo Xuất nhập khẩu giúp học viên hiểu rõ quy trình xuất nhập khẩu, chứng từ logistics và nâng cao kỹ năng xử lý công việc thực tế trong doanh nghiệp.",
+      "seoTitle": "Khóa đào tạo Xuất nhập khẩu cho người đi làm",
+      "seoDescription": "Khóa đào tạo Xuất nhập khẩu dành cho người đi làm, giúp nâng cao kiến thức logistics, chứng từ xuất nhập khẩu và xử lý công việc thực tế trong doanh nghiệp.",
+      "overview": "Khóa đào tạo Xuất nhập khẩu được thiết kế dành cho nhân viên logistics, xuất nhập khẩu và những người làm việc trong lĩnh vực thương mại quốc tế. Nội dung học tập trung vào quy trình xuất nhập khẩu hàng hóa, quản lý chứng từ, vận chuyển quốc tế và phối hợp với các bộ phận liên quan trong doanh nghiệp.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến booking, invoice, packing list, khai báo hải quan và xử lý các vấn đề phát sinh trong hoạt động xuất nhập khẩu. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực logistics và ngoại thương.",
+      "audience": [
+        "Nhân viên xuất nhập khẩu và logistics trong doanh nghiệp.",
+        "Người làm việc liên quan đến chứng từ và vận chuyển quốc tế.",
+        "Nhân viên kho vận, thu mua và supply chain muốn nâng cao chuyên môn.",
+        "Người mới bắt đầu tìm hiểu về lĩnh vực xuất nhập khẩu.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực logistics và ngoại thương."
+      ],
+      "curriculum": [
+        "Tổng quan về xuất nhập khẩu và logistics quốc tế.",
+        "Quy trình xuất khẩu và nhập khẩu hàng hóa thực tế.",
+        "Phương pháp xử lý chứng từ xuất nhập khẩu.",
+        "Kỹ năng làm invoice, packing list và booking vận chuyển.",
+        "Quy trình khai báo hải quan và xử lý thông quan hàng hóa.",
+        "Kỹ năng phối hợp với forwarder, hãng tàu và khách hàng.",
+        "Thực hành tình huống thực tế trong công việc xuất nhập khẩu."
+      ],
+      "outcomes": [
+        "Hiểu rõ quy trình xuất nhập khẩu trong doanh nghiệp.",
+        "Nâng cao khả năng xử lý chứng từ và logistics thực tế.",
+        "Biết cách phối hợp với các đơn vị vận chuyển và hải quan.",
+        "Cải thiện kỹ năng xử lý vấn đề trong hoạt động xuất nhập khẩu.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực logistics và ngoại thương.",
+        "Tự tin làm việc trong doanh nghiệp sản xuất, thương mại và FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
