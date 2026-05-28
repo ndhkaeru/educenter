@@ -1041,6 +1041,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "dao-tao-iso",
+      "title": "Đào tạo ISO",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-single.jpg",
+      "excerpt": "Khóa đào tạo ISO giúp học viên hiểu rõ hệ thống quản lý chất lượng, quy trình vận hành và cách áp dụng tiêu chuẩn ISO vào doanh nghiệp thực tế.",
+      "seoTitle": "Khóa đào tạo ISO cho người đi làm trong doanh nghiệp",
+      "seoDescription": "Khóa đào tạo ISO dành cho người đi làm, giúp nâng cao kiến thức hệ thống quản lý chất lượng, quy trình ISO và ứng dụng thực tế trong doanh nghiệp sản xuất.",
+      "overview": "Khóa đào tạo ISO được thiết kế dành cho nhân viên và quản lý làm việc trong môi trường doanh nghiệp sản xuất và dịch vụ. Nội dung học tập trung vào hệ thống quản lý chất lượng ISO, quy trình xây dựng tài liệu, kiểm soát quy trình và áp dụng tiêu chuẩn ISO vào hoạt động thực tế của doanh nghiệp.\n\nTrong quá trình học, học viên sẽ được tiếp cận với các tình huống thực tế liên quan đến xây dựng SOP, kiểm soát tài liệu, đánh giá nội bộ và cải tiến hệ thống quản lý chất lượng. Khóa học phù hợp cho cả người mới bắt đầu và người muốn nâng cao chuyên môn trong lĩnh vực ISO và quản lý hệ thống.",
+      "audience": [
+        "Nhân viên QA/QC và quản lý chất lượng trong doanh nghiệp.",
+        "Người làm việc liên quan đến hệ thống ISO và quản lý quy trình.",
+        "Tổ trưởng, quản lý sản xuất và quản lý bộ phận.",
+        "Người muốn tìm hiểu và áp dụng ISO trong doanh nghiệp thực tế.",
+        "Người muốn phát triển nghề nghiệp trong lĩnh vực quản lý hệ thống chất lượng."
+      ],
+      "curriculum": [
+        "Tổng quan về hệ thống quản lý ISO trong doanh nghiệp.",
+        "Các nguyên tắc và yêu cầu cơ bản của tiêu chuẩn ISO.",
+        "Phương pháp xây dựng quy trình và tài liệu ISO.",
+        "Kỹ năng kiểm soát tài liệu và quản lý hồ sơ hệ thống.",
+        "Phương pháp đánh giá nội bộ và cải tiến hệ thống quản lý.",
+        "Kỹ năng xử lý điểm không phù hợp và hành động khắc phục.",
+        "Thực hành tình huống thực tế trong công việc liên quan đến ISO."
+      ],
+      "outcomes": [
+        "Hiểu rõ hệ thống quản lý chất lượng ISO trong doanh nghiệp.",
+        "Nâng cao khả năng xây dựng và quản lý quy trình ISO thực tế.",
+        "Biết cách kiểm soát tài liệu và vận hành hệ thống hiệu quả.",
+        "Cải thiện kỹ năng đánh giá và xử lý vấn đề trong hệ thống ISO.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực quản lý chất lượng.",
+        "Tự tin làm việc trong doanh nghiệp sản xuất và công ty FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
