@@ -1492,6 +1492,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-sales",
+      "title": "Tiếng Trung Sales",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Sales giúp học viên sử dụng tiếng Trung hiệu quả trong công việc bán hàng, tư vấn khách hàng, đàm phán và phát triển kinh doanh.",
+      "seoTitle": "Khóa học Tiếng Trung Sales cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Sales dành cho nhân viên kinh doanh và bán hàng, giúp nâng cao kỹ năng giao tiếp, tư vấn khách hàng và đàm phán bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung Sales được thiết kế dành cho nhân viên kinh doanh, nhân viên bán hàng và những người làm việc trong lĩnh vực thương mại có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành kinh doanh, kỹ năng giao tiếp với khách hàng và các tình huống thực tế trong hoạt động bán hàng.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu tư vấn sản phẩm, báo giá, đàm phán hợp đồng, xử lý từ chối và chăm sóc khách hàng bằng tiếng Trung. Khóa học giúp nâng cao khả năng giao tiếp, tăng hiệu quả bán hàng và mở rộng cơ hội phát triển nghề nghiệp trong môi trường doanh nghiệp có yếu tố Trung Quốc.",
+      "audience": [
+        "Nhân viên Sales và kinh doanh trong doanh nghiệp.",
+        "Nhân viên bán hàng làm việc với khách hàng hoặc đối tác Trung Quốc.",
+        "Nhân viên phát triển thị trường và chăm sóc khách hàng.",
+        "Người thường xuyên tham gia đàm phán và giao dịch thương mại.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành kinh doanh và bán hàng."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành Sales bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong tư vấn và giới thiệu sản phẩm.",
+        "Hội thoại liên quan đến báo giá, đơn hàng và hợp đồng.",
+        "Kỹ năng đàm phán và thương lượng với khách hàng Trung Quốc.",
+        "Giao tiếp trong xử lý từ chối và giải quyết vấn đề khách hàng.",
+        "Kỹ năng chăm sóc khách hàng trước và sau bán hàng.",
+        "Thực hành tình huống thực tế trong công việc Sales."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc bán hàng và kinh doanh.",
+        "Hiểu và sử dụng được thuật ngữ Sales bằng tiếng Trung.",
+        "Cải thiện khả năng tư vấn, báo giá và đàm phán với khách hàng.",
+        "Nâng cao hiệu quả bán hàng và phát triển khách hàng mới.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực kinh doanh.",
+        "Tự tin làm việc trong doanh nghiệp FDI, công ty thương mại và môi trường quốc tế."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
