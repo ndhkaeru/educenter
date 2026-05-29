@@ -1574,6 +1574,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-phien-dich-hien-truong",
+      "title": "Tiếng Trung Phiên dịch hiện trường",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Phiên dịch hiện trường giúp học viên nâng cao kỹ năng nghe hiểu, truyền đạt thông tin và phiên dịch hiệu quả trong môi trường nhà máy, công trường và doanh nghiệp.",
+      "seoTitle": "Khóa học Tiếng Trung Phiên dịch hiện trường cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Phiên dịch hiện trường dành cho người đi làm, giúp nâng cao kỹ năng phiên dịch, giao tiếp và xử lý tình huống thực tế trong môi trường sản xuất và doanh nghiệp.",
+      "overview": "Khóa học Tiếng Trung Phiên dịch hiện trường được thiết kế dành cho những người muốn trở thành phiên dịch viên tiếng Trung hoặc đang làm công việc hỗ trợ giao tiếp giữa người Việt Nam và người Trung Quốc tại nhà máy, công trường hoặc doanh nghiệp. Nội dung học tập trung vào kỹ năng nghe hiểu, ghi nhớ, truyền đạt thông tin và xử lý tình huống thực tế trong môi trường làm việc.\n\nTrong quá trình học, học viên sẽ được thực hành phiên dịch các tình huống thường gặp như họp sản xuất, hướng dẫn công việc, xử lý lỗi, đào tạo nhân viên, triển khai dự án và trao đổi kỹ thuật. Khóa học giúp học viên nâng cao khả năng phản xạ ngôn ngữ và tự tin làm việc trong vai trò phiên dịch hiện trường chuyên nghiệp.",
+      "audience": [
+        "Người muốn trở thành phiên dịch viên tiếng Trung hiện trường.",
+        "Nhân viên phiên dịch đang làm việc trong nhà máy và doanh nghiệp FDI.",
+        "Người có nền tảng tiếng Trung muốn phát triển theo hướng phiên dịch.",
+        "Nhân viên sản xuất, kỹ thuật, QA, PMC, HR thường xuyên làm việc với chuyên gia Trung Quốc.",
+        "Sinh viên và người đi làm muốn nâng cao kỹ năng giao tiếp và phiên dịch thực tế."
+      ],
+      "curriculum": [
+        "Kỹ năng nghe hiểu và ghi nhớ thông tin khi phiên dịch.",
+        "Từ vựng và thuật ngữ thường dùng trong môi trường sản xuất và doanh nghiệp.",
+        "Kỹ năng phiên dịch trực tiếp trong các cuộc họp và trao đổi công việc.",
+        "Phiên dịch hướng dẫn thao tác, đào tạo và triển khai công việc.",
+        "Kỹ năng xử lý tình huống và truyền đạt thông tin chính xác.",
+        "Phiên dịch trong môi trường nhà máy, công trường và văn phòng.",
+        "Thực hành mô phỏng các tình huống phiên dịch hiện trường thực tế."
+      ],
+      "outcomes": [
+        "Tự tin phiên dịch trong môi trường sản xuất và doanh nghiệp.",
+        "Nâng cao khả năng nghe hiểu và phản xạ tiếng Trung thực tế.",
+        "Biết cách truyền đạt thông tin chính xác giữa hai ngôn ngữ.",
+        "Cải thiện kỹ năng giao tiếp với chuyên gia, quản lý và khách hàng Trung Quốc.",
+        "Tăng khả năng ứng tuyển vào vị trí phiên dịch tiếng Trung hiện trường.",
+        "Nâng cao thu nhập và cơ hội phát triển nghề nghiệp trong doanh nghiệp FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
