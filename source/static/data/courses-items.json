@@ -1410,6 +1410,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-bao-tri-may-moc",
+      "title": "Tiếng Trung Bảo trì máy móc",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Bảo trì máy móc giúp học viên sử dụng tiếng Trung hiệu quả trong công việc bảo trì, sửa chữa thiết bị và làm việc với kỹ sư hoặc chuyên gia Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung Bảo trì máy móc cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Bảo trì máy móc dành cho kỹ thuật viên bảo trì và người đi làm, giúp nâng cao kỹ năng giao tiếp và sử dụng thuật ngữ bảo trì bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung Bảo trì máy móc được thiết kế dành cho kỹ thuật viên bảo trì, kỹ sư cơ điện và những người làm việc trong môi trường sản xuất có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành bảo trì, giao tiếp công việc và các tình huống thực tế liên quan đến máy móc, thiết bị và hệ thống sản xuất.\n\nTrong quá trình học, học viên sẽ được làm quen với các thuật ngữ kỹ thuật thường gặp trong bảo trì, cách trao đổi với kỹ sư và chuyên gia Trung Quốc về sự cố máy móc, kế hoạch bảo dưỡng và thay thế linh kiện. Khóa học giúp nâng cao khả năng sử dụng tiếng Trung chuyên ngành và tăng hiệu quả làm việc trong môi trường kỹ thuật thực tế.",
+      "audience": [
+        "Kỹ thuật viên bảo trì cơ khí, điện và tự động hóa.",
+        "Kỹ sư bảo trì và kỹ sư thiết bị trong doanh nghiệp sản xuất.",
+        "Nhân viên vận hành máy móc thường xuyên làm việc với chuyên gia Trung Quốc.",
+        "Người làm việc trong bộ phận Maintenance, Engineering hoặc Facility.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành bảo trì máy móc."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành bảo trì máy móc bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong bảo dưỡng và sửa chữa thiết bị.",
+        "Hội thoại liên quan đến sự cố máy móc và dừng chuyền sản xuất.",
+        "Giao tiếp trong bảo trì định kỳ và bảo trì khẩn cấp.",
+        "Kỹ năng trao đổi với kỹ sư và chuyên gia Trung Quốc về vấn đề kỹ thuật.",
+        "Hội thoại liên quan đến linh kiện, thiết bị và kế hoạch bảo dưỡng.",
+        "Thực hành tình huống thực tế trong công việc bảo trì máy móc."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc bảo trì máy móc.",
+        "Hiểu và sử dụng được thuật ngữ bảo trì, sửa chữa bằng tiếng Trung.",
+        "Cải thiện khả năng trao đổi với kỹ sư và chuyên gia Trung Quốc.",
+        "Nâng cao hiệu quả xử lý sự cố và phối hợp công việc kỹ thuật.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực bảo trì thiết bị.",
+        "Tự tin làm việc trong doanh nghiệp sản xuất và công ty FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
