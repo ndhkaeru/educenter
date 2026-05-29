@@ -1328,6 +1328,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-xuat-nhap-khau",
+      "title": "Tiếng Trung Xuất nhập khẩu",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Xuất nhập khẩu giúp học viên sử dụng tiếng Trung hiệu quả trong công việc logistics, chứng từ ngoại thương và giao dịch với đối tác Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung Xuất nhập khẩu cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Xuất nhập khẩu dành cho nhân viên logistics và ngoại thương, giúp nâng cao kỹ năng giao tiếp, xử lý chứng từ và làm việc với đối tác Trung Quốc.",
+      "overview": "Khóa học Tiếng Trung Xuất nhập khẩu được thiết kế dành cho nhân viên logistics, xuất nhập khẩu và những người làm việc trong lĩnh vực thương mại quốc tế có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành ngoại thương, logistics, vận tải quốc tế và các tình huống giao tiếp thực tế trong công việc hàng ngày.\n\nTrong quá trình học, học viên sẽ được làm quen với các thuật ngữ xuất nhập khẩu thường gặp, cách trao đổi với nhà cung cấp, khách hàng, forwarder và hãng tàu Trung Quốc. Đồng thời, học viên được thực hành các tình huống liên quan đến đơn hàng, chứng từ, vận chuyển và thông quan hàng hóa. Khóa học giúp nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và mở rộng cơ hội nghề nghiệp trong lĩnh vực ngoại thương.",
+      "audience": [
+        "Nhân viên xuất nhập khẩu và logistics trong doanh nghiệp.\n",
+        "Nhân viên chứng từ, khai báo hải quan và điều phối vận chuyển.\n",
+        "Nhân viên thu mua, kho vận và supply chain có liên quan đến hoạt động ngoại thương.\n",
+        "Người thường xuyên làm việc với khách hàng hoặc đối tác Trung Quốc.\n",
+        "Người muốn nâng cao tiếng Trung chuyên ngành xuất nhập khẩu."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành xuất nhập khẩu bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong hoạt động ngoại thương và logistics.",
+        "Hội thoại liên quan đến đơn hàng, báo giá và hợp đồng mua bán.",
+        "Giao tiếp trong xử lý chứng từ xuất nhập khẩu và vận chuyển quốc tế.",
+        "Kỹ năng trao đổi với nhà cung cấp, khách hàng và forwarder Trung Quốc.",
+        "Hội thoại liên quan đến hải quan, giao hàng và các vấn đề phát sinh.",
+        "Thực hành tình huống thực tế trong công việc xuất nhập khẩu."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong lĩnh vực xuất nhập khẩu và logistics.",
+        "Hiểu và sử dụng được thuật ngữ ngoại thương bằng tiếng Trung.",
+        "Cải thiện khả năng xử lý chứng từ và trao đổi với đối tác Trung Quốc.",
+        "Nâng cao hiệu quả làm việc trong môi trường logistics và thương mại quốc tế.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực xuất nhập khẩu.",
+        "Tự tin làm việc với khách hàng, nhà cung cấp và đối tác Trung Quốc."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
