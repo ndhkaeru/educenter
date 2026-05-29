@@ -1533,6 +1533,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-audit-doi-ung-khach-hang",
+      "title": "Tiếng Trung Audit đối ứng khách hàng",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Audit đối ứng khách hàng giúp học viên tự tin giao tiếp, chuẩn bị hồ sơ và đối ứng các cuộc đánh giá khách hàng bằng tiếng Trung trong doanh nghiệp.",
+      "seoTitle": "Khóa học Tiếng Trung Audit đối ứng khách hàng cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Audit đối ứng khách hàng dành cho QA, QC, EHS, HR và quản lý doanh nghiệp, giúp nâng cao kỹ năng giao tiếp và đối ứng audit bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung Audit đối ứng khách hàng được thiết kế dành cho nhân viên và quản lý thường xuyên tham gia các cuộc đánh giá khách hàng, đánh giá nhà cung cấp hoặc đánh giá hệ thống từ đối tác Trung Quốc. Nội dung học tập trung vào từ vựng chuyên ngành audit, kỹ năng giao tiếp, trả lời câu hỏi và xử lý các tình huống thực tế trong quá trình đánh giá.\n\nTrong quá trình học, học viên sẽ được luyện tập các mẫu câu thường dùng khi giới thiệu công ty, giới thiệu quy trình, trình bày hồ sơ và trả lời các câu hỏi đánh giá bằng tiếng Trung. Khóa học giúp học viên nâng cao sự tự tin khi tiếp đoàn khách hàng, giảm phụ thuộc vào phiên dịch và nâng cao hình ảnh chuyên nghiệp của doanh nghiệp.",
+      "audience": [
+        "Nhân viên QA, QC tham gia đối ứng audit khách hàng.",
+        "Nhân viên EHS, HR, PMC và các bộ phận liên quan đến hệ thống quản lý.",
+        "Trưởng nhóm, quản lý bộ phận thường xuyên tiếp đoàn đánh giá.",
+        "Người làm việc trong doanh nghiệp FDI hoặc doanh nghiệp có khách hàng Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành audit và đối ứng khách hàng."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành Audit bằng tiếng Trung.",
+        "Mẫu câu giới thiệu công ty, tổ chức và quy trình sản xuất.",
+        "Kỹ năng trình bày hồ sơ, tài liệu và quy trình quản lý.",
+        "Hội thoại đối ứng trong các cuộc đánh giá chất lượng, môi trường và trách nhiệm xã hội.",
+        "Kỹ năng trả lời câu hỏi audit và xử lý tình huống phát sinh.",
+        "Giao tiếp khi dẫn đoàn tham quan nhà máy và hiện trường sản xuất.",
+        "Thực hành mô phỏng các cuộc audit khách hàng bằng tiếng Trung."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp và đối ứng khách hàng Trung Quốc trong các cuộc audit.",
+        "Hiểu và sử dụng được thuật ngữ audit bằng tiếng Trung.",
+        "Nâng cao khả năng giới thiệu quy trình và trình bày hồ sơ hệ thống.",
+        "Cải thiện kỹ năng trả lời câu hỏi và xử lý tình huống đánh giá thực tế.",
+        "Giảm sự phụ thuộc vào phiên dịch trong các cuộc audit khách hàng.",
+        "Nâng cao hình ảnh chuyên nghiệp của cá nhân và doanh nghiệp khi tiếp đoàn đánh giá."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
