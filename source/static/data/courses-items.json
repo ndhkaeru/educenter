@@ -1287,6 +1287,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-ke-toan",
+      "title": "Tiếng Trung Kế toán",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Kế toán giúp học viên sử dụng tiếng Trung hiệu quả trong công việc kế toán, tài chính và làm việc với quản lý hoặc đối tác Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung Kế toán cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Kế toán dành cho nhân viên kế toán, tài chính và người đi làm, giúp nâng cao kỹ năng giao tiếp và sử dụng thuật ngữ kế toán bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung Kế toán được thiết kế dành cho nhân viên kế toán, tài chính và những người làm việc trong doanh nghiệp có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành kế toán, tài chính, thuế và các tình huống giao tiếp thực tế trong công việc hàng ngày.\n\nTrong quá trình học, học viên sẽ được làm quen với các thuật ngữ kế toán thường gặp, cách trao đổi số liệu tài chính, xử lý chứng từ, báo cáo công nợ và làm việc với quản lý, kiểm toán hoặc đối tác Trung Quốc. Khóa học giúp học viên nâng cao khả năng sử dụng tiếng Trung trong công việc thực tế và tăng cơ hội phát triển nghề nghiệp trong doanh nghiệp FDI.",
+      "audience": [
+        "Nhân viên kế toán trong doanh nghiệp sản xuất và thương mại.\n",
+        "Nhân viên tài chính thường xuyên làm việc với đối tác Trung Quốc.",
+        "Kế toán tổng hợp, kế toán kho, kế toán công nợ và kế toán thuế.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành kế toán.",
+        "Người chuẩn bị ứng tuyển vào doanh nghiệp Trung Quốc hoặc FDI."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành kế toán bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong công việc kế toán và tài chính.",
+        "Hội thoại liên quan đến hóa đơn, chứng từ và công nợ.",
+        "Giao tiếp trong xử lý thanh toán và đối chiếu số liệu.",
+        "Kỹ năng trao đổi với quản lý, kiểm toán và đối tác Trung Quốc.",
+        "Hội thoại liên quan đến báo cáo tài chính và thuế.",
+        "Thực hành tình huống thực tế trong công việc kế toán."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong công việc kế toán và tài chính.",
+        "Hiểu và sử dụng được thuật ngữ kế toán bằng tiếng Trung.",
+        "Cải thiện khả năng trao đổi số liệu và xử lý chứng từ với đối tác Trung Quốc.",
+        "Nâng cao hiệu quả làm việc trong môi trường doanh nghiệp có sử dụng tiếng Trung.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực kế toán và tài chính.",
+        "Tự tin làm việc với quản lý, kiểm toán và khách hàng Trung Quốc."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
