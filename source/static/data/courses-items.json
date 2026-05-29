@@ -1451,6 +1451,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-cham-soc-khach-hang",
+      "title": "Tiếng Trung CSKH",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung CSKH giúp học viên sử dụng tiếng Trung hiệu quả trong công việc chăm sóc khách hàng, hỗ trợ khách hàng và xử lý tình huống dịch vụ thực tế.",
+      "seoTitle": "Khóa học Tiếng Trung CSKH cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung CSKH dành cho nhân viên chăm sóc khách hàng, giúp nâng cao kỹ năng giao tiếp, hỗ trợ khách hàng và xử lý tình huống bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung CSKH được thiết kế dành cho nhân viên chăm sóc khách hàng, nhân viên kinh doanh và những người thường xuyên làm việc với khách hàng Trung Quốc. Nội dung học tập trung vào từ vựng chuyên ngành dịch vụ khách hàng, giao tiếp công việc và các tình huống thực tế trong quá trình hỗ trợ khách hàng trước, trong và sau bán hàng.\n\nTrong quá trình học, học viên sẽ được luyện các mẫu câu giao tiếp chuyên nghiệp, kỹ năng tiếp nhận yêu cầu, giải quyết khiếu nại và duy trì mối quan hệ với khách hàng bằng tiếng Trung. Khóa học giúp nâng cao khả năng giao tiếp, xử lý tình huống và tăng hiệu quả phục vụ khách hàng trong môi trường doanh nghiệp.",
+      "audience": [
+        "Nhân viên chăm sóc khách hàng trong doanh nghiệp.",
+        "Nhân viên kinh doanh, telesales và hỗ trợ khách hàng.",
+        "Nhân viên bán hàng làm việc với khách hàng Trung Quốc.",
+        "Người thường xuyên trao đổi với khách hàng qua điện thoại, email hoặc mạng xã hội.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành chăm sóc khách hàng."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành CSKH bằng tiếng Trung.",
+        "Mẫu câu giao tiếp với khách hàng trong các tình huống thường gặp.",
+        "Kỹ năng tiếp nhận và xử lý yêu cầu của khách hàng.",
+        "Hội thoại liên quan đến đơn hàng, giao hàng và hỗ trợ sau bán hàng.",
+        "Giao tiếp trong xử lý khiếu nại và phản hồi khách hàng.",
+        "Kỹ năng chăm sóc và duy trì mối quan hệ với khách hàng Trung Quốc.",
+        "Thực hành tình huống thực tế trong công việc chăm sóc khách hàng."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung với khách hàng trong môi trường làm việc thực tế.",
+        "Hiểu và sử dụng được thuật ngữ chăm sóc khách hàng bằng tiếng Trung.",
+        "Cải thiện khả năng xử lý yêu cầu và khiếu nại của khách hàng.",
+        "Nâng cao kỹ năng giao tiếp và xây dựng mối quan hệ với khách hàng Trung Quốc.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực CSKH và dịch vụ khách hàng.",
+        "Tự tin làm việc trong doanh nghiệp FDI, công ty thương mại và môi trường quốc tế."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
