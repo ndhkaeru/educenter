@@ -30,7 +30,7 @@
       "children": [
         {
           "label": "Tiếng Trung HSK",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-hsk"
         },
         {
           "label": "Tiếng Trung giao tiếp",
