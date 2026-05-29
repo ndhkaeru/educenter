@@ -1369,6 +1369,47 @@
       "secondaryLabel": "Xem tài liệu học",
       "secondaryUrl": "resources.html",
       "featured": true
+    },
+    {
+      "slug": "tieng-trung-ky-thuat",
+      "title": "Tiếng Trung Kỹ thuật",
+      "audienceLabel": "Người đi làm",
+      "duration": "Theo lộ trình",
+      "priceText": "Liên hệ để nhận học phí",
+      "image": "images/courses/course-1.jpg",
+      "excerpt": "Khóa học tiếng Trung Kỹ thuật giúp học viên sử dụng tiếng Trung hiệu quả trong công việc kỹ thuật, vận hành thiết bị và làm việc với kỹ sư hoặc chuyên gia Trung Quốc.",
+      "seoTitle": "Khóa học Tiếng Trung Kỹ thuật cho người đi làm",
+      "seoDescription": "Khóa học tiếng Trung Kỹ thuật dành cho kỹ thuật viên, kỹ sư và người đi làm, giúp nâng cao kỹ năng giao tiếp và sử dụng thuật ngữ kỹ thuật bằng tiếng Trung.",
+      "overview": "Khóa học Tiếng Trung Kỹ thuật được thiết kế dành cho kỹ thuật viên, kỹ sư và những người làm việc trong môi trường sản xuất có sử dụng tiếng Trung. Nội dung học tập trung vào từ vựng chuyên ngành kỹ thuật, giao tiếp công việc và các tình huống thực tế liên quan đến máy móc, thiết bị, quy trình sản xuất và bảo trì kỹ thuật.\n\nTrong quá trình học, học viên sẽ được làm quen với các thuật ngữ kỹ thuật thường gặp, cách trao đổi với kỹ sư, chuyên gia Trung Quốc và xử lý các tình huống phát sinh trong công việc. Khóa học giúp nâng cao khả năng sử dụng tiếng Trung chuyên ngành và tăng hiệu quả làm việc trong môi trường kỹ thuật thực tế.",
+      "audience": [
+        "Kỹ thuật viên và kỹ sư trong doanh nghiệp sản xuất.",
+        "Nhân viên bảo trì, vận hành máy móc thiết bị.",
+        "Nhân viên PE, IE và các bộ phận kỹ thuật liên quan.",
+        "Người thường xuyên làm việc với chuyên gia hoặc kỹ sư Trung Quốc.",
+        "Người muốn nâng cao tiếng Trung chuyên ngành kỹ thuật."
+      ],
+      "curriculum": [
+        "Từ vựng và thuật ngữ chuyên ngành kỹ thuật bằng tiếng Trung.",
+        "Mẫu câu giao tiếp trong môi trường kỹ thuật và sản xuất.",
+        "Hội thoại liên quan đến máy móc, thiết bị và dây chuyền sản xuất.",
+        "Giao tiếp trong bảo trì, sửa chữa và xử lý sự cố kỹ thuật.",
+        "Kỹ năng trao đổi với kỹ sư và chuyên gia Trung Quốc.",
+        "Hội thoại liên quan đến bản vẽ kỹ thuật, thông số và quy trình vận hành.",
+        "Thực hành tình huống thực tế trong công việc kỹ thuật."
+      ],
+      "outcomes": [
+        "Tự tin giao tiếp tiếng Trung trong môi trường kỹ thuật.",
+        "Hiểu và sử dụng được thuật ngữ kỹ thuật bằng tiếng Trung.",
+        "Cải thiện khả năng trao đổi công việc với kỹ sư và chuyên gia Trung Quốc.",
+        "Nâng cao hiệu quả xử lý sự cố và phối hợp công việc kỹ thuật.",
+        "Tăng khả năng ứng tuyển và phát triển nghề nghiệp trong lĩnh vực kỹ thuật.",
+        "Tự tin làm việc trong doanh nghiệp sản xuất và công ty FDI."
+      ],
+      "ctaLabel": "Nhận tư vấn khóa học",
+      "ctaUrl": "contact.html",
+      "secondaryLabel": "Xem tài liệu học",
+      "secondaryUrl": "resources.html",
+      "featured": true
     }
   ]
 }
