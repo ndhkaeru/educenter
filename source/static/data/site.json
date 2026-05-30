@@ -124,63 +124,63 @@
       "children": [
         {
           "label": "Đào tạo QA/QC",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-qa-qc"
         },
         {
           "label": "Đào tạo PMC",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-pmc"
         },
         {
           "label": "Đào tạo Kho vận",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-kho-van"
         },
         {
           "label": "Đào tạo Thu mua",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-thu-mua"
         },
         {
           "label": "Đào tạo Sản xuất",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-san-xuat"
         },
         {
           "label": "Đào tạo PE / IE",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-pe-ie"
         },
         {
           "label": "Đào tạo HR – Hành chính",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-hr-hanh-chinh"
         },
         {
           "label": "Đào tạo Xuất nhập khẩu",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-xuat-nhap-khau"
         },
         {
           "label": "Đào tạo Kỹ thuật sản xuất",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-ky-thuat-san-xuat"
         },
         {
           "label": "Đào tạo ISO",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-iso"
         },
         {
           "label": "Đào tạo Lean – 5S – Kaizen",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-lean-5s-kaizen"
         },
         {
           "label": "Đào tạo Audit nội bộ",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-audit-noi-bo"
         },
         {
           "label": "Đào tạo Kỹ năng quản lý",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-ky-nang-quan-ly"
         },
         {
           "label": "Đào tạo Tin học văn phòng",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-tin-hoc-van-phong"
         },
         {
           "label": "Đào tạo AI ứng dụng công việc công xưởng",
-          "url": "courses.html"
+          "url": "course-single.html?slug=dao-tao-ai-ung-dung-cong-viec-cong-xuong"
         }
       ]
     },
