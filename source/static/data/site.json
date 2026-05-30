@@ -34,15 +34,15 @@
         },
         {
           "label": "Tiếng Trung giao tiếp",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-giao-tiep"
         },
         {
           "label": "Tiếng Trung công xưởng",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-cong-xuong"
         },
         {
           "label": "Tiếng Trung văn phòng",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-van-phong"
         },
         {
           "label": "Tiếng Trung QA/QC",
