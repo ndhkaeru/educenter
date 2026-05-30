@@ -46,31 +46,31 @@
         },
         {
           "label": "Tiếng Trung QA/QC",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-qa-qc"
         },
         {
           "label": "Tiếng Trung PMC",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-pmc"
         },
         {
           "label": "Tiếng Trung Kho vận",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-kho-van"
         },
         {
           "label": "Tiếng Trung Thu mua",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-thu-mua"
         },
         {
           "label": "Tiếng Trung Sản xuất",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-san-xuat"
         },
         {
           "label": "Tiếng Trung PE",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-pe"
         },
         {
           "label": "Tiếng Trung IE",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-ie"
         },
         {
           "label": "Tiếng Trung HR – Hành chính nhân sự",
@@ -78,43 +78,43 @@
         },
         {
           "label": "Tiếng Trung EHS",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-ehs"
         },
         {
           "label": "Tiếng Trung IT",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-it"
         },
         {
           "label": "Tiếng Trung Kế toán",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-ke-toan"
         },
         {
           "label": "Tiếng Trung Xuất nhập khẩu",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-xuat-nhap-khau"
         },
         {
           "label": "Tiếng Trung Kỹ thuật",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-ky-thuat"
         },
         {
           "label": "Tiếng Trung Bảo trì máy móc",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-bao-tri-may-moc"
         },
         {
           "label": "Tiếng Trung CSKH",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-cham-soc-khach-hang"
         },
         {
           "label": "Tiếng Trung Sales",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-sales"
         },
         {
           "label": "Tiếng Trung Audit đối ứng khách hàng",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-audit-doi-ung-khach-hang"
         },
         {
           "label": "Tiếng Trung phiên dịch hiện trường",
-          "url": "courses.html"
+          "url": "course-single.html?slug=tieng-trung-phien-dich-hien-truong"
         }
       ]
     },
