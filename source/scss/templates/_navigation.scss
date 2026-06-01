@@ -135,7 +135,8 @@ link:focus,
 
 .navbar {
   
-  .nav-item > .dropdown-toggle::after {
+  .nav-item > .dropdown-toggle::after,
+  .dropdown-item.dropdown-toggle::after {
     border: 0;
     margin-left: 0.255em;
     vertical-align: 1px;
@@ -153,6 +154,8 @@ link:focus,
     }
     .dropdown-menu.dropdown-submenu {
       top: 0;
+      left: 100%;
+      margin-top: -10px;
       @include desktop {
         li:first-child {
           margin-top: 15px;
@@ -178,6 +181,9 @@ link:focus,
       padding-left: 5px;
       top: 96px;
       border-radius: 0;
+      min-width: 320px;
+      max-height: calc(100vh - 170px);
+      overflow-y: auto;
       display: block;
       visibility: hidden;
       transition: .3s ease;
@@ -198,7 +204,6 @@ link:focus,
       }
 
       &.show {
-        visibility: hidden;
 
         @include desktop {
           visibility: visible;
@@ -212,7 +217,7 @@ link:focus,
       position: relative;
       color: $text-color-dark;
       transition: .2s ease;
-      text-transform: capitalize;
+      text-transform: none;
       font-family: $primary-font;
 
       @include desktop {
@@ -226,3 +231,4 @@ link:focus,
     }
   }
 }
+

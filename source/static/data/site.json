@@ -14,5 +14,191 @@
   "facebookText": "https://www.facebook.com/profile.php?id=61587615137572",
   "facebookUrl": "https://www.facebook.com/profile.php?id=61587615137572",
   "address": "Khu vực dạy online toàn quốc",
-  "copyright": "Tiếng Trung Công Xưởng 365"
+  "copyright": "Tiếng Trung Công Xưởng 365",
+  "navigation": [
+    {
+      "label": "Trang chủ",
+      "url": "index.html"
+    },
+    {
+      "label": "Giới thiệu",
+      "url": "about.html"
+    },
+    {
+      "label": "Đào tạo Tiếng Trung",
+      "url": "courses.html",
+      "children": [
+        {
+          "label": "Tiếng Trung HSK",
+          "url": "course-single.html?slug=tieng-trung-hsk"
+        },
+        {
+          "label": "Tiếng Trung giao tiếp",
+          "url": "course-single.html?slug=tieng-trung-giao-tiep"
+        },
+        {
+          "label": "Tiếng Trung công xưởng",
+          "url": "course-single.html?slug=tieng-trung-cong-xuong"
+        },
+        {
+          "label": "Tiếng Trung văn phòng",
+          "url": "course-single.html?slug=tieng-trung-van-phong"
+        },
+        {
+          "label": "Tiếng Trung QA/QC",
+          "url": "course-single.html?slug=tieng-trung-qa-qc"
+        },
+        {
+          "label": "Tiếng Trung PMC",
+          "url": "course-single.html?slug=tieng-trung-pmc"
+        },
+        {
+          "label": "Tiếng Trung Kho vận",
+          "url": "course-single.html?slug=tieng-trung-kho-van"
+        },
+        {
+          "label": "Tiếng Trung Thu mua",
+          "url": "course-single.html?slug=tieng-trung-thu-mua"
+        },
+        {
+          "label": "Tiếng Trung Sản xuất",
+          "url": "course-single.html?slug=tieng-trung-san-xuat"
+        },
+        {
+          "label": "Tiếng Trung PE",
+          "url": "course-single.html?slug=tieng-trung-pe"
+        },
+        {
+          "label": "Tiếng Trung IE",
+          "url": "course-single.html?slug=tieng-trung-ie"
+        },
+        {
+          "label": "Tiếng Trung HR – Hành chính nhân sự",
+          "url": "course-single.html?slug=tieng-trung-hr-hanh-chinh-nhan-su"
+        },
+        {
+          "label": "Tiếng Trung EHS",
+          "url": "course-single.html?slug=tieng-trung-ehs"
+        },
+        {
+          "label": "Tiếng Trung IT",
+          "url": "course-single.html?slug=tieng-trung-it"
+        },
+        {
+          "label": "Tiếng Trung Kế toán",
+          "url": "course-single.html?slug=tieng-trung-ke-toan"
+        },
+        {
+          "label": "Tiếng Trung Xuất nhập khẩu",
+          "url": "course-single.html?slug=tieng-trung-xuat-nhap-khau"
+        },
+        {
+          "label": "Tiếng Trung Kỹ thuật",
+          "url": "course-single.html?slug=tieng-trung-ky-thuat"
+        },
+        {
+          "label": "Tiếng Trung Bảo trì máy móc",
+          "url": "course-single.html?slug=tieng-trung-bao-tri-may-moc"
+        },
+        {
+          "label": "Tiếng Trung CSKH",
+          "url": "course-single.html?slug=tieng-trung-cham-soc-khach-hang"
+        },
+        {
+          "label": "Tiếng Trung Sales",
+          "url": "course-single.html?slug=tieng-trung-sales"
+        },
+        {
+          "label": "Tiếng Trung Audit đối ứng khách hàng",
+          "url": "course-single.html?slug=tieng-trung-audit-doi-ung-khach-hang"
+        },
+        {
+          "label": "Tiếng Trung phiên dịch hiện trường",
+          "url": "course-single.html?slug=tieng-trung-phien-dich-hien-truong"
+        }
+      ]
+    },
+    {
+      "label": "Đào tạo Nghề",
+      "url": "courses.html",
+      "children": [
+        {
+          "label": "Đào tạo QA/QC",
+          "url": "course-single.html?slug=dao-tao-qa-qc"
+        },
+        {
+          "label": "Đào tạo PMC",
+          "url": "course-single.html?slug=dao-tao-pmc"
+        },
+        {
+          "label": "Đào tạo Kho vận",
+          "url": "course-single.html?slug=dao-tao-kho-van"
+        },
+        {
+          "label": "Đào tạo Thu mua",
+          "url": "course-single.html?slug=dao-tao-thu-mua"
+        },
+        {
+          "label": "Đào tạo Sản xuất",
+          "url": "course-single.html?slug=dao-tao-san-xuat"
+        },
+        {
+          "label": "Đào tạo PE / IE",
+          "url": "course-single.html?slug=dao-tao-pe-ie"
+        },
+        {
+          "label": "Đào tạo HR – Hành chính",
+          "url": "course-single.html?slug=dao-tao-hr-hanh-chinh"
+        },
+        {
+          "label": "Đào tạo Xuất nhập khẩu",
+          "url": "course-single.html?slug=dao-tao-xuat-nhap-khau"
+        },
+        {
+          "label": "Đào tạo Kỹ thuật sản xuất",
+          "url": "course-single.html?slug=dao-tao-ky-thuat-san-xuat"
+        },
+        {
+          "label": "Đào tạo ISO",
+          "url": "course-single.html?slug=dao-tao-iso"
+        },
+        {
+          "label": "Đào tạo Lean – 5S – Kaizen",
+          "url": "course-single.html?slug=dao-tao-lean-5s-kaizen"
+        },
+        {
+          "label": "Đào tạo Audit nội bộ",
+          "url": "course-single.html?slug=dao-tao-audit-noi-bo"
+        },
+        {
+          "label": "Đào tạo Kỹ năng quản lý",
+          "url": "course-single.html?slug=dao-tao-ky-nang-quan-ly"
+        },
+        {
+          "label": "Đào tạo Tin học văn phòng",
+          "url": "course-single.html?slug=dao-tao-tin-hoc-van-phong"
+        },
+        {
+          "label": "Đào tạo AI ứng dụng công việc",
+          "url": "course-single.html?slug=dao-tao-ai-ung-dung-cong-viec"
+        }
+      ]
+    },
+    {
+      "label": "Blog",
+      "url": "blog.html"
+    },
+    {
+      "label": "Tài liệu",
+      "url": "resources.html"
+    },
+    {
+      "label": "Feedback",
+      "url": "feedback.html"
+    },
+    {
+      "label": "Liên hệ",
+      "url": "contact.html"
+    }
+  ]
 }

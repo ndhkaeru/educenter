@@ -90,6 +90,27 @@ content:
       - { name: facebookUrl, label: Liên kết Facebook, type: string, required: true }
       - { name: address, label: Địa chỉ hoặc khu vực phục vụ, type: string, required: true }
       - { name: copyright, label: Copyright, type: string, required: true }
+      - name: navigation
+        label: Menu chính
+        type: object
+        list: true
+        fields:
+          - { name: label, label: Tên menu, type: string, required: true }
+          - { name: url, label: Liên kết, type: string, required: true }
+          - name: children
+            label: Dropdown cấp 1
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Tên mục, type: string, required: true }
+              - { name: url, label: Liên kết, type: string, required: true }
+              - name: children
+                label: Dropdown cấp 2
+                type: object
+                list: true
+                fields:
+                  - { name: label, label: Tên mục, type: string, required: true }
+                  - { name: url, label: Liên kết, type: string, required: true }
 
   - name: home
     label: Trang chủ
@@ -532,8 +553,6 @@ content:
                 label: Danh sách gạch đầu dòng
                 type: text
                 list: true
-          - { name: ctaLabel, label: Tên nút cuối bài, type: string, required: true }
-          - { name: ctaUrl, label: Liên kết nút cuối bài, type: string, required: true }
           - { name: featured, label: Nổi bật trên trang chủ, type: boolean, default: true }
 
   - name: courses
