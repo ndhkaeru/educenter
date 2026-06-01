@@ -605,7 +605,9 @@
     setLink('#cms-course-single-button', item.ctaUrl);
     setText('#cms-course-single-button', item.ctaLabel);
     setRichText('#cms-course-single-overview', item.overview, 'p');
-    setHtml('#cms-course-single-audience', listMarkup(item.audience, 'list-styled'));
+    setHtml('#cms-course-single-audience', (item.audience || []).map(function (entry) {
+      return '<li>' + escapeHtml(entry) + '</li>';
+    }).join(''));
     setHtml('#cms-course-single-curriculum', (item.curriculum || []).map(function (entry) {
       return '<li>' + escapeHtml(entry) + '</li>';
     }).join(''));
