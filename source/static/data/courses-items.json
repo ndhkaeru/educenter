@@ -1478,16 +1478,16 @@
       "featured": true
     },
     {
-      "slug": "dao-tao-ai-ung-dung-cong-viec-cong-xuong",
-      "title": "Đào tạo AI ứng dụng công việc công xưởng",
+      "slug": "dao-tao-ai-ung-dung-cong-viec",
+      "title": "Đào tạo AI ứng dụng công việc",
       "audienceLabel": "Người đi làm",
       "duration": "Theo lộ trình",
       "priceText": "Liên hệ để nhận học phí",
       "image": "images/courses/course-single.jpg",
-      "excerpt": "Khóa đào tạo AI ứng dụng công việc công xưởng giúp học viên biết cách sử dụng AI để hỗ trợ báo cáo, phân tích dữ liệu, xử lý công việc và nâng cao hiệu quả làm việc trong nhà máy.",
-      "seoTitle": "Khóa đào tạo AI ứng dụng công việc công xưởng cho người đi làm",
-      "seoDescription": "Khóa đào tạo AI ứng dụng công việc công xưởng dành cho người đi làm trong nhà máy, giúp nâng cao kỹ năng sử dụng AI để hỗ trợ báo cáo, quản lý và xử lý công việc thực tế.",
-      "overview": "Khóa đào tạo AI ứng dụng công việc công xưởng được thiết kế dành cho người đi làm trong môi trường nhà máy và doanh nghiệp sản xuất. Nội dung học tập trung vào cách ứng dụng công nghệ AI vào công việc hàng ngày nhằm nâng cao hiệu quả xử lý công việc, tiết kiệm thời gian và hỗ trợ quản lý sản xuất.\n\nTrong quá trình học, học viên sẽ được hướng dẫn cách sử dụng AI để viết báo cáo, phân tích dữ liệu, xử lý email, tạo SOP, hỗ trợ dịch thuật và tối ưu các công việc văn phòng, kỹ thuật và quản lý trong công xưởng. Khóa học phù hợp cho cả người chưa có kiến thức về AI và người muốn ứng dụng AI thực tế vào công việc.",
+      "excerpt": "Khóa đào tạo AI ứng dụng công việc giúp học viên biết cách sử dụng AI để hỗ trợ báo cáo, phân tích dữ liệu, xử lý công việc và nâng cao hiệu quả làm việc trong nhà máy.",
+      "seoTitle": "Khóa đào tạo AI ứng dụng công việc cho người đi làm",
+      "seoDescription": "Khóa đào tạo AI ứng dụng công việc dành cho người đi làm trong nhà máy, giúp nâng cao kỹ năng sử dụng AI để hỗ trợ báo cáo, quản lý và xử lý công việc thực tế.",
+      "overview": "Khóa đào tạo AI ứng dụng công việc được thiết kế dành cho người đi làm trong môi trường nhà máy và doanh nghiệp sản xuất. Nội dung học tập trung vào cách ứng dụng công nghệ AI vào công việc hàng ngày nhằm nâng cao hiệu quả xử lý công việc, tiết kiệm thời gian và hỗ trợ quản lý sản xuất.\n\nTrong quá trình học, học viên sẽ được hướng dẫn cách sử dụng AI để viết báo cáo, phân tích dữ liệu, xử lý email, tạo SOP, hỗ trợ dịch thuật và tối ưu các công việc văn phòng, kỹ thuật và quản lý trong công xưởng. Khóa học phù hợp cho cả người chưa có kiến thức về AI và người muốn ứng dụng AI thực tế vào công việc.",
       "audience": [
         "Nhân viên văn phòng và sản xuất trong doanh nghiệp.",
         "Nhân viên QA/QC, PMC, PE, IE, HR và các bộ phận hỗ trợ.",
