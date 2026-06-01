@@ -145,6 +145,79 @@ link:focus,
     font-size: 11px;
     width: auto;
   }
+
+  @include desktop {
+    .navbar-collapse {
+      border-top: 1px solid rgba($white, .12);
+    }
+
+    .navbar-nav {
+      text-align: left !important;
+    }
+
+    .nav-item {
+      margin: 0;
+      border-bottom: 1px solid rgba($white, .1);
+
+      &::before {
+        display: none;
+      }
+    }
+
+    .nav-link {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      line-height: 1.45;
+      padding: 14px 18px !important;
+    }
+
+    .nav-item > .dropdown-toggle::after,
+    .dropdown-item.dropdown-toggle::after {
+      margin-left: 12px;
+      transition: transform .2s ease;
+    }
+
+    .dropdown-toggle[aria-expanded="true"]::after {
+      transform: rotate(180deg);
+    }
+
+    .dropdown-menu {
+      background: rgba($black, .12);
+      box-shadow: none;
+      max-height: none;
+      min-width: 0;
+      overflow: visible;
+      padding: 4px 0 10px 0;
+      width: 100%;
+    }
+
+    .dropdown-menu li {
+      padding: 0 !important;
+    }
+
+    .dropdown-menu.dropdown-submenu {
+      background: rgba($black, .08);
+      padding-left: 12px;
+    }
+
+    .dropdown-item {
+      color: rgba($white, .92);
+      display: flex;
+      justify-content: space-between;
+      line-height: 1.45;
+      padding: 10px 28px;
+      text-align: left;
+      white-space: normal;
+    }
+
+    .dropdown-item:hover,
+    .dropdown-item:focus {
+      color: $white;
+      background: rgba($white, .08);
+    }
+  }
+
   .dropdown {
     .dropdown-menu li {
       padding-top: 10px;
@@ -231,4 +304,44 @@ link:focus,
     }
   }
 }
+@include desktop {
+  .navbar {
+    .dropdown-menu {
+      background: rgba($black, .12);
+      border: 0;
+      box-shadow: none;
+      max-height: none;
+      min-width: 0;
+      overflow: visible;
+      padding: 4px 0 10px;
+      width: 100%;
+    }
 
+    .dropdown-menu.dropdown-submenu {
+      background: rgba($black, .08);
+      margin-top: 0;
+      padding-left: 12px;
+    }
+
+    .dropdown-menu li,
+    .dropdown-menu li:last-child {
+      padding: 0 !important;
+    }
+
+    .dropdown-item {
+      color: rgba($white, .92);
+      display: flex;
+      justify-content: space-between;
+      line-height: 1.45;
+      padding: 10px 28px;
+      text-align: left;
+      white-space: normal;
+    }
+
+    .dropdown-item:hover,
+    .dropdown-item:focus {
+      color: $white;
+      background: rgba($white, .08);
+    }
+  }
+}
