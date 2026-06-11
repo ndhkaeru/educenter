@@ -1,0 +1,118 @@
+name: Add Blog Post
+
+on:
+  push:
+    branches: [cms-draft]
+    paths:
+      - 'new-posts/**.json'
+  workflow_dispatch:
+
+jobs:
+  append-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: cms-draft
+          token: ${{ secrets.BLOG_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Merge new posts into blog-posts.json
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          const blogPath = 'source/static/data/blog-posts.json';
+          const newPostsDir = 'new-posts';
+
+          if (!fs.existsSync(newPostsDir)) {
+            console.log('No new-posts directory, nothing to do.');
+            process.exit(0);
+          }
+
+          const newFiles = fs.readdirSync(newPostsDir)
+            .filter(f => f.endsWith('.json'))
+            .sort();
+
+          if (newFiles.length === 0) {
+            console.log('No new posts to process.');
+            process.exit(0);
+          }
+
+          if (!fs.existsSync(blogPath)) {
+            console.error('blog-posts.json not found at: ' + blogPath);
+            process.exit(1);
+          }
+
+          const blogData = JSON.parse(fs.readFileSync(blogPath, 'utf-8'));
+          if (!blogData.items) blogData.items = [];
+
+          const existingSlugs = new Set(blogData.items.map(it => it.slug));
+          let added = 0;
+          let skipped = 0;
+
+          for (const file of newFiles) {
+            const filePath = path.join(newPostsDir, file);
+            let newPost;
+            try {
+              newPost = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+            } catch (e) {
+              console.error('[ERROR] Cannot parse ' + file + ': ' + e.message);
+              continue;
+            }
+
+            if (!newPost.slug || !newPost.title) {
+              console.error('[ERROR] ' + file + ' missing required fields (slug or title)');
+              continue;
+            }
+
+            if (existingSlugs.has(newPost.slug)) {
+              console.log('[SKIP] Duplicate slug: ' + newPost.slug);
+              fs.unlinkSync(filePath);
+              skipped++;
+              continue;
+            }
+
+            blogData.items.push(newPost);
+            existingSlugs.add(newPost.slug);
+            console.log('[ADD]  ' + newPost.slug + ' - ' + newPost.title);
+
+            fs.unlinkSync(filePath);
+            added++;
+          }
+
+          fs.writeFileSync(blogPath, JSON.stringify(blogData, null, 2) + '\n', 'utf-8');
+          console.log('\nSummary: ' + added + ' added, ' + skipped + ' skipped (duplicates).');
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Blog Auto Bot"
+          git config user.email "blog-bot@users.noreply.github.com"
+          git add source/static/data/blog-posts.json new-posts/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            COUNT=$(git diff --cached --name-only | grep -c "new-posts/" || true)
+            git commit -m "blog: auto-merge $COUNT new post(s) into blog-posts.json [skip ci]"
+            git push origin cms-draft
+            echo "Successfully pushed updates."
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Blog Auto-Add Result" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- Branch: cms-draft" >> $GITHUB_STEP_SUMMARY
+          echo "- Trigger: file added to new-posts/ folder" >> $GITHUB_STEP_SUMMARY
+          echo "- Next step: review on Pages CMS, then merge to main to publish." >> $GITHUB_STEP_SUMMARY
